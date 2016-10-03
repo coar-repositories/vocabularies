@@ -47,5 +47,5 @@ The following concepts have been declared as deprecated and may remove in future
 
 The following concepts have been added to the vocabulary:
 
-* <a href="http://purl.org/coar/resource_type/c_" target="_blank">review article</a>
-* <a href="http://purl.org/coar/resource_type/c_" target="_blank">research article</a>
+* <a href="http://purl.org/coar/resource_type/c_dcae04bc" target="_blank">review article</a>
+* <a href="http://purl.org/coar/resource_type/c_2df8fbb1" target="_blank">research article</a>
