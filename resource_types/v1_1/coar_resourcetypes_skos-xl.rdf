@@ -7580,7 +7580,7 @@ A memorandum can have only a certain number of formats; it may have a format spe
 </rdf:Description>
 
 <rdf:Description rdf:about="http://purl.org/coar/resource_type/c_1162">
-	<skos:exactMatch rdf:resource="&#x9; http://purl.org/info:eu-repo/#semantics/annotation"/>
+	<skos:exactMatch rdf:resource="http://purl.org/info:eu-repo/#semantics/annotation"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://purl.org/coar/resource_type/c_6501">
