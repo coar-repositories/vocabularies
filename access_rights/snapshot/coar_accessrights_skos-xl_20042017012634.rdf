@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://purl.org/coar/access_right/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_098e1e85">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_912bbf0d">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_b6cb1738">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_fdf68ccc">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_6c25ea8c">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_06231871">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_9b4593e3">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_c171be05">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_dd695122">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_815f362d">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d407a72a">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_ca81d5db">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_7db0a845">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f1b011c7">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_0c629e74">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_548188f2">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d2000f89">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f14878c4">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_b51acdc1">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_91a4dc61">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_4a0fcd4f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_174e5f2a">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_aa526684">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_a3660843">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_92e51d09">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f53889fe">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_dc852f2f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_44b1d2ed">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_641e2edc">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_f829170b">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_5d0f187a">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_c7b05c00">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09ee2f0f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_15c1b6d8">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_164728e3">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_6376ab2a">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_85cfec33">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_675ec0c2">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c71f7c27">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_82c44592">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c3db6dcd">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_92aa5558">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_d29a5a4a">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_e9ebecd2">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f250db91">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_3ff6ebe6">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_4cf48e25">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ce17ec2b">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09bdfee9">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f6fb477f">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ddcb79f8">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_6936300e">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_df7ed107">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_8cd74eab">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_a6db8fe3">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_8a7f2709">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_c2b89582">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_bcabdaa9">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_b7d28156">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_e1424bf0">
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_ec7bf438">
+	<rdf:value xml:lang="en">Open access refers to a resource that is immediately and permanently online, and free for all on the Web, without financial and technical barriers.</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_ba6df2d6">
+	<rdf:value xml:lang="en">Metadata only access refers to a resource in which access is limited to metadata only. The resource itself is described by the metadata, but is not directly available through the system or platform. This type of access can occur in a number of different situations. Some examples are described below:
+There is no electronic copy of the resource available (record links to a physical resource)
+The resource is only available elsewhere for a fee (record links to a subscription-based publisher version)
+The resource is available open access but at a different location (record links to a version at an open access publisher or archive)
+The resource is available elsewhere, but not in a fully open access format (record links to a read only, or other type of resources that is not permanent or in some way restricted)
+</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_0f4afbac">
+	<rdf:value xml:lang="en">Embargoed access refers to a resource that is metadata only access until released for open access on a certain date. Embargoes can be required by publishers and funders policies, or set by the author (e.g such as in the case of theses and dissertations).</rdf:value>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_bb394a5b">
+	<rdf:value xml:lang="en">Restricted access refers to a resource that is available in a system but with some type of restriction for full open access. This type of access can occur in a number of different situations. Some examples are described below:
+The user must log-in to the system in order to access the resource
+The user must send an email to the author or system administrator to access the resource
+Access to the resource is restricted to a specific community (e.g. limited to a university community)</rdf:value>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skos:definition rdf:resource="http://purl.org/coar/access_right/xDef_ec7bf438"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skos:definition rdf:resource="http://purl.org/coar/access_right/xDef_ba6df2d6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skos:definition rdf:resource="http://purl.org/coar/access_right/xDef_0f4afbac"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skos:definition rdf:resource="http://purl.org/coar/access_right/xDef_bb394a5b"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skos:inScheme rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skos:inScheme rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skos:inScheme rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skos:inScheme rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skos:topConceptOf rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skos:topConceptOf rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skos:topConceptOf rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skos:topConceptOf rdf:resource="http://purl.org/coar/access_right"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_098e1e85">
+	<skosxl:literalForm xml:lang="en">open access</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_912bbf0d">
+	<skosxl:literalForm xml:lang="en">embargoed access</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_b6cb1738">
+	<skosxl:literalForm xml:lang="en">restricted access</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_fdf68ccc">
+	<skosxl:literalForm xml:lang="en">metadata only access</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_6c25ea8c">
+	<skosxl:literalForm xml:lang="es">acceso embargado</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_06231871">
+	<skosxl:literalForm xml:lang="es">acceso con periodo de carencia</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_9b4593e3">
+	<skosxl:literalForm xml:lang="es">acceso con periodo de embargo</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_c171be05">
+	<skosxl:literalForm xml:lang="es">acceso abierto</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_815f362d">
+	<skosxl:literalForm xml:lang="es">acceso a metadatos</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d407a72a">
+	<skosxl:literalForm xml:lang="es">acceso a registro bibliográfico</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_ca81d5db">
+	<skosxl:literalForm xml:lang="es">acceso a registro bibliografico</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_7db0a845">
+	<skosxl:literalForm xml:lang="es">acceso restringido</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f1b011c7">
+	<skosxl:literalForm xml:lang="es">acceso bajo restricciones</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_548188f2">
+	<skosxl:literalForm xml:lang="es">acceso gratuito bajo restricciones</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_0c629e74">
+	<skosxl:literalForm xml:lang="es">acceso gratuito mediado</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_dd695122">
+	<skosxl:literalForm xml:lang="es">acceso abierto gratuito</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d2000f89">
+	<skosxl:literalForm xml:lang="es">acceso público</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f14878c4">
+	<skosxl:literalForm xml:lang="es">registro bibliográfico</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_b51acdc1">
+	<skosxl:literalForm xml:lang="es">acceso a metadatos solamente</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_91a4dc61">
+	<skosxl:literalForm xml:lang="es">registro bibliografico</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_4a0fcd4f">
+	<skosxl:literalForm xml:lang="es">acceso bajo condiciones</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_174e5f2a">
+	<skosxl:literalForm xml:lang="es">acceso con limitaciones</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_aa526684">
+	<skosxl:literalForm xml:lang="es">acceso bajo período de embargo</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_a3660843">
+	<skosxl:literalForm xml:lang="es">acceso bajo periodo de embargo</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_92e51d09">
+	<skosxl:literalForm xml:lang="es">depósito oscuro</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f53889fe">
+	<skosxl:literalForm xml:lang="es">deposito oscuro</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_dc852f2f">
+	<skosxl:literalForm xml:lang="tr">sadece üstveri erişimi</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_44b1d2ed">
+	<skosxl:literalForm xml:lang="tr">sadece metadata erişimi</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_641e2edc">
+	<skosxl:literalForm xml:lang="tr">sınırlı erişim</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_f829170b">
+	<skosxl:literalForm xml:lang="tr">kısıtlı erişim</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_5d0f187a">
+	<skosxl:literalForm xml:lang="tr">açık erişim</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_c7b05c00">
+	<skosxl:literalForm xml:lang="tr">ambargolu erişim</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09ee2f0f">
+	<skosxl:literalForm xml:lang="fr">libre accès</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_15c1b6d8">
+	<skosxl:literalForm xml:lang="fr">accès ouvert</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_164728e3">
+	<skosxl:literalForm xml:lang="fr">accès libre</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_6376ab2a">
+	<skosxl:literalForm xml:lang="fr">open access</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_85cfec33">
+	<skosxl:literalForm xml:lang="fr">accès aux seules métadonnées</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_675ec0c2">
+	<skosxl:literalForm xml:lang="fr">libre accès aux seules métadonnées</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c71f7c27">
+	<skosxl:literalForm xml:lang="fr">accès limité aux métadonnées</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_82c44592">
+	<skosxl:literalForm xml:lang="fr">accès uniquement aux métadonnées</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c3db6dcd">
+	<skosxl:literalForm xml:lang="fr">accès restreint aux métadonnées</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_92aa5558">
+	<skosxl:literalForm xml:lang="fr">sous embargo</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_d29a5a4a">
+	<skosxl:literalForm xml:lang="fr">libre accès après durée d'embargo</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_e9ebecd2">
+	<skosxl:literalForm xml:lang="fr">accès libre retardé</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f250db91">
+	<skosxl:literalForm xml:lang="fr">libre accès différé</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_3ff6ebe6">
+	<skosxl:literalForm xml:lang="fr">accès sous embargo</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_4cf48e25">
+	<skosxl:literalForm xml:lang="fr">accès restreint</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ce17ec2b">
+	<skosxl:literalForm xml:lang="fr">accès sous condition</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09bdfee9">
+	<skosxl:literalForm xml:lang="fr">accès limité</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f6fb477f">
+	<skosxl:literalForm xml:lang="fr">accès aux abonnés</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ddcb79f8">
+	<skosxl:literalForm xml:lang="fr">accès réservé</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_6936300e">
+	<skosxl:literalForm xml:lang="ja">メタデータのみ</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_df7ed107">
+	<skosxl:literalForm xml:lang="ja">アクセス制限有</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_8cd74eab">
+	<skosxl:literalForm xml:lang="ja">オープンアクセス</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_a6db8fe3">
+	<skosxl:literalForm xml:lang="ja">エンバーゴ有</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_8a7f2709">
+	<skosxl:literalForm xml:lang="de">eingeschränkter Zugang</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_c2b89582">
+	<skosxl:literalForm xml:lang="de">offener Zugang</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_bcabdaa9">
+	<skosxl:literalForm xml:lang="de">freier Zugang</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_b7d28156">
+	<skosxl:literalForm xml:lang="de">nur Metadaten</skosxl:literalForm>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_e1424bf0">
+	<skosxl:literalForm xml:lang="de">Zugang unterliegt Embargo</skosxl:literalForm>
+</rdf:Description>
+
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_en_098e1e85"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_en_912bbf0d"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_en_b6cb1738"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_en_fdf68ccc"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_es_6c25ea8c"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_es_c171be05"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_es_815f362d"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_es_7db0a845"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_tr_dc852f2f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_tr_641e2edc"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_tr_5d0f187a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_tr_c7b05c00"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_09ee2f0f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_85cfec33"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_92aa5558"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_ddcb79f8"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_ja_6936300e"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_ja_df7ed107"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_ja_8cd74eab"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_ja_a6db8fe3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_de_8a7f2709"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_de_c2b89582"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_de_b7d28156"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:prefLabel rdf:resource="http://purl.org/coar/access_right/xl_de_e1424bf0"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_06231871"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_9b4593e3"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_dd695122"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_d407a72a"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_ca81d5db"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_f1b011c7"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_0c629e74"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_548188f2"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_d2000f89"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_f14878c4"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_b51acdc1"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_91a4dc61"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_4a0fcd4f"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_174e5f2a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_aa526684"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_a3660843"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_92e51d09"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_es_f53889fe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_tr_44b1d2ed"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_tr_f829170b"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_15c1b6d8"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_164728e3"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_6376ab2a"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_675ec0c2"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_c71f7c27"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_82c44592"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_c3db6dcd"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_d29a5a4a"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_e9ebecd2"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_f250db91"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_3ff6ebe6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_4cf48e25"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_ce17ec2b"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_09bdfee9"/>
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_fr_f6fb477f"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<skosxl:altLabel rdf:resource="http://purl.org/coar/access_right/xl_de_bcabdaa9"/>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_098e1e85">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_912bbf0d">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_b6cb1738">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_fdf68ccc">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_6c25ea8c">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_06231871">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_9b4593e3">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_c171be05">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_dd695122">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_815f362d">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d407a72a">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_ca81d5db">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_7db0a845">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f1b011c7">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_0c629e74">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_548188f2">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d2000f89">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f14878c4">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_b51acdc1">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_91a4dc61">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_4a0fcd4f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_174e5f2a">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_aa526684">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_a3660843">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_92e51d09">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f53889fe">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_dc852f2f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_44b1d2ed">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_641e2edc">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_f829170b">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_5d0f187a">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_c7b05c00">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09ee2f0f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_15c1b6d8">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_164728e3">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_6376ab2a">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_85cfec33">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_675ec0c2">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c71f7c27">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_82c44592">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c3db6dcd">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_92aa5558">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_d29a5a4a">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_e9ebecd2">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f250db91">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_3ff6ebe6">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_4cf48e25">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ce17ec2b">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09bdfee9">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f6fb477f">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ddcb79f8">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_6936300e">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_df7ed107">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_8cd74eab">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_a6db8fe3">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_8a7f2709">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_c2b89582">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_bcabdaa9">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_b7d28156">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_e1424bf0">
+	<hasStatus xmlns="http://art.uniroma2.it/ontologies/vocbench#">Published</hasStatus>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T12:30:59Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_098e1e85">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T12:30:59Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T13:55:08Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_912bbf0d">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T13:55:08Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T13:56:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_b6cb1738">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T13:56:13Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T13:56:50Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_en_fdf68ccc">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-17T13:56:50Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_6c25ea8c">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:08:40Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_06231871">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:09:01Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_9b4593e3">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:09:41Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_c171be05">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:10:47Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_dd695122">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:11:19Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_815f362d">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:15:41Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d407a72a">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:16:04Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_ca81d5db">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:16:20Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_7db0a845">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:17:38Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f1b011c7">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:19:39Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_0c629e74">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:19:51Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_548188f2">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:26:49Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d2000f89">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-23T11:27:53Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f14878c4">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:14:50Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_b51acdc1">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:15:27Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_91a4dc61">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:15:59Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_4a0fcd4f">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:18:01Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_174e5f2a">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:18:19Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_aa526684">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:18:58Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_a3660843">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-30T23:19:09Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_92e51d09">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-31T21:05:59Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f53889fe">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-03-31T21:06:11Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_dc852f2f">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-14T10:32:56Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_44b1d2ed">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-14T10:33:19Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_641e2edc">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-14T10:33:36Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_f829170b">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-14T10:33:54Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_5d0f187a">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-14T10:34:15Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_c7b05c00">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-14T10:34:33Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09ee2f0f">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:28:19Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_15c1b6d8">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:28:43Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_164728e3">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:28:58Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_6376ab2a">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:29:09Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_85cfec33">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:30:22Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_675ec0c2">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:30:41Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c71f7c27">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:31:02Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_82c44592">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:33:48Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c3db6dcd">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:34:00Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_92aa5558">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:35:18Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_d29a5a4a">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:35:32Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_e9ebecd2">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:35:49Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f250db91">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:36:00Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_3ff6ebe6">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:36:15Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_4cf48e25">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:36:57Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ce17ec2b">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:37:04Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09bdfee9">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:37:12Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f6fb477f">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:37:21Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ddcb79f8">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-19T12:37:31Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_6936300e">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T02:32:32Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_df7ed107">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T02:33:36Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_8cd74eab">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T02:34:02Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_a6db8fe3">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T02:34:18Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_8a7f2709">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T11:06:27Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_c2b89582">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T11:07:25Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_bcabdaa9">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T11:07:32Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_b7d28156">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T11:08:52Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_e1424bf0">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T11:10:06Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_ec7bf438">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:14:28Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_ba6df2d6">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:16:25Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_0f4afbac">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:17:08Z</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_bb394a5b">
+	<dct:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:17:41Z</dct:created>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xDef_ec7bf438">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:15:04Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_6c25ea8c">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:12Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_7db0a845">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:12Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_06231871">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_9b4593e3">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d407a72a">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:13Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_c171be05">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_815f362d">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_ca81d5db">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f1b011c7">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_548188f2">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:14Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_0c629e74">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_b51acdc1">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_4a0fcd4f">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_aa526684">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_92e51d09">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_dc852f2f">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:30Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_dd695122">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_d2000f89">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f14878c4">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_91a4dc61">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_174e5f2a">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_a3660843">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_es_f53889fe">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_44b1d2ed">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_641e2edc">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:31Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_f829170b">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_5d0f187a">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_tr_c7b05c00">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09ee2f0f">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_15c1b6d8">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_164728e3">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_85cfec33">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_675ec0c2">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c71f7c27">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_82c44592">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_c3db6dcd">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:46Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_6376ab2a">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:24:47Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_92aa5558">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:06Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_d29a5a4a">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:06Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_3ff6ebe6">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:06Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f6fb477f">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:06Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_df7ed107">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:06Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_e9ebecd2">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_f250db91">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_4cf48e25">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ce17ec2b">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_09bdfee9">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_fr_ddcb79f8">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_6936300e">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_8cd74eab">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_ja_a6db8fe3">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:07Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_abf2">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_f1cf">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_16ec">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/c_14cb">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_8a7f2709">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_c2b89582">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_bcabdaa9">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_b7d28156">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/coar/access_right/xl_de_e1424bf0">
+	<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-04-20T13:25:20Z</dct:modified>
+</rdf:Description>
+
+</rdf:RDF>
