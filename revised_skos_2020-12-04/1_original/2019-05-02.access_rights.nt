@@ -1,0 +1,845 @@
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://purl/coar/classification_scheme/xl_en_104e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_4978ed2567398874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_86d0d7f17a3890a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_07c7759953917c9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_c6b08b3edf7940e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_4711b34d2c380b90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_d5979c6654d7bf61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_803aac0d4ed02305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_en_1c8d2eca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_en_098e1e85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_en_912bbf0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_en_b6cb1738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_en_fdf68ccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_6c25ea8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_06231871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_9b4593e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_c171be05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_dd695122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_815f362d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_d407a72a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_ca81d5db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_7db0a845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_f1b011c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_0c629e74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_548188f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_d2000f89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_f14878c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_b51acdc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_91a4dc61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_4a0fcd4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_174e5f2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_aa526684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_a3660843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_92e51d09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_es_f53889fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_tr_dc852f2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_tr_44b1d2ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_tr_641e2edc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_tr_f829170b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_tr_5d0f187a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_tr_c7b05c00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_09ee2f0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_15c1b6d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_164728e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_6376ab2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_85cfec33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_675ec0c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_c71f7c27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_82c44592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_c3db6dcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_92aa5558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_d29a5a4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_e9ebecd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_f250db91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_3ff6ebe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_4cf48e25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_ce17ec2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_09bdfee9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_f6fb477f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_fr_ddcb79f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ja_6936300e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ja_df7ed107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ja_8cd74eab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ja_a6db8fe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_de_8a7f2709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_de_c2b89582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_de_bcabdaa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_de_b7d28156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_de_e1424bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ru_b0b797c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ru_f33c463f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ru_134239ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ru_e6f91ec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ru_78950110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_d95fdcd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_8f87c9df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_0f9e11fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_651a4942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_a40850fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_54136234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_pt_8a662e89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ar_b4310ffb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ar_af7f46ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ar_b250933f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ar_e65bc326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ca_1fb0de55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ca_abf5b9e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ca_c65753c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_ca_577ee5d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_sl_0da0c790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_sl_13392c3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_sl_2971c701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_sl_eb4fa3eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_sl_5141e7cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_sl_96c96181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_513ca904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_it_c35e8d9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_it_2918de9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_it_c71d8bf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_it_1cccfd78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_1bc45157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_efbeb78b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_b17fde39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_a7ff2c0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_4edb9fcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/xl_nl_efc4692e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+<http://purl.org/coar/access_right/def_3599516e177772b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "available in SKOS Used by DCTERMS"@en .
+<http://purl.org/coar/access_right/def_47472f85f4a9daa0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "available in SKOS Used by DCTERMS"@en .
+<http://purl.org/coar/access_right/def_209f946ff5e5f20e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "available in SKOS Used by DCTERMS"@en .
+<http://purl.org/coar/access_right/def_fcd1f94f91059506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "available in SKOS Used by DCTERMS"@en .
+<http://purl.org/coar/access_right/def_3cf2a8114f1d2e21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "available in SKOS"@en .
+<http://purl.org/coar/access_right/def_b99936c78ae27dee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "URI available at the Linked Data Service of LC"@en .
+<http://purl.org/coar/access_right/def_6a4bc36b7d6ddccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "URI available at the Linked Data Service of LC"@en .
+<http://purl.org/coar/access_right/xDef_0f4afbac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Embargoed access refers to a resource that is metadata only access until released for open access on a certain date. Embargoes can be required by publishers and funders policies, or set by the author (e.g such as in the case of theses and dissertations)."@en .
+<http://purl.org/coar/access_right/xDef_bb394a5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Restricted access refers to a resource that is available in a system but with some type of restriction for full open access. This type of access can occur in a number of different situations. Some examples are described below:\nThe user must log-in to the system in order to access the resource\nThe user must send an email to the author or system administrator to access the resource\nAccess to the resource is restricted to a specific community (e.g. limited to a university community)"@en .
+<http://purl.org/coar/access_right/xDef_ba6df2d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Metadata only access refers to a resource in which access is limited to metadata only. The resource itself is described by the metadata, but neither is directly available through the system or platform nor can be referenced to an open access copy in an external journal or trustworthy archive."@en .
+<http://purl.org/coar/access_right/xDef_ec7bf438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Open access refers to a resource that is immediately and permanently online, and free for all on the Web, without financial and technical barriers.The resource is either stored in the repository or referenced to an external journal or trustworthy archive."@en .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_3599516e177772b5> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_47472f85f4a9daa0> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_209f946ff5e5f20e> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_fcd1f94f91059506> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_3cf2a8114f1d2e21> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_b99936c78ae27dee> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/def_6a4bc36b7d6ddccb> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/xDef_ec7bf438> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/xDef_ba6df2d6> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/xDef_0f4afbac> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/access_right/xDef_bb394a5b> .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_4e81d3665adec49b> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_4c2cceec745f24c0> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_ad2b30be3a0232e4> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_4e2ae189f89acf28> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_d47422a3bf77a87b> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_7be167c4f9adce25> .
+<http://purl.org/coar/access_right> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_a7b0a76361a53c03> .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/OpenAccess> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/RestrictedAccess> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/restricted> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/ClosedAccess> .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/ddc> .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/DDC> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/udc> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/UDC> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/lcc> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/LCC> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/lcsh> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/LCSH> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/swd> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/vocabulary/classSchemes/sswd> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/nbc> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/vocabulary/classSchemes/bcl> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/jel> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/vocabulary/classSchemes/jelc> .
+<http://purl.org/coar/access_right/xl_4978ed2567398874> <http://www.w3.org/2008/05/skos-xl#literalForm> "ddc"@en .
+<http://purl.org/coar/access_right/xl_86d0d7f17a3890a8> <http://www.w3.org/2008/05/skos-xl#literalForm> "udc"@en .
+<http://purl.org/coar/access_right/xl_07c7759953917c9c> <http://www.w3.org/2008/05/skos-xl#literalForm> "lcc"@en .
+<http://purl.org/coar/access_right/xl_c6b08b3edf7940e5> <http://www.w3.org/2008/05/skos-xl#literalForm> "lcsh"@en .
+<http://purl.org/coar/access_right/xl_4711b34d2c380b90> <http://www.w3.org/2008/05/skos-xl#literalForm> "swd"@en .
+<http://purl.org/coar/access_right/xl_d5979c6654d7bf61> <http://www.w3.org/2008/05/skos-xl#literalForm> "nbc"@en .
+<http://purl.org/coar/access_right/xl_803aac0d4ed02305> <http://www.w3.org/2008/05/skos-xl#literalForm> "jel"@en .
+<http://purl/coar/classification_scheme/xl_en_104e> <http://www.w3.org/2008/05/skos-xl#literalForm> "test"@en .
+<http://purl.org/coar/access_right/xl_en_1c8d2eca> <http://www.w3.org/2008/05/skos-xl#literalForm> "test small URI"@en .
+<http://purl.org/coar/access_right/xl_en_098e1e85> <http://www.w3.org/2008/05/skos-xl#literalForm> "open access"@en .
+<http://purl.org/coar/access_right/xl_en_912bbf0d> <http://www.w3.org/2008/05/skos-xl#literalForm> "embargoed access"@en .
+<http://purl.org/coar/access_right/xl_en_b6cb1738> <http://www.w3.org/2008/05/skos-xl#literalForm> "restricted access"@en .
+<http://purl.org/coar/access_right/xl_en_fdf68ccc> <http://www.w3.org/2008/05/skos-xl#literalForm> "metadata only access"@en .
+<http://purl.org/coar/access_right/xl_es_6c25ea8c> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso embargado"@es .
+<http://purl.org/coar/access_right/xl_es_06231871> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso con periodo de carencia"@es .
+<http://purl.org/coar/access_right/xl_es_9b4593e3> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso con periodo de embargo"@es .
+<http://purl.org/coar/access_right/xl_es_c171be05> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso abierto"@es .
+<http://purl.org/coar/access_right/xl_es_815f362d> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso a metadatos"@es .
+<http://purl.org/coar/access_right/xl_es_d407a72a> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso a registro bibliogr\u00E1fico"@es .
+<http://purl.org/coar/access_right/xl_es_ca81d5db> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso a registro bibliografico"@es .
+<http://purl.org/coar/access_right/xl_es_7db0a845> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso restringido"@es .
+<http://purl.org/coar/access_right/xl_es_f1b011c7> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso bajo restricciones"@es .
+<http://purl.org/coar/access_right/xl_es_548188f2> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso gratuito bajo restricciones"@es .
+<http://purl.org/coar/access_right/xl_es_0c629e74> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso gratuito mediado"@es .
+<http://purl.org/coar/access_right/xl_es_dd695122> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso abierto gratuito"@es .
+<http://purl.org/coar/access_right/xl_es_d2000f89> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso p\u00FAblico"@es .
+<http://purl.org/coar/access_right/xl_es_f14878c4> <http://www.w3.org/2008/05/skos-xl#literalForm> "registro bibliogr\u00E1fico"@es .
+<http://purl.org/coar/access_right/xl_es_b51acdc1> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso a metadatos solamente"@es .
+<http://purl.org/coar/access_right/xl_es_91a4dc61> <http://www.w3.org/2008/05/skos-xl#literalForm> "registro bibliografico"@es .
+<http://purl.org/coar/access_right/xl_es_4a0fcd4f> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso bajo condiciones"@es .
+<http://purl.org/coar/access_right/xl_es_174e5f2a> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso con limitaciones"@es .
+<http://purl.org/coar/access_right/xl_es_aa526684> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso bajo per\u00EDodo de embargo"@es .
+<http://purl.org/coar/access_right/xl_es_a3660843> <http://www.w3.org/2008/05/skos-xl#literalForm> "acceso bajo periodo de embargo"@es .
+<http://purl.org/coar/access_right/xl_es_92e51d09> <http://www.w3.org/2008/05/skos-xl#literalForm> "dep\u00F3sito oscuro"@es .
+<http://purl.org/coar/access_right/xl_es_f53889fe> <http://www.w3.org/2008/05/skos-xl#literalForm> "deposito oscuro"@es .
+<http://purl.org/coar/access_right/xl_tr_dc852f2f> <http://www.w3.org/2008/05/skos-xl#literalForm> "sadece \u00FCstveri eri\u015Fimi"@tr .
+<http://purl.org/coar/access_right/xl_tr_44b1d2ed> <http://www.w3.org/2008/05/skos-xl#literalForm> "sadece metadata eri\u015Fimi"@tr .
+<http://purl.org/coar/access_right/xl_tr_641e2edc> <http://www.w3.org/2008/05/skos-xl#literalForm> "s\u0131n\u0131rl\u0131 eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/xl_tr_f829170b> <http://www.w3.org/2008/05/skos-xl#literalForm> "k\u0131s\u0131tl\u0131 eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/xl_tr_5d0f187a> <http://www.w3.org/2008/05/skos-xl#literalForm> "a\u00E7\u0131k eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/xl_tr_c7b05c00> <http://www.w3.org/2008/05/skos-xl#literalForm> "ambargolu eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/xl_fr_09ee2f0f> <http://www.w3.org/2008/05/skos-xl#literalForm> "libre acc\u00E8s"@fr .
+<http://purl.org/coar/access_right/xl_fr_15c1b6d8> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s ouvert"@fr .
+<http://purl.org/coar/access_right/xl_fr_164728e3> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s libre"@fr .
+<http://purl.org/coar/access_right/xl_fr_6376ab2a> <http://www.w3.org/2008/05/skos-xl#literalForm> "open access"@fr .
+<http://purl.org/coar/access_right/xl_fr_85cfec33> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s aux seules m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/xl_fr_675ec0c2> <http://www.w3.org/2008/05/skos-xl#literalForm> "libre acc\u00E8s aux seules m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/xl_fr_c71f7c27> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s limit\u00E9 aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/xl_fr_82c44592> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s uniquement aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/xl_fr_c3db6dcd> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s restreint aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/xl_fr_92aa5558> <http://www.w3.org/2008/05/skos-xl#literalForm> "sous embargo"@fr .
+<http://purl.org/coar/access_right/xl_fr_d29a5a4a> <http://www.w3.org/2008/05/skos-xl#literalForm> "libre acc\u00E8s apr\u00E8s dur\u00E9e d'embargo"@fr .
+<http://purl.org/coar/access_right/xl_fr_e9ebecd2> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s libre retard\u00E9"@fr .
+<http://purl.org/coar/access_right/xl_fr_f250db91> <http://www.w3.org/2008/05/skos-xl#literalForm> "libre acc\u00E8s diff\u00E9r\u00E9"@fr .
+<http://purl.org/coar/access_right/xl_fr_3ff6ebe6> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s sous embargo"@fr .
+<http://purl.org/coar/access_right/xl_fr_4cf48e25> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s restreint"@fr .
+<http://purl.org/coar/access_right/xl_fr_ce17ec2b> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s sous condition"@fr .
+<http://purl.org/coar/access_right/xl_fr_09bdfee9> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s limit\u00E9"@fr .
+<http://purl.org/coar/access_right/xl_fr_f6fb477f> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s aux abonn\u00E9s"@fr .
+<http://purl.org/coar/access_right/xl_fr_ddcb79f8> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E8s r\u00E9serv\u00E9"@fr .
+<http://purl.org/coar/access_right/xl_ja_6936300e> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u30E1\u30BF\u30C7\u30FC\u30BF\u306E\u307F"@ja .
+<http://purl.org/coar/access_right/xl_ja_df7ed107> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u30A2\u30AF\u30BB\u30B9\u5236\u9650\u6709"@ja .
+<http://purl.org/coar/access_right/xl_ja_8cd74eab> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u30AA\u30FC\u30D7\u30F3\u30A2\u30AF\u30BB\u30B9"@ja .
+<http://purl.org/coar/access_right/xl_ja_a6db8fe3> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u30A8\u30F3\u30D0\u30FC\u30B4\u6709"@ja .
+<http://purl.org/coar/access_right/xl_de_8a7f2709> <http://www.w3.org/2008/05/skos-xl#literalForm> "eingeschr\u00E4nkter Zugang"@de .
+<http://purl.org/coar/access_right/xl_de_c2b89582> <http://www.w3.org/2008/05/skos-xl#literalForm> "offener Zugang"@de .
+<http://purl.org/coar/access_right/xl_de_bcabdaa9> <http://www.w3.org/2008/05/skos-xl#literalForm> "freier Zugang"@de .
+<http://purl.org/coar/access_right/xl_de_b7d28156> <http://www.w3.org/2008/05/skos-xl#literalForm> "nur Metadaten"@de .
+<http://purl.org/coar/access_right/xl_de_e1424bf0> <http://www.w3.org/2008/05/skos-xl#literalForm> "Zugang unterliegt Embargo"@de .
+<http://purl.org/coar/access_right/xl_ru_f33c463f> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043D\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/xl_ru_134239ac> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/xl_ru_e6f91ec2> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/xl_ru_78950110> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u0434\u043E\u0441\u0442\u0443\u043F \u0441 \u044D\u043C\u0431\u0430\u0440\u0433\u043E"@ru .
+<http://purl.org/coar/access_right/xl_ru_b0b797c8> <http://www.w3.org/2008/05/skos-xl#literalForm> " \u0434\u043E\u0441\u0442\u0443\u043F \u043A \u043C\u0435\u0442\u0430\u0434\u0430\u043D\u043D\u044B\u043C"@ru .
+<http://purl.org/coar/access_right/xl_pt_d95fdcd5> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso limitado a metadados"@pt .
+<http://purl.org/coar/access_right/xl_pt_8f87c9df> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso embargado"@pt .
+<http://purl.org/coar/access_right/xl_pt_0f9e11fb> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso sob embargo"@pt .
+<http://purl.org/coar/access_right/xl_pt_651a4942> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso aberto"@pt .
+<http://purl.org/coar/access_right/xl_pt_a40850fe> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso livre"@pt .
+<http://purl.org/coar/access_right/xl_pt_54136234> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso restrito"@pt .
+<http://purl.org/coar/access_right/xl_pt_8a662e89> <http://www.w3.org/2008/05/skos-xl#literalForm> "acesso a metadados"@pt .
+<http://purl.org/coar/access_right/xl_ar_b4310ffb> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u062D\u0631"@ar .
+<http://purl.org/coar/access_right/xl_ar_af7f46ca> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u062D\u062F\u0648\u062F \u0628\u0627\u0644\u0645\u064A\u062A\u0627\u062F\u0627\u062A\u0627"@ar .
+<http://purl.org/coar/access_right/xl_ar_b250933f> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u0642\u064A\u062F"@ar .
+<http://purl.org/coar/access_right/xl_ar_e65bc326> <http://www.w3.org/2008/05/skos-xl#literalForm> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u062D\u0638\u0648\u0631"@ar .
+<http://purl.org/coar/access_right/xl_ca_1fb0de55> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E9s obert "@ca .
+<http://purl.org/coar/access_right/xl_ca_abf5b9e0> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E9s embargat "@ca .
+<http://purl.org/coar/access_right/xl_ca_c65753c4> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E9s restringit "@ca .
+<http://purl.org/coar/access_right/xl_ca_577ee5d7> <http://www.w3.org/2008/05/skos-xl#literalForm> "acc\u00E9s nom\u00E9s a metadades "@ca .
+<http://purl.org/coar/access_right/xl_sl_13392c3e> <http://www.w3.org/2008/05/skos-xl#literalForm> "omejen dostop"@sl .
+<http://purl.org/coar/access_right/xl_sl_2971c701> <http://www.w3.org/2008/05/skos-xl#literalForm> "odprti dostop"@sl .
+<http://purl.org/coar/access_right/xl_sl_eb4fa3eb> <http://www.w3.org/2008/05/skos-xl#literalForm> "odlog javne objave"@sl .
+<http://purl.org/coar/access_right/xl_sl_5141e7cc> <http://www.w3.org/2008/05/skos-xl#literalForm> "samo dostop do metapodatkov"@sl .
+<http://purl.org/coar/access_right/xl_sl_0da0c790> <http://www.w3.org/2008/05/skos-xl#literalForm> "samo metapodatki"@sl .
+<http://purl.org/coar/access_right/xl_sl_96c96181> <http://www.w3.org/2008/05/skos-xl#literalForm> "dostop z embargom"@sl .
+<http://purl.org/coar/access_right/xl_it_c35e8d9e> <http://www.w3.org/2008/05/skos-xl#literalForm> "accesso limitato ai metadati"@it .
+<http://purl.org/coar/access_right/xl_it_2918de9c> <http://www.w3.org/2008/05/skos-xl#literalForm> "accesso riservato"@it .
+<http://purl.org/coar/access_right/xl_it_c71d8bf2> <http://www.w3.org/2008/05/skos-xl#literalForm> "accesso aperto"@it .
+<http://purl.org/coar/access_right/xl_it_1cccfd78> <http://www.w3.org/2008/05/skos-xl#literalForm> "accesso sottoposto a periodo di embargo"@it .
+<http://purl.org/coar/access_right/xl_nl_513ca904> <http://www.w3.org/2008/05/skos-xl#literalForm> "vrij toegankelijk"@nl .
+<http://purl.org/coar/access_right/xl_nl_1bc45157> <http://www.w3.org/2008/05/skos-xl#literalForm> "vrij beschikbaar"@nl .
+<http://purl.org/coar/access_right/xl_nl_efbeb78b> <http://www.w3.org/2008/05/skos-xl#literalForm> "onder embargo"@nl .
+<http://purl.org/coar/access_right/xl_nl_a7ff2c0a> <http://www.w3.org/2008/05/skos-xl#literalForm> "beperkte toegang"@nl .
+<http://purl.org/coar/access_right/xl_nl_4edb9fcf> <http://www.w3.org/2008/05/skos-xl#literalForm> "alleen metadata beschikbaar"@nl .
+<http://purl.org/coar/access_right/xl_nl_efc4692e> <http://www.w3.org/2008/05/skos-xl#literalForm> "alleen metadata"@nl .
+<http://purl.org/coar/access_right/xl_nl_b17fde39> <http://www.w3.org/2008/05/skos-xl#literalForm> "beperkt toegankelijk"@nl .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2004/02/skos/core#prefLabel> "ddc"@en .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_4978ed2567398874> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2004/02/skos/core#prefLabel> "udc"@en .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_86d0d7f17a3890a8> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2004/02/skos/core#prefLabel> "lcc"@en .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_07c7759953917c9c> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2004/02/skos/core#prefLabel> "lcsh"@en .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_c6b08b3edf7940e5> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2004/02/skos/core#prefLabel> "swd"@en .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_4711b34d2c380b90> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2004/02/skos/core#prefLabel> "nbc"@en .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_d5979c6654d7bf61> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2004/02/skos/core#prefLabel> "jel"@en .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_803aac0d4ed02305> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "open access"@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_en_098e1e85> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "embargoed access"@en .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_en_912bbf0d> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "restricted access"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_en_b6cb1738> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "metadata only access"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_en_fdf68ccc> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso embargado"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_es_6c25ea8c> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso abierto"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_es_c171be05> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso restringido"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_es_7db0a845> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "registro bibliogr\u00E1fico"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_es_f14878c4> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "sadece \u00FCstveri eri\u015Fimi"@tr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_tr_dc852f2f> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "s\u0131n\u0131rl\u0131 eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_tr_641e2edc> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "a\u00E7\u0131k eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_tr_5d0f187a> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "ambargolu eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_tr_c7b05c00> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "libre acc\u00E8s"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_fr_09ee2f0f> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E8s aux seules m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_fr_85cfec33> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "sous embargo"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_fr_92aa5558> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E8s r\u00E9serv\u00E9"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_fr_ddcb79f8> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30E1\u30BF\u30C7\u30FC\u30BF\u306E\u307F"@ja .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ja_6936300e> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A2\u30AF\u30BB\u30B9\u5236\u9650\u6709"@ja .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ja_df7ed107> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AA\u30FC\u30D7\u30F3\u30A2\u30AF\u30BB\u30B9"@ja .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ja_8cd74eab> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30F3\u30D0\u30FC\u30B4\u6709"@ja .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ja_a6db8fe3> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingeschr\u00E4nkter Zugang"@de .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_de_8a7f2709> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "offener Zugang"@de .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_de_c2b89582> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "nur Metadaten"@de .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_de_b7d28156> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zugang unterliegt Embargo"@de .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_de_e1424bf0> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> " \u0434\u043E\u0441\u0442\u0443\u043F \u043A \u043C\u0435\u0442\u0430\u0434\u0430\u043D\u043D\u044B\u043C"@ru .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ru_b0b797c8> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043D\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ru_f33c463f> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ru_134239ac> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u043E\u0441\u0442\u0443\u043F \u0441 \u044D\u043C\u0431\u0430\u0440\u0433\u043E"@ru .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ru_78950110> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso embargado"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_pt_8f87c9df> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso aberto"@pt .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_pt_651a4942> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso restrito"@pt .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_pt_54136234> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso a metadados"@pt .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_pt_8a662e89> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u062D\u0631"@ar .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ar_b4310ffb> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u062D\u062F\u0648\u062F \u0628\u0627\u0644\u0645\u064A\u062A\u0627\u062F\u0627\u062A\u0627"@ar .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ar_af7f46ca> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u0642\u064A\u062F"@ar .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ar_b250933f> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u062D\u0638\u0648\u0631"@ar .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ar_e65bc326> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s obert "@ca .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ca_1fb0de55> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s embargat "@ca .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ca_abf5b9e0> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s restringit "@ca .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ca_c65753c4> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s nom\u00E9s a metadades "@ca .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_ca_577ee5d7> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "samo metapodatki"@sl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_sl_0da0c790> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "omejen dostop"@sl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_sl_13392c3e> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "odprti dostop"@sl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_sl_2971c701> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "odlog javne objave"@sl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_sl_eb4fa3eb> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrij toegankelijk"@nl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_nl_513ca904> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso limitato ai metadati"@it .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_it_c35e8d9e> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso riservato"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_it_2918de9c> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso aperto"@it .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_it_c71d8bf2> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso sottoposto a periodo di embargo"@it .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_it_1cccfd78> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "onder embargo"@nl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_nl_efbeb78b> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "beperkt toegankelijk"@nl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_nl_b17fde39> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "alleen metadata beschikbaar"@nl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/access_right/xl_nl_4edb9fcf> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con periodo de carencia"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_06231871> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con periodo de embargo"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_9b4593e3> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso abierto gratuito"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_dd695122> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a metadatos"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_815f362d> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliogr\u00E1fico"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_d407a72a> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliografico"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_ca81d5db> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo restricciones"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_f1b011c7> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso gratuito mediado"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_0c629e74> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso gratuito bajo restricciones"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_548188f2> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso p\u00FAblico"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_d2000f89> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a metadatos solamente"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_b51acdc1> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "registro bibliografico"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_91a4dc61> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo condiciones"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_4a0fcd4f> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con limitaciones"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_174e5f2a> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo per\u00EDodo de embargo"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_aa526684> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo periodo de embargo"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_a3660843> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "dep\u00F3sito oscuro"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_92e51d09> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "deposito oscuro"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_es_f53889fe> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "sadece metadata eri\u015Fimi"@tr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_tr_44b1d2ed> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "k\u0131s\u0131tl\u0131 eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_tr_f829170b> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s ouvert"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_15c1b6d8> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s libre"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_164728e3> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "open access"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_6376ab2a> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "libre acc\u00E8s aux seules m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_675ec0c2> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s limit\u00E9 aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_c71f7c27> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s uniquement aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_82c44592> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s restreint aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_c3db6dcd> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "libre acc\u00E8s apr\u00E8s dur\u00E9e d'embargo"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_d29a5a4a> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s libre retard\u00E9"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_e9ebecd2> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "libre acc\u00E8s diff\u00E9r\u00E9"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_f250db91> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s sous embargo"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_3ff6ebe6> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s restreint"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_4cf48e25> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s sous condition"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_ce17ec2b> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s limit\u00E9"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_09bdfee9> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s aux abonn\u00E9s"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_fr_f6fb477f> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "freier Zugang"@de .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_de_bcabdaa9> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_ru_e6f91ec2> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso limitado a metadados"@pt .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_pt_d95fdcd5> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso sob embargo"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_pt_0f9e11fb> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso livre"@pt .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_pt_a40850fe> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "samo dostop do metapodatkov"@sl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_sl_5141e7cc> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "dostop z embargom"@sl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_sl_96c96181> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "vrij beschikbaar"@nl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_nl_1bc45157> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "beperkte toegang"@nl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_nl_a7ff2c0a> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "alleen metadata"@nl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/access_right/xl_nl_efc4692e> .
+<http://purl/coar/classification_scheme/xl_en_104e> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Proposed" .
+<http://purl.org/coar/access_right/xl_en_1c8d2eca> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Proposed" .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_4978ed2567398874> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_86d0d7f17a3890a8> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_07c7759953917c9c> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_c6b08b3edf7940e5> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_4711b34d2c380b90> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_d5979c6654d7bf61> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/xl_803aac0d4ed02305> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" .
+<http://purl.org/coar/access_right/c_abf2> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_en_098e1e85> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/c_f1cf> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_en_912bbf0d> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/c_16ec> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_en_b6cb1738> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/c_14cb> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_en_fdf68ccc> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_6c25ea8c> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_06231871> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_9b4593e3> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_c171be05> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_dd695122> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_815f362d> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_d407a72a> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_ca81d5db> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_7db0a845> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_f1b011c7> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_0c629e74> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_548188f2> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_d2000f89> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_f14878c4> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_b51acdc1> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_91a4dc61> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_4a0fcd4f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_174e5f2a> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_aa526684> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_a3660843> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_92e51d09> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_es_f53889fe> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_tr_dc852f2f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_tr_44b1d2ed> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_tr_641e2edc> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_tr_f829170b> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_tr_5d0f187a> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_tr_c7b05c00> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_09ee2f0f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_15c1b6d8> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_164728e3> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_6376ab2a> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_85cfec33> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_675ec0c2> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_c71f7c27> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_82c44592> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_c3db6dcd> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_92aa5558> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_d29a5a4a> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_e9ebecd2> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_f250db91> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_3ff6ebe6> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_4cf48e25> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_ce17ec2b> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_09bdfee9> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_f6fb477f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_fr_ddcb79f8> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ja_6936300e> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ja_df7ed107> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ja_8cd74eab> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ja_a6db8fe3> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_de_8a7f2709> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_de_c2b89582> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_de_bcabdaa9> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_de_b7d28156> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_de_e1424bf0> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ru_b0b797c8> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ru_f33c463f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ru_134239ac> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ru_e6f91ec2> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ru_78950110> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_d95fdcd5> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_8f87c9df> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_0f9e11fb> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_651a4942> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_a40850fe> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_54136234> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_pt_8a662e89> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ar_b4310ffb> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ar_af7f46ca> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ar_b250933f> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ar_e65bc326> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ca_1fb0de55> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ca_abf5b9e0> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ca_c65753c4> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_ca_577ee5d7> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_sl_0da0c790> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_sl_13392c3e> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_sl_2971c701> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_sl_eb4fa3eb> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_sl_5141e7cc> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_sl_96c96181> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_513ca904> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_it_c35e8d9e> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_it_2918de9c> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_it_c71d8bf2> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_it_1cccfd78> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_1bc45157> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_efbeb78b> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_b17fde39> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_a7ff2c0a> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_4edb9fcf> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl.org/coar/access_right/xl_nl_efc4692e> <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" .
+<http://purl/coar/classification_scheme/xl_en_104e> <http://purl.org/dc/terms/created> "2015-03-02T13:38:39Z"^^<xsd:http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_1c8d2eca> <http://purl.org/dc/terms/created> "2017-03-10T15:25:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_abf2> <http://purl.org/dc/terms/created> "2017-03-17T12:30:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_098e1e85> <http://purl.org/dc/terms/created> "2017-03-17T12:30:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_f1cf> <http://purl.org/dc/terms/created> "2017-03-17T13:55:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_912bbf0d> <http://purl.org/dc/terms/created> "2017-03-17T13:55:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_16ec> <http://purl.org/dc/terms/created> "2017-03-17T13:56:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_b6cb1738> <http://purl.org/dc/terms/created> "2017-03-17T13:56:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_14cb> <http://purl.org/dc/terms/created> "2017-03-17T13:56:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_fdf68ccc> <http://purl.org/dc/terms/created> "2017-03-17T13:56:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_6c25ea8c> <http://purl.org/dc/terms/created> "2017-03-23T11:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_06231871> <http://purl.org/dc/terms/created> "2017-03-23T11:09:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_9b4593e3> <http://purl.org/dc/terms/created> "2017-03-23T11:09:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_c171be05> <http://purl.org/dc/terms/created> "2017-03-23T11:10:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_dd695122> <http://purl.org/dc/terms/created> "2017-03-23T11:11:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_815f362d> <http://purl.org/dc/terms/created> "2017-03-23T11:15:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_d407a72a> <http://purl.org/dc/terms/created> "2017-03-23T11:16:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_ca81d5db> <http://purl.org/dc/terms/created> "2017-03-23T11:16:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_7db0a845> <http://purl.org/dc/terms/created> "2017-03-23T11:17:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_f1b011c7> <http://purl.org/dc/terms/created> "2017-03-23T11:19:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_0c629e74> <http://purl.org/dc/terms/created> "2017-03-23T11:19:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_548188f2> <http://purl.org/dc/terms/created> "2017-03-23T11:26:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_d2000f89> <http://purl.org/dc/terms/created> "2017-03-23T11:27:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_f14878c4> <http://purl.org/dc/terms/created> "2017-03-30T23:14:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_b51acdc1> <http://purl.org/dc/terms/created> "2017-03-30T23:15:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_91a4dc61> <http://purl.org/dc/terms/created> "2017-03-30T23:15:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_4a0fcd4f> <http://purl.org/dc/terms/created> "2017-03-30T23:18:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_174e5f2a> <http://purl.org/dc/terms/created> "2017-03-30T23:18:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_aa526684> <http://purl.org/dc/terms/created> "2017-03-30T23:18:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_a3660843> <http://purl.org/dc/terms/created> "2017-03-30T23:19:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_92e51d09> <http://purl.org/dc/terms/created> "2017-03-31T21:05:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_f53889fe> <http://purl.org/dc/terms/created> "2017-03-31T21:06:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_dc852f2f> <http://purl.org/dc/terms/created> "2017-04-14T10:32:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_44b1d2ed> <http://purl.org/dc/terms/created> "2017-04-14T10:33:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_641e2edc> <http://purl.org/dc/terms/created> "2017-04-14T10:33:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_f829170b> <http://purl.org/dc/terms/created> "2017-04-14T10:33:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_5d0f187a> <http://purl.org/dc/terms/created> "2017-04-14T10:34:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_c7b05c00> <http://purl.org/dc/terms/created> "2017-04-14T10:34:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_09ee2f0f> <http://purl.org/dc/terms/created> "2017-04-19T12:28:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_15c1b6d8> <http://purl.org/dc/terms/created> "2017-04-19T12:28:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_164728e3> <http://purl.org/dc/terms/created> "2017-04-19T12:28:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_6376ab2a> <http://purl.org/dc/terms/created> "2017-04-19T12:29:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_85cfec33> <http://purl.org/dc/terms/created> "2017-04-19T12:30:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_675ec0c2> <http://purl.org/dc/terms/created> "2017-04-19T12:30:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_c71f7c27> <http://purl.org/dc/terms/created> "2017-04-19T12:31:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_82c44592> <http://purl.org/dc/terms/created> "2017-04-19T12:33:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_c3db6dcd> <http://purl.org/dc/terms/created> "2017-04-19T12:34:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_92aa5558> <http://purl.org/dc/terms/created> "2017-04-19T12:35:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_d29a5a4a> <http://purl.org/dc/terms/created> "2017-04-19T12:35:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_e9ebecd2> <http://purl.org/dc/terms/created> "2017-04-19T12:35:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_f250db91> <http://purl.org/dc/terms/created> "2017-04-19T12:36:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_3ff6ebe6> <http://purl.org/dc/terms/created> "2017-04-19T12:36:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_4cf48e25> <http://purl.org/dc/terms/created> "2017-04-19T12:36:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_ce17ec2b> <http://purl.org/dc/terms/created> "2017-04-19T12:37:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_09bdfee9> <http://purl.org/dc/terms/created> "2017-04-19T12:37:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_f6fb477f> <http://purl.org/dc/terms/created> "2017-04-19T12:37:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_ddcb79f8> <http://purl.org/dc/terms/created> "2017-04-19T12:37:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_6936300e> <http://purl.org/dc/terms/created> "2017-04-20T02:32:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_df7ed107> <http://purl.org/dc/terms/created> "2017-04-20T02:33:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_8cd74eab> <http://purl.org/dc/terms/created> "2017-04-20T02:34:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_a6db8fe3> <http://purl.org/dc/terms/created> "2017-04-20T02:34:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_8a7f2709> <http://purl.org/dc/terms/created> "2017-04-20T11:06:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_c2b89582> <http://purl.org/dc/terms/created> "2017-04-20T11:07:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_bcabdaa9> <http://purl.org/dc/terms/created> "2017-04-20T11:07:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_b7d28156> <http://purl.org/dc/terms/created> "2017-04-20T11:08:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_e1424bf0> <http://purl.org/dc/terms/created> "2017-04-20T11:10:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xDef_ec7bf438> <http://purl.org/dc/terms/created> "2017-04-20T13:14:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xDef_ba6df2d6> <http://purl.org/dc/terms/created> "2017-04-20T13:16:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xDef_0f4afbac> <http://purl.org/dc/terms/created> "2017-04-20T13:17:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xDef_bb394a5b> <http://purl.org/dc/terms/created> "2017-04-20T13:17:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_b0b797c8> <http://purl.org/dc/terms/created> "2017-05-07T16:54:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_f33c463f> <http://purl.org/dc/terms/created> "2017-05-07T16:54:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_134239ac> <http://purl.org/dc/terms/created> "2017-05-07T16:56:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_e6f91ec2> <http://purl.org/dc/terms/created> "2017-05-07T16:59:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_78950110> <http://purl.org/dc/terms/created> "2017-05-07T17:04:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_d95fdcd5> <http://purl.org/dc/terms/created> "2017-06-13T14:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_8f87c9df> <http://purl.org/dc/terms/created> "2017-06-13T14:00:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_0f9e11fb> <http://purl.org/dc/terms/created> "2017-06-13T14:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_651a4942> <http://purl.org/dc/terms/created> "2017-06-13T14:01:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_a40850fe> <http://purl.org/dc/terms/created> "2017-06-13T14:01:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_54136234> <http://purl.org/dc/terms/created> "2017-06-13T14:02:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_8a662e89> <http://purl.org/dc/terms/created> "2017-06-13T14:03:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_b4310ffb> <http://purl.org/dc/terms/created> "2017-06-29T06:20:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_af7f46ca> <http://purl.org/dc/terms/created> "2017-06-29T06:22:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_b250933f> <http://purl.org/dc/terms/created> "2017-06-29T06:24:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_e65bc326> <http://purl.org/dc/terms/created> "2017-06-29T06:25:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_1fb0de55> <http://purl.org/dc/terms/created> "2018-05-14T10:45:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_abf5b9e0> <http://purl.org/dc/terms/created> "2018-05-14T10:46:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_c65753c4> <http://purl.org/dc/terms/created> "2018-05-14T10:47:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_577ee5d7> <http://purl.org/dc/terms/created> "2018-05-14T10:48:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_0da0c790> <http://purl.org/dc/terms/created> "2018-07-25T14:21:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_13392c3e> <http://purl.org/dc/terms/created> "2018-07-25T14:22:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_2971c701> <http://purl.org/dc/terms/created> "2018-07-25T14:23:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_eb4fa3eb> <http://purl.org/dc/terms/created> "2018-07-25T14:25:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_5141e7cc> <http://purl.org/dc/terms/created> "2018-07-25T14:30:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_96c96181> <http://purl.org/dc/terms/created> "2018-07-25T14:40:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_513ca904> <http://purl.org/dc/terms/created> "2018-09-03T11:37:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_c35e8d9e> <http://purl.org/dc/terms/created> "2018-09-03T13:06:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_2918de9c> <http://purl.org/dc/terms/created> "2018-09-03T13:06:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_c71d8bf2> <http://purl.org/dc/terms/created> "2018-09-03T13:07:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_1cccfd78> <http://purl.org/dc/terms/created> "2018-09-03T13:08:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_1bc45157> <http://purl.org/dc/terms/created> "2018-09-03T14:48:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_efbeb78b> <http://purl.org/dc/terms/created> "2018-09-03T14:49:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_b17fde39> <http://purl.org/dc/terms/created> "2018-09-03T14:50:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_a7ff2c0a> <http://purl.org/dc/terms/created> "2018-09-03T14:50:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_4edb9fcf> <http://purl.org/dc/terms/created> "2018-09-03T14:51:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_efc4692e> <http://purl.org/dc/terms/created> "2018-09-03T14:52:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl/coar/classification_scheme/xl_en_104e> <http://purl.org/dc/terms/modified> "2015-03-02T14:38:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_1c8d2eca> <http://purl.org/dc/terms/modified> "2017-03-10T16:25:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_4711b34d2c380b90> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_4978ed2567398874> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_07c7759953917c9c> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_d5979c6654d7bf61> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_098e1e85> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_86d0d7f17a3890a8> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_c6b08b3edf7940e5> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_912bbf0d> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_b6cb1738> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_en_fdf68ccc> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_803aac0d4ed02305> <http://purl.org/dc/terms/modified> "2017-03-17T14:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_6c25ea8c> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_7db0a845> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_06231871> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_9b4593e3> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_d407a72a> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_c171be05> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_815f362d> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_ca81d5db> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_f1b011c7> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_548188f2> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_0c629e74> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_b51acdc1> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_4a0fcd4f> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_aa526684> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_92e51d09> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_dc852f2f> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_dd695122> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_d2000f89> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_91a4dc61> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_174e5f2a> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_a3660843> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_f53889fe> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_44b1d2ed> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_641e2edc> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_f829170b> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_5d0f187a> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_tr_c7b05c00> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_09ee2f0f> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_15c1b6d8> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_164728e3> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_85cfec33> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_675ec0c2> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_c71f7c27> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_82c44592> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_c3db6dcd> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_6376ab2a> <http://purl.org/dc/terms/modified> "2017-04-20T13:24:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_92aa5558> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_d29a5a4a> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_3ff6ebe6> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_f6fb477f> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_df7ed107> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_e9ebecd2> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_f250db91> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_4cf48e25> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_ce17ec2b> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_09bdfee9> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_fr_ddcb79f8> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_6936300e> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_8cd74eab> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ja_a6db8fe3> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_8a7f2709> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_c2b89582> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_bcabdaa9> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_b7d28156> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_de_e1424bf0> <http://purl.org/dc/terms/modified> "2017-04-20T13:25:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_e6f91ec2> <http://purl.org/dc/terms/modified> "2017-06-07T07:41:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_b0b797c8> <http://purl.org/dc/terms/modified> "2017-06-07T07:41:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_f33c463f> <http://purl.org/dc/terms/modified> "2017-06-07T07:41:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_134239ac> <http://purl.org/dc/terms/modified> "2017-06-07T07:41:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ru_78950110> <http://purl.org/dc/terms/modified> "2017-06-07T07:41:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_54136234> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_8a662e89> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_d95fdcd5> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_8f87c9df> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_0f9e11fb> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_651a4942> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_pt_a40850fe> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_b4310ffb> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_af7f46ca> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_b250933f> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ar_e65bc326> <http://purl.org/dc/terms/modified> "2017-09-18T11:37:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_es_f14878c4> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_1fb0de55> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_abf5b9e0> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_c65753c4> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_ca_577ee5d7> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_13392c3e> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_2971c701> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_5141e7cc> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_96c96181> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_0da0c790> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_sl_eb4fa3eb> <http://purl.org/dc/terms/modified> "2018-09-03T14:29:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_1bc45157> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_efc4692e> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_513ca904> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_efbeb78b> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_b17fde39> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_a7ff2c0a> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_nl_4edb9fcf> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_f1cf> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_c35e8d9e> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_2918de9c> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_c71d8bf2> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xl_it_1cccfd78> <http://purl.org/dc/terms/modified> "2018-09-10T18:04:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xDef_ba6df2d6> <http://purl.org/dc/terms/modified> "2018-12-14T18:10:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/xDef_ec7bf438> <http://purl.org/dc/terms/modified> "2018-12-14T18:13:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_abf2> <http://purl.org/dc/terms/modified> "2018-12-19T21:32:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_16ec> <http://purl.org/dc/terms/modified> "2018-12-19T23:05:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_14cb> <http://purl.org/dc/terms/modified> "2018-12-19T23:06:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .

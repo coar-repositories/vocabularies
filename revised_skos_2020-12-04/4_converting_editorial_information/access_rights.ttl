@@ -1,0 +1,216 @@
+
+<http://purl.org/coar/access_right/c_14cb> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2017-03-17T13:56:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-12-19T23:06:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliográfico"@es,
+    "libre accès aux seules métadonnées"@fr,
+    "accès limité aux métadonnées"@fr,
+    "acceso a registro bibliografico"@es,
+    "acceso a metadatos solamente"@es,
+    "accès uniquement aux métadonnées"@fr,
+    "accès restreint aux métadonnées"@fr,
+    "registro bibliografico"@es,
+    "acceso a metadatos"@es,
+    "sadece metadata erişimi"@tr,
+    "alleen metadata"@nl,
+    "acesso limitado a metadados"@pt,
+    "samo dostop do metapodatkov"@sl;
+  <http://www.w3.org/2004/02/skos/core#definition> "Metadata only access refers to a resource in which access is limited to metadata only. The resource itself is described by the metadata, but neither is directly available through the system or platform nor can be referenced to an open access copy in an external journal or trustworthy archive."@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "metadata only access"@en,
+    "registro bibliográfico"@es,
+    "accés només a metadades "@ca,
+    "accesso limitato ai metadati"@it,
+    "acesso a metadados"@pt,
+    "الوصول المحدود بالميتاداتا"@ar,
+    "samo metapodatki"@sl,
+    "メタデータのみ"@ja,
+    "accès aux seules métadonnées"@fr,
+    "alleen metadata beschikbaar"@nl,
+    "sadece üstveri erişimi"@tr,
+    "nur Metadaten"@de,
+    " доступ к метаданным"@ru;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/ClosedAccess>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_16ec> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2017-03-17T13:56:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-12-19T23:05:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo restricciones"@es,
+    "accès sous condition"@fr,
+    "acceso bajo condiciones"@es,
+    "acceso gratuito bajo restricciones"@es,
+    "beperkte toegang"@nl,
+    "acceso con limitaciones"@es,
+    "accès restreint"@fr,
+    "accès aux abonnés"@fr,
+    "accès limité"@fr,
+    "kısıtlı erişim"@tr,
+    "acceso gratuito mediado"@es;
+  <http://www.w3.org/2004/02/skos/core#definition> """Restricted access refers to a resource that is available in a system but with some type of restriction for full open access. This type of access can occur in a number of different situations. Some examples are described below:
+The user must log-in to the system in order to access the resource
+The user must send an email to the author or system administrator to access the resource
+Access to the resource is restricted to a specific community (e.g. limited to a university community)"""@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "ограниченный доступ"@ru,
+    "beperkt toegankelijk"@nl,
+    "restricted access"@en,
+    "accès réservé"@fr,
+    "eingeschränkter Zugang"@de,
+    "accés restringit "@ca,
+    "sınırlı erişim"@tr,
+    "الوصول المقيد"@ar,
+    "accesso riservato"@it,
+    "アクセス制限有"@ja,
+    "omejen dostop"@sl,
+    "acceso restringido"@es,
+    "acesso restrito"@pt;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/RestrictedAccess>,
+    <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/restricted>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_abf2> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2017-03-17T12:30:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-12-19T21:32:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "acceso abierto gratuito"@es,
+    "freier Zugang"@de,
+    "accès ouvert"@fr,
+    "acesso livre"@pt,
+    "бесплатный доступ"@ru,
+    "accès libre"@fr,
+    "open access"@fr,
+    "acceso público"@es,
+    "vrij beschikbaar"@nl;
+  <http://www.w3.org/2004/02/skos/core#definition> "Open access refers to a resource that is immediately and permanently online, and free for all on the Web, without financial and technical barriers.The resource is either stored in the repository or referenced to an external journal or trustworthy archive."@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "offener Zugang"@de,
+    "accesso aperto"@it,
+    "açık erişim"@tr,
+    "libre accès"@fr,
+    "accés obert "@ca,
+    "الوصول الحر"@ar,
+    "открытый доступ"@ru,
+    "オープンアクセス"@ja,
+    "acesso aberto"@pt,
+    "vrij toegankelijk"@nl,
+    "acceso abierto"@es,
+    "odprti dostop"@sl,
+    "open access"@en;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public>,
+    <http://purl.org/eprint/accessRights/OpenAccess>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_f1cf> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2017-03-17T13:55:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:04:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo período de embargo"@es,
+    "dostop z embargom"@sl,
+    "deposito oscuro"@es,
+    "depósito oscuro"@es,
+    "accès sous embargo"@fr,
+    "acceso bajo periodo de embargo"@es,
+    "acesso sob embargo"@pt,
+    "accès libre retardé"@fr,
+    "libre accès après durée d'embargo"@fr,
+    "acceso con periodo de carencia"@es,
+    "acceso con periodo de embargo"@es,
+    "libre accès différé"@fr;
+  <http://www.w3.org/2004/02/skos/core#definition> "Embargoed access refers to a resource that is metadata only access until released for open access on a certain date. Embargoes can be required by publishers and funders policies, or set by the author (e.g such as in the case of theses and dissertations)."@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso embargado"@pt,
+    "エンバーゴ有"@ja,
+    "доступ с эмбарго"@ru,
+    "acceso embargado"@es,
+    "odlog javne objave"@sl,
+    "sous embargo"@fr,
+    "الوصول المحظور"@ar,
+    "accés embargat "@ca,
+    "accesso sottoposto a periodo di embargo"@it,
+    "ambargolu erişim"@tr,
+    "Zugang unterliegt Embargo"@de,
+    "embargoed access"@en,
+    "onder embargo"@nl;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_4c2cceec745f24c0> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "available in SKOS Used by DCTERMS"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/UDC>,
+    <http://purl.org/info:eu-repo/semantics/udc>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "udc"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_4e2ae189f89acf28> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "available in SKOS Used by DCTERMS"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/lcsh>,
+    <http://purl.org/dc/terms/LCSH>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "lcsh"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_4e81d3665adec49b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "available in SKOS Used by DCTERMS"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/DDC>,
+    <http://purl.org/info:eu-repo/semantics/ddc>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "ddc"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_7be167c4f9adce25> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "URI available at the Linked Data Service of LC"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/nbc>,
+    <http://id.loc.gov/vocabulary/classSchemes/bcl>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "nbc"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_a7b0a76361a53c03> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "URI available at the Linked Data Service of LC"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/vocabulary/classSchemes/jelc>,
+    <http://purl.org/info:eu-repo/semantics/jel>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "jel"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_ad2b30be3a0232e4> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "available in SKOS Used by DCTERMS"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/terms/LCC>,
+    <http://purl.org/info:eu-repo/semantics/lcc>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "lcc"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right/c_d47422a3bf77a87b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2017-03-17T14:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#definition> "available in SKOS"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://id.loc.gov/vocabulary/classSchemes/sswd>,
+    <http://purl.org/info:eu-repo/semantics/swd>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "swd"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right> .
+
+<http://purl.org/coar/access_right> a <http://www.w3.org/2004/02/skos/core#ConceptScheme>;
+  <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_7be167c4f9adce25>,
+    <http://purl.org/coar/access_right/c_d47422a3bf77a87b>,
+    <http://purl.org/coar/access_right/c_4e2ae189f89acf28>,
+    <http://purl.org/coar/access_right/c_4c2cceec745f24c0>,
+    <http://purl.org/coar/access_right/c_ad2b30be3a0232e4>,
+    <http://purl.org/coar/access_right/c_4e81d3665adec49b>,
+    <http://purl.org/coar/access_right/c_a7b0a76361a53c03> .

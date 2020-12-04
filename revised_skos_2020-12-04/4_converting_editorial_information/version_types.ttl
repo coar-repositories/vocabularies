@@ -1,0 +1,208 @@
+
+<http://purl.org/coar/version/c_71e4c1898caa6e32> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "submitted manuscript under review"@en,
+    "submitted version"@en,
+    "versión enviada a revisión"@es,
+    "на рассмотрении журнала"@ru,
+    "preprint"@nl,
+    "на рассмотрении в редакции"@ru,
+    "рукопись принятая к рассмотрению"@ru,
+    "versión enviada al editor"@es,
+    "preprint"@es,
+    "prépublication"@fr,
+    "versión enviada a revisión por pares"@es,
+    "preprint"@fr,
+    "versión no evaluada por pares"@es;
+  <http://www.w3.org/2004/02/skos/core#definition> """Any version of a resource that is under formal review managed by a socially recognized publishing entity. The entity recognizes its responsibility to provide objective expert review and feedback to the author, and, ultimately, to pass judgment on the fitness of the resource for publication with an “accept” or “reject” decision. May have a version number or date stamp. Content and layout follow publisher’s submission requirements.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/submittedVersion>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "eingereichte Version"@de,
+    "version soumise"@fr,
+    "SMUR"@en,
+    "versión sometida a revisión"@es,
+    "на рассмотрении на предмет публикации"@ru,
+    "Hakem değerlendirmesi için gönderilmiş versiyon"@tr,
+    "versione sottoposta a revisione"@it,
+    "査読版"@ja,
+    "ingediende versie"@nl;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "версия записи"@ru,
+    "version finale"@fr,
+    "versie"@nl,
+    "reprint"@fr,
+    "версия данных"@ru,
+    "originale Verlagspublikation"@de,
+    "publisher version"@en,
+    "version of record"@en,
+    "versión final del editor"@es,
+    "version éditée"@fr;
+  <http://www.w3.org/2004/02/skos/core#definition> """A fixed version of a resource that has been made available by any organization that acts as a publisher by formally and exclusively declaring the resource “published”. This includes any “early release” resource that is formally identified as being published even before the compilation of a volume issue and assignment of associated metadata, as long as it is citable via some permanent identifier(s). This does not include any “early release” resource that has not yet been “fixed” by processes that are still to be applied, such as copy-editing, proof corrections, layout, and typesetting.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/publishedVersion>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "versione pubblicata"@it,
+    "出版社版"@ja,
+    "версия публикации"@ru,
+    "VoR"@en,
+    "versión publicada"@es,
+    "Yayıncı versiyonu"@tr,
+    "Erstpublikation"@de,
+    "gepubliceerde versie"@nl,
+    "version publiée"@fr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_ab4af688f83e57aa> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "статья принятая к публикации"@ru,
+    "versión aceptada para publicar"@es,
+    "postprint"@es,
+    "postprint version"@en,
+    "Post-Print"@de,
+    "рукопись принятая к публикации"@ru,
+    "accepted version"@en,
+    "материалы принятые к публикации "@ru,
+    "manuscrito aceptado"@es,
+    "accepted manuscript"@en,
+    "postprint"@fr,
+    "postpublication"@fr,
+    "принятая к публикации рукопись"@ru;
+  <http://www.w3.org/2004/02/skos/core#definition> """The version of a resource that has been accepted for publication. A second party takes permanent responsibility for the resource. Content and layout follow publisher’s submission requirements.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"""@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/acceptedVersion>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "geaccepteerde versie"@nl,
+    "version acceptée"@fr,
+    "出版社受理版"@ja,
+    "AM"@en,
+    "akzeptiertes Manuskript"@de,
+    "versión final del autor"@es,
+    "материал принятый к публикации "@ru,
+    "versione accettata per la pubblicazione"@it,
+    "Yayına kabul edilmiş versiyon"@tr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "version d'origine"@fr,
+    "author's original"@en,
+    "Ön baskı"@tr,
+    "draft"@en,
+    "borrador"@es,
+    "première version"@fr,
+    "оригинал"@ru,
+    "manuscrito"@es,
+    "preprint version"@en;
+  <http://www.w3.org/2004/02/skos/core#definition> """Any version of a resource that is considered by the author to be of sufficient quality to be submitted for formal peer review by a second party. The author accepts full responsibility for the resource . May have a version number or date stamp. Content and layout as set out by the author.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"""@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/authorVersion>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "auteurs versie"@nl,
+    "versión original del autor"@es,
+    "авторский оригинал"@ru,
+    "version originale"@fr,
+    "Yazarın orijinal versiyonu"@tr,
+    "AO"@en,
+    "Autorenversion"@de,
+    "著者オリジナル版"@ja,
+    "versione originale dell'autore"@it;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "autre version"@fr,
+    "no aplica"@es,
+    "not applicable (or unknown)"@en,
+    "non applicabile (o ignoto)"@it,
+    "otros"@es;
+  <http://www.w3.org/2004/02/skos/core#definition> """Not Applicable	(or Unknown)"""@en;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "keine Angabe"@de,
+    "NA"@en,
+    "適用外"@ja,
+    "versión desconocida"@es,
+    "niet van toepassing (onbekend)"@nl,
+    "non applicabile"@it,
+    "Uygulanabilir değil"@tr,
+    "не применимо (или неизвестно)"@ru;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_dc82b40f9837b551> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "aktualisierte Version"@de,
+    "enhanced version of record"@en,
+    "gewijzigde versie"@nl,
+    "version amendée"@fr;
+  <http://www.w3.org/2004/02/skos/core#definition> """A version of the Version of Record of a resource that has been updated or 
+enhanced by the provision of supplementary material.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/updatedVersion>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "更新版"@ja,
+    "erweiterte Version"@de,
+    "version améliorée"@fr,
+    "versión mejorada"@es,
+    "revisie"@nl,
+    "Eserin geliştirilmiş versiyonu"@tr,
+    "расширенная версия"@ru,
+    "EVoR"@en,
+    "versione revisionata"@it;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_e19f295774971610> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "versión publicada corregida"@es,
+    "gecorrigeerde versie"@nl,
+    "corrected version of record"@en;
+  <http://www.w3.org/2004/02/skos/core#definition> """A version of the Version of Record of a resource in which errors in the VoR have been corrected. The errors may be author errors, publisher errors, or other processing errors.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/updatedVersion>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "korrigierte Version"@de,
+    "исправленная версия "@ru,
+    "version corrigée"@fr,
+    "訂正版"@ja,
+    "versione corretta"@it,
+    "versión corregida"@es,
+    "CVoR"@en,
+    "herziene versie"@nl,
+    "Eserin düzeltilmiş versiyonu"@tr;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version/c_fa2ee174bc00049f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "одобрена"@ru,
+    "proof"@en,
+    "одобренный"@ru,
+    "manuscrito editado"@es,
+    "Yayıncı tarafından düzenlenmiş versiyon"@tr,
+    "одобрено"@ru,
+    "drukproef"@nl,
+    "manuscrito aceptado"@es,
+    "одобренная"@ru,
+    "одобрены"@ru,
+    "одобренные"@ru,
+    "version"@fr;
+  <http://www.w3.org/2004/02/skos/core#definition> """A version of a resource that is created as part of the publication process. This includes the copy-edited manuscript, galley proofs (i.e., a typeset version that has not been made up into pages), page proofs, and revised proofs. Some of these versions may remain essentially internal process versions, but others are commonly released from the internal environment (e.g., proofs are sent to authors) and may thus become public, even though they are not authorized to be so. Content has been changed from Accepted Manuscript; layout is the publisher’s.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "одобрен"@ru,
+    "Korrekturfahne"@de,
+    "proefdruk"@nl,
+    "Redakte edilmiş versiyon"@tr,
+    "校正版"@ja,
+    "prueba de galera"@es,
+    "bozza"@it,
+    "P"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+
+<http://purl.org/coar/version> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .

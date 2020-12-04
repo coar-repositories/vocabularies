@@ -1,0 +1,1116 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://purl.org/coar/version>
+    a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+
+<http://purl.org/coar/version#xDef_54859fb4>
+    <http://purl.org/dc/terms/created> "2018-07-18T16:55:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    rdf:value "Not Applicable	(or Unknown)"@en .
+
+<http://purl.org/coar/version#xl_de_034da9c9>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T14:04:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Erstpublikation"@de .
+
+<http://purl.org/coar/version#xl_de_065b40ff>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:56:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "keine Angabe"@de .
+
+<http://purl.org/coar/version#xl_de_4624f449>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:58:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Korrekturfahne"@de .
+
+<http://purl.org/coar/version#xl_de_5e89e638>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:55:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "erweiterte Version"@de .
+
+<http://purl.org/coar/version#xl_de_7a1c1f27>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:55:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "aktualisierte Version"@de .
+
+<http://purl.org/coar/version#xl_de_87e539b7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:51:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Post-Print"@de .
+
+<http://purl.org/coar/version#xl_de_884a4d34>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:51:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "akzeptiertes Manuskript"@de .
+
+<http://purl.org/coar/version#xl_de_a8a6c135>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T14:04:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "originale Verlagspublikation"@de .
+
+<http://purl.org/coar/version#xl_de_ab645669>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:54:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "korrigierte Version"@de .
+
+<http://purl.org/coar/version#xl_de_af792ee0>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T13:53:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Autorenversion"@de .
+
+<http://purl.org/coar/version#xl_de_f818f991>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-28T14:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "eingereichte Version"@de .
+
+<http://purl.org/coar/version#xl_en_0b85f51e>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:44:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "proof"@en .
+
+<http://purl.org/coar/version#xl_en_10de14d8>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-10-31T08:38:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-11T22:42:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "publisher version"@en .
+
+<http://purl.org/coar/version#xl_en_1dd93dfa>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:44:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "not applicable (or unknown)"@en .
+
+<http://purl.org/coar/version#xl_en_76c8e339>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:46:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "submitted version"@en .
+
+<http://purl.org/coar/version#xl_en_90104c18>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:38:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "accepted manuscript"@en .
+
+<http://purl.org/coar/version#xl_en_903172e0>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:39:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "author's original"@en .
+
+<http://purl.org/coar/version#xl_en_97f1889b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:43:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "enhanced version of record"@en .
+
+<http://purl.org/coar/version#xl_en_c6ab4429>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:45:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "submitted manuscript under review"@en .
+
+<http://purl.org/coar/version#xl_en_c8092dd1>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:41:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "draft"@en .
+
+<http://purl.org/coar/version#xl_en_c95b342a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-10-31T08:38:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-11T22:42:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "postprint version"@en .
+
+<http://purl.org/coar/version#xl_en_cfc79329>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:41:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "corrected version of record"@en .
+
+<http://purl.org/coar/version#xl_en_db624f41>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-10-31T08:35:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-11T22:42:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "preprint version"@en .
+
+<http://purl.org/coar/version#xl_en_e85d3b64>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:40:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "accepted version"@en .
+
+<http://purl.org/coar/version#xl_en_fa528679>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-10T09:45:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version of record"@en .
+
+<http://purl.org/coar/version#xl_es_1e4dddae>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T14:49:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión sometida a revisión"@es .
+
+<http://purl.org/coar/version#xl_es_276c953e>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:18:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "no aplica"@es .
+
+<http://purl.org/coar/version#xl_es_2e15725b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T14:51:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión enviada al editor"@es .
+
+<http://purl.org/coar/version#xl_es_2fb6475c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:13:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión original del autor"@es .
+
+<http://purl.org/coar/version#xl_es_36eb4ca7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T14:50:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión enviada a revisión por pares"@es .
+
+<http://purl.org/coar/version#xl_es_412d5896>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-20T12:28:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "manuscrito aceptado"@es .
+
+<http://purl.org/coar/version#xl_es_51f7c432>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:47:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión corregida"@es .
+
+<http://purl.org/coar/version#xl_es_5a23e92c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:23:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "prueba de galera"@es .
+
+<http://purl.org/coar/version#xl_es_5cb7a075>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T14:47:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión no evaluada por pares"@es .
+
+<http://purl.org/coar/version#xl_es_5effd037>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T14:52:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "preprint"@es .
+
+<http://purl.org/coar/version#xl_es_6f6a3c39>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:23:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "manuscrito editado"@es .
+
+<http://purl.org/coar/version#xl_es_85acd252>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:15:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "postprint"@es .
+
+<http://purl.org/coar/version#xl_es_92196839>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:18:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "otros"@es .
+
+<http://purl.org/coar/version#xl_es_a5a21ff3>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:13:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "manuscrito"@es .
+
+<http://purl.org/coar/version#xl_es_af7876a6>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:12:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "borrador"@es .
+
+<http://purl.org/coar/version#xl_es_b5a7563a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:38:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión publicada"@es .
+
+<http://purl.org/coar/version#xl_es_b8be4cca>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:18:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión desconocida"@es .
+
+<http://purl.org/coar/version#xl_es_bbee9c98>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:48:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión mejorada"@es .
+
+<http://purl.org/coar/version#xl_es_c5b7a346>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:10:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión aceptada para publicar"@es .
+
+<http://purl.org/coar/version#xl_es_e08ba390>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:38:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión final del editor"@es .
+
+<http://purl.org/coar/version#xl_es_e2051e79>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:12:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión final del autor"@es .
+
+<http://purl.org/coar/version#xl_es_f516c583>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T14:49:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión enviada a revisión"@es .
+
+<http://purl.org/coar/version#xl_es_f5b4404c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:47:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versión publicada corregida"@es .
+
+<http://purl.org/coar/version#xl_es_f8c2848a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Deprecated" ;
+    <http://purl.org/dc/terms/created> "2018-06-12T15:26:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "manuscrito aceptado"@es .
+
+<http://purl.org/coar/version#xl_fr_0144ddb6>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:05:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "postprint"@fr .
+
+<http://purl.org/coar/version#xl_fr_0a7d3b80>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:05:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version corrigée"@fr .
+
+<http://purl.org/coar/version#xl_fr_0a95c0f5>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:09:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "autre version"@fr .
+
+<http://purl.org/coar/version#xl_fr_0e6e83d1>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:12:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version"@fr .
+
+<http://purl.org/coar/version#xl_fr_16aa4334>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:07:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version améliorée"@fr .
+
+<http://purl.org/coar/version#xl_fr_1dfc5092>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:03:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version finale"@fr .
+
+<http://purl.org/coar/version#xl_fr_2b0a1177>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:10:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "première version"@fr .
+
+<http://purl.org/coar/version#xl_fr_3c10ae83>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:11:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "reprint"@fr .
+
+<http://purl.org/coar/version#xl_fr_415d2fea>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:03:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "preprint"@fr .
+
+<http://purl.org/coar/version#xl_fr_5f610745>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:04:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "postpublication"@fr .
+
+<http://purl.org/coar/version#xl_fr_717e635e>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:09:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version originale"@fr .
+
+<http://purl.org/coar/version#xl_fr_802cd345>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:03:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version publiée"@fr .
+
+<http://purl.org/coar/version#xl_fr_a3350fc6>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:04:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version acceptée"@fr .
+
+<http://purl.org/coar/version#xl_fr_af4bd479>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:11:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version éditée"@fr .
+
+<http://purl.org/coar/version#xl_fr_bfba0dd6>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:10:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version d'origine"@fr .
+
+<http://purl.org/coar/version#xl_fr_d5716e29>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:07:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version amendée"@fr .
+
+<http://purl.org/coar/version#xl_fr_dd21d690>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:03:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "prépublication"@fr .
+
+<http://purl.org/coar/version#xl_fr_f2c5b510>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-08-16T13:02:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-03T14:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "version soumise"@fr .
+
+<http://purl.org/coar/version#xl_it_08aa0d0b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:16:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versione sottoposta a revisione"@it .
+
+<http://purl.org/coar/version#xl_it_1fb5ef85>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:21:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "bozza"@it .
+
+<http://purl.org/coar/version#xl_it_2129aac8>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:18:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "non applicabile (o ignoto)"@it .
+
+<http://purl.org/coar/version#xl_it_328179c4>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:16:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versione pubblicata"@it .
+
+<http://purl.org/coar/version#xl_it_71516e33>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:19:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versione revisionata"@it .
+
+<http://purl.org/coar/version#xl_it_75bed6c1>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:17:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versione originale dell'autore"@it .
+
+<http://purl.org/coar/version#xl_it_7fb45c38>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:20:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versione corretta"@it .
+
+<http://purl.org/coar/version#xl_it_a129751a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:17:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versione accettata per la pubblicazione"@it .
+
+<http://purl.org/coar/version#xl_it_c550f6aa>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-03T13:18:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "non applicabile"@it .
+
+<http://purl.org/coar/version#xl_ja_0bdf8b52>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:05:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "著者オリジナル版"@ja .
+
+<http://purl.org/coar/version#xl_ja_4c709da7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:07:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "校正版"@ja .
+
+<http://purl.org/coar/version#xl_ja_4e0832bf>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:06:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "更新版"@ja .
+
+<http://purl.org/coar/version#xl_ja_72ae61a3>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:07:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "訂正版"@ja .
+
+<http://purl.org/coar/version#xl_ja_75cdd516>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:03:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "査読版"@ja .
+
+<http://purl.org/coar/version#xl_ja_7e03d0ca>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:05:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "適用外"@ja .
+
+<http://purl.org/coar/version#xl_ja_ab615ccf>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:05:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "出版社受理版"@ja .
+
+<http://purl.org/coar/version#xl_ja_b934e082>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-01T00:04:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "出版社版"@ja .
+
+<http://purl.org/coar/version#xl_nl_09f7a2d4>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:36:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_2c30bf13>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:42:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "auteurs versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_363e783c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:32:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "ingediende versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_488b2c9f>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:41:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "gecorrigeerde versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_5faf4cf7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:36:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "gepubliceerde versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_6d218dd7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:33:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "preprint"@nl .
+
+<http://purl.org/coar/version#xl_nl_743c75b9>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:38:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "geaccepteerde versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_9e3a475c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:39:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "herziene versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_9ede3b54>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:45:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "gewijzigde versie"@nl .
+
+<http://purl.org/coar/version#xl_nl_cddd394a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:35:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "niet van toepassing (onbekend)"@nl .
+
+<http://purl.org/coar/version#xl_nl_d5315af1>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T09:32:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "drukproef"@nl .
+
+<http://purl.org/coar/version#xl_nl_dc13d18a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T07:45:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "revisie"@nl .
+
+<http://purl.org/coar/version#xl_nl_f22b0168>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2018-09-04T09:28:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-09-10T18:08:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "proefdruk"@nl .
+
+<http://purl.org/coar/version#xl_ru_06e1dfad>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:02:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобрен"@ru .
+
+<http://purl.org/coar/version#xl_ru_0fd3554d>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:52:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "принятая к публикации рукопись"@ru .
+
+<http://purl.org/coar/version#xl_ru_135a6da2>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:46:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "на рассмотрении в редакции"@ru .
+
+<http://purl.org/coar/version#xl_ru_17e97c5e>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:55:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "материал принятый к публикации "@ru .
+
+<http://purl.org/coar/version#xl_ru_184df83b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:01:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "исправленная версия "@ru .
+
+<http://purl.org/coar/version#xl_ru_2eb376a2>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:51:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "версия данных"@ru .
+
+<http://purl.org/coar/version#xl_ru_323dcfe1>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:45:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "на рассмотрении на предмет публикации"@ru .
+
+<http://purl.org/coar/version#xl_ru_369964c4>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "расширенная версия"@ru .
+
+<http://purl.org/coar/version#xl_ru_3d74dba7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:03:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобрено"@ru .
+
+<http://purl.org/coar/version#xl_ru_3f3a544b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:45:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "на рассмотрении журнала"@ru .
+
+<http://purl.org/coar/version#xl_ru_43205cd7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:02:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобренная"@ru .
+
+<http://purl.org/coar/version#xl_ru_5e67a265>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:53:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "рукопись принятая к публикации"@ru .
+
+<http://purl.org/coar/version#xl_ru_6f706577>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:56:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "материалы принятые к публикации "@ru .
+
+<http://purl.org/coar/version#xl_ru_76e22cb9>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:59:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "не применимо (или неизвестно)"@ru .
+
+<http://purl.org/coar/version#xl_ru_7b33d114>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:58:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "авторский оригинал"@ru .
+
+<http://purl.org/coar/version#xl_ru_7e89ce3a>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:03:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобрены"@ru .
+
+<http://purl.org/coar/version#xl_ru_8ac17082>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:02:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобренный"@ru .
+
+<http://purl.org/coar/version#xl_ru_94b2869d>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:51:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "рукопись принятая к рассмотрению"@ru .
+
+<http://purl.org/coar/version#xl_ru_a295653b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:03:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобрена"@ru .
+
+<http://purl.org/coar/version#xl_ru_a8ed3c4e>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T18:03:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "одобренные"@ru .
+
+<http://purl.org/coar/version#xl_ru_baedb13c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:58:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "оригинал"@ru .
+
+<http://purl.org/coar/version#xl_ru_c107bd92>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:54:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "статья принятая к публикации"@ru .
+
+<http://purl.org/coar/version#xl_ru_d57fc94f>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:48:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "версия записи"@ru .
+
+<http://purl.org/coar/version#xl_ru_f186fa61>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2017-05-07T17:47:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "версия публикации"@ru .
+
+<http://purl.org/coar/version#xl_tr_0878c0ca>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:54:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Eserin düzeltilmiş versiyonu"@tr .
+
+<http://purl.org/coar/version#xl_tr_324f481e>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T12:02:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Redakte edilmiş versiyon"@tr .
+
+<http://purl.org/coar/version#xl_tr_44da31a1>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:53:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Eserin geliştirilmiş versiyonu"@tr .
+
+<http://purl.org/coar/version#xl_tr_55bd4ca2>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:43:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Hakem değerlendirmesi için gönderilmiş versiyon"@tr .
+
+<http://purl.org/coar/version#xl_tr_60d10971>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:50:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Uygulanabilir değil"@tr .
+
+<http://purl.org/coar/version#xl_tr_8bcf047c>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:49:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Ön baskı"@tr .
+
+<http://purl.org/coar/version#xl_tr_8cb59fa6>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:47:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Yayına kabul edilmiş versiyon"@tr .
+
+<http://purl.org/coar/version#xl_tr_986a9703>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T12:03:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Yayıncı tarafından düzenlenmiş versiyon"@tr .
+
+<http://purl.org/coar/version#xl_tr_c5ca17e8>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:49:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Yazarın orijinal versiyonu"@tr .
+
+<http://purl.org/coar/version#xl_tr_e3ece9a9>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/created> "2019-04-17T11:45:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "Yayıncı versiyonu"@tr .
+
+<http://purl.org/coar/version/c_71e4c1898caa6e32>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@es, "preprint"@fr, "preprint"@nl, "prépublication"@fr, "submitted manuscript under review"@en, "submitted version"@en, "versión enviada a revisión"@es, "versión enviada a revisión por pares"@es, "versión enviada al editor"@es, "versión no evaluada por pares"@es, "на рассмотрении в редакции"@ru, "на рассмотрении журнала"@ru, "рукопись принятая к рассмотрению"@ru ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_cf9d25c64ceb18b6> ;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/submittedVersion> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Hakem değerlendirmesi için gönderilmiş versiyon"@tr, "SMUR"@en, "eingereichte Version"@de, "ingediende versie"@nl, "version soumise"@fr, "versione sottoposta a revisione"@it, "versión sometida a revisión"@es, "на рассмотрении на предмет публикации"@ru, "査読版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_en_76c8e339>, <http://purl.org/coar/version#xl_en_c6ab4429>, <http://purl.org/coar/version#xl_es_2e15725b>, <http://purl.org/coar/version#xl_es_36eb4ca7>, <http://purl.org/coar/version#xl_es_5cb7a075>, <http://purl.org/coar/version#xl_es_5effd037>, <http://purl.org/coar/version#xl_es_f516c583>, <http://purl.org/coar/version#xl_fr_415d2fea>, <http://purl.org/coar/version#xl_fr_dd21d690>, <http://purl.org/coar/version#xl_nl_6d218dd7>, <http://purl.org/coar/version#xl_ru_135a6da2>, <http://purl.org/coar/version#xl_ru_3f3a544b>, <http://purl.org/coar/version#xl_ru_94b2869d> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_f818f991>, <http://purl.org/coar/version#xl_es_1e4dddae>, <http://purl.org/coar/version#xl_fr_f2c5b510>, <http://purl.org/coar/version#xl_it_08aa0d0b>, <http://purl.org/coar/version#xl_ja_75cdd516>, <http://purl.org/coar/version#xl_nl_363e783c>, <http://purl.org/coar/version#xl_ru_323dcfe1>, <http://purl.org/coar/version#xl_tr_55bd4ca2>, <http://purl.org/coar/version/xl_7ccca20334f53379> .
+
+<http://purl.org/coar/version/c_970fb48d4fbd8a85>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "originale Verlagspublikation"@de, "publisher version"@en, "reprint"@fr, "versie"@nl, "version finale"@fr, "version of record"@en, "version éditée"@fr, "versión final del editor"@es, "версия данных"@ru, "версия записи"@ru ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_913c87f4f28424be> ;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/publishedVersion> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Erstpublikation"@de, "VoR"@en, "Yayıncı versiyonu"@tr, "gepubliceerde versie"@nl, "version publiée"@fr, "versione pubblicata"@it, "versión publicada"@es, "версия публикации"@ru, "出版社版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_de_a8a6c135>, <http://purl.org/coar/version#xl_en_10de14d8>, <http://purl.org/coar/version#xl_en_fa528679>, <http://purl.org/coar/version#xl_es_e08ba390>, <http://purl.org/coar/version#xl_fr_1dfc5092>, <http://purl.org/coar/version#xl_fr_3c10ae83>, <http://purl.org/coar/version#xl_fr_af4bd479>, <http://purl.org/coar/version#xl_nl_09f7a2d4>, <http://purl.org/coar/version#xl_ru_2eb376a2>, <http://purl.org/coar/version#xl_ru_d57fc94f> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_034da9c9>, <http://purl.org/coar/version#xl_es_b5a7563a>, <http://purl.org/coar/version#xl_fr_802cd345>, <http://purl.org/coar/version#xl_it_328179c4>, <http://purl.org/coar/version#xl_ja_b934e082>, <http://purl.org/coar/version#xl_nl_5faf4cf7>, <http://purl.org/coar/version#xl_ru_f186fa61>, <http://purl.org/coar/version#xl_tr_e3ece9a9>, <http://purl.org/coar/version/xl_699e8c3569432bcb> .
+
+<http://purl.org/coar/version/c_ab4af688f83e57aa>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Post-Print"@de, "accepted manuscript"@en, "accepted version"@en, "manuscrito aceptado"@es, "postprint"@es, "postprint"@fr, "postprint version"@en, "postpublication"@fr, "versión aceptada para publicar"@es, "материалы принятые к публикации "@ru, "принятая к публикации рукопись"@ru, "рукопись принятая к публикации"@ru, "статья принятая к публикации"@ru ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_a36c65451bebb97c> ;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/acceptedVersion> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "AM"@en, "Yayına kabul edilmiş versiyon"@tr, "akzeptiertes Manuskript"@de, "geaccepteerde versie"@nl, "version acceptée"@fr, "versione accettata per la pubblicazione"@it, "versión final del autor"@es, "материал принятый к публикации "@ru, "出版社受理版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_de_87e539b7>, <http://purl.org/coar/version#xl_en_90104c18>, <http://purl.org/coar/version#xl_en_c95b342a>, <http://purl.org/coar/version#xl_en_e85d3b64>, <http://purl.org/coar/version#xl_es_412d5896>, <http://purl.org/coar/version#xl_es_85acd252>, <http://purl.org/coar/version#xl_es_c5b7a346>, <http://purl.org/coar/version#xl_fr_0144ddb6>, <http://purl.org/coar/version#xl_fr_5f610745>, <http://purl.org/coar/version#xl_ru_0fd3554d>, <http://purl.org/coar/version#xl_ru_5e67a265>, <http://purl.org/coar/version#xl_ru_6f706577>, <http://purl.org/coar/version#xl_ru_c107bd92> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_884a4d34>, <http://purl.org/coar/version#xl_es_e2051e79>, <http://purl.org/coar/version#xl_fr_a3350fc6>, <http://purl.org/coar/version#xl_it_a129751a>, <http://purl.org/coar/version#xl_ja_ab615ccf>, <http://purl.org/coar/version#xl_nl_743c75b9>, <http://purl.org/coar/version#xl_ru_17e97c5e>, <http://purl.org/coar/version#xl_tr_8cb59fa6>, <http://purl.org/coar/version/xl_bc4ac5803bd84030> .
+
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "author's original"@en, "borrador"@es, "draft"@en, "manuscrito"@es, "première version"@fr, "preprint version"@en, "version d'origine"@fr, "Ön baskı"@tr, "оригинал"@ru ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_eb59235768ed0e46> ;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/authorVersion> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "AO"@en, "Autorenversion"@de, "Yazarın orijinal versiyonu"@tr, "auteurs versie"@nl, "version originale"@fr, "versione originale dell'autore"@it, "versión original del autor"@es, "авторский оригинал"@ru, "著者オリジナル版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_en_903172e0>, <http://purl.org/coar/version#xl_en_c8092dd1>, <http://purl.org/coar/version#xl_en_db624f41>, <http://purl.org/coar/version#xl_es_a5a21ff3>, <http://purl.org/coar/version#xl_es_af7876a6>, <http://purl.org/coar/version#xl_fr_2b0a1177>, <http://purl.org/coar/version#xl_fr_bfba0dd6>, <http://purl.org/coar/version#xl_ru_baedb13c>, <http://purl.org/coar/version#xl_tr_8bcf047c> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_af792ee0>, <http://purl.org/coar/version#xl_es_2fb6475c>, <http://purl.org/coar/version#xl_fr_717e635e>, <http://purl.org/coar/version#xl_it_75bed6c1>, <http://purl.org/coar/version#xl_ja_0bdf8b52>, <http://purl.org/coar/version#xl_nl_2c30bf13>, <http://purl.org/coar/version#xl_ru_7b33d114>, <http://purl.org/coar/version#xl_tr_c5ca17e8>, <http://purl.org/coar/version/xl_81dc747bd033f02d> .
+
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "autre version"@fr, "no aplica"@es, "non applicabile (o ignoto)"@it, "not applicable (or unknown)"@en, "otros"@es ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version#xDef_54859fb4> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "NA"@en, "Uygulanabilir değil"@tr, "keine Angabe"@de, "niet van toepassing (onbekend)"@nl, "non applicabile"@it, "versión desconocida"@es, "не применимо (или неизвестно)"@ru, "適用外"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_en_1dd93dfa>, <http://purl.org/coar/version#xl_es_276c953e>, <http://purl.org/coar/version#xl_es_92196839>, <http://purl.org/coar/version#xl_fr_0a95c0f5>, <http://purl.org/coar/version#xl_it_2129aac8> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_065b40ff>, <http://purl.org/coar/version#xl_es_b8be4cca>, <http://purl.org/coar/version#xl_it_c550f6aa>, <http://purl.org/coar/version#xl_ja_7e03d0ca>, <http://purl.org/coar/version#xl_nl_cddd394a>, <http://purl.org/coar/version#xl_ru_76e22cb9>, <http://purl.org/coar/version#xl_tr_60d10971>, <http://purl.org/coar/version/xl_d574152dbbc746f7> .
+
+<http://purl.org/coar/version/c_dc82b40f9837b551>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "aktualisierte Version"@de, "enhanced version of record"@en, "gewijzigde versie"@nl, "version amendée"@fr ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_23049e0cbad0d6b7> ;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/updatedVersion> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "EVoR"@en, "Eserin geliştirilmiş versiyonu"@tr, "erweiterte Version"@de, "revisie"@nl, "version améliorée"@fr, "versione revisionata"@it, "versión mejorada"@es, "расширенная версия"@ru, "更新版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_de_7a1c1f27>, <http://purl.org/coar/version#xl_en_97f1889b>, <http://purl.org/coar/version#xl_fr_d5716e29>, <http://purl.org/coar/version#xl_nl_9ede3b54> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_5e89e638>, <http://purl.org/coar/version#xl_es_bbee9c98>, <http://purl.org/coar/version#xl_fr_16aa4334>, <http://purl.org/coar/version#xl_it_71516e33>, <http://purl.org/coar/version#xl_ja_4e0832bf>, <http://purl.org/coar/version#xl_nl_dc13d18a>, <http://purl.org/coar/version#xl_ru_369964c4>, <http://purl.org/coar/version#xl_tr_44da31a1>, <http://purl.org/coar/version/xl_c1601ae1bffeb950> .
+
+<http://purl.org/coar/version/c_e19f295774971610>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "corrected version of record"@en, "gecorrigeerde versie"@nl, "versión publicada corregida"@es ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_4703bdacd1847614> ;
+    <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/updatedVersion> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "CVoR"@en, "Eserin düzeltilmiş versiyonu"@tr, "herziene versie"@nl, "korrigierte Version"@de, "version corrigée"@fr, "versione corretta"@it, "versión corregida"@es, "исправленная версия "@ru, "訂正版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_en_cfc79329>, <http://purl.org/coar/version#xl_es_f5b4404c>, <http://purl.org/coar/version#xl_nl_488b2c9f> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_ab645669>, <http://purl.org/coar/version#xl_es_51f7c432>, <http://purl.org/coar/version#xl_fr_0a7d3b80>, <http://purl.org/coar/version#xl_it_7fb45c38>, <http://purl.org/coar/version#xl_ja_72ae61a3>, <http://purl.org/coar/version#xl_nl_9e3a475c>, <http://purl.org/coar/version#xl_ru_184df83b>, <http://purl.org/coar/version#xl_tr_0878c0ca>, <http://purl.org/coar/version/xl_6b975093db3c0abb> .
+
+<http://purl.org/coar/version/c_fa2ee174bc00049f>
+    <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2004/02/skos/core#Concept> ;
+    <http://www.w3.org/2004/02/skos/core#altLabel> "Yayıncı tarafından düzenlenmiş versiyon"@tr, "drukproef"@nl, "manuscrito aceptado"@es, "manuscrito editado"@es, "proof"@en, "version"@fr, "одобрена"@ru, "одобренная"@ru, "одобренные"@ru, "одобренный"@ru, "одобрено"@ru, "одобрены"@ru ;
+    <http://www.w3.org/2004/02/skos/core#definition> <http://purl.org/coar/version/def_027718e77d04f40a> ;
+    <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Korrekturfahne"@de, "P"@en, "Redakte edilmiş versiyon"@tr, "bozza"@it, "proefdruk"@nl, "prueba de galera"@es, "одобрен"@ru, "校正版"@ja ;
+    <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> ;
+    <http://www.w3.org/2008/05/skos-xl#altLabel> <http://purl.org/coar/version#xl_en_0b85f51e>, <http://purl.org/coar/version#xl_es_6f6a3c39>, <http://purl.org/coar/version#xl_es_f8c2848a>, <http://purl.org/coar/version#xl_fr_0e6e83d1>, <http://purl.org/coar/version#xl_nl_d5315af1>, <http://purl.org/coar/version#xl_ru_3d74dba7>, <http://purl.org/coar/version#xl_ru_43205cd7>, <http://purl.org/coar/version#xl_ru_7e89ce3a>, <http://purl.org/coar/version#xl_ru_8ac17082>, <http://purl.org/coar/version#xl_ru_a295653b>, <http://purl.org/coar/version#xl_ru_a8ed3c4e>, <http://purl.org/coar/version#xl_tr_986a9703> ;
+    <http://www.w3.org/2008/05/skos-xl#prefLabel> <http://purl.org/coar/version#xl_de_4624f449>, <http://purl.org/coar/version#xl_es_5a23e92c>, <http://purl.org/coar/version#xl_it_1fb5ef85>, <http://purl.org/coar/version#xl_ja_4c709da7>, <http://purl.org/coar/version#xl_nl_f22b0168>, <http://purl.org/coar/version#xl_ru_06e1dfad>, <http://purl.org/coar/version#xl_tr_324f481e>, <http://purl.org/coar/version/xl_d26114f5c56ba44b> .
+
+<http://purl.org/coar/version/def_027718e77d04f40a>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """A version of a resource that is created as part of the publication process. This includes the copy-edited manuscript, galley proofs (i.e., a typeset version that has not been made up into pages), page proofs, and revised proofs. Some of these versions may remain essentially internal process versions, but others are commonly released from the internal environment (e.g., proofs are sent to authors) and may thus become public, even though they are not authorized to be so. Content has been changed from Accepted Manuscript; layout is the publisher’s.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en .
+
+<http://purl.org/coar/version/def_23049e0cbad0d6b7>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """A version of the Version of Record of a resource that has been updated or 
+enhanced by the provision of supplementary material.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en .
+
+<http://purl.org/coar/version/def_4703bdacd1847614>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """A version of the Version of Record of a resource in which errors in the VoR have been corrected. The errors may be author errors, publisher errors, or other processing errors.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en .
+
+<http://purl.org/coar/version/def_913c87f4f28424be>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """A fixed version of a resource that has been made available by any organization that acts as a publisher by formally and exclusively declaring the resource “published”. This includes any “early release” resource that is formally identified as being published even before the compilation of a volume issue and assignment of associated metadata, as long as it is citable via some permanent identifier(s). This does not include any “early release” resource that has not yet been “fixed” by processes that are still to be applied, such as copy-editing, proof corrections, layout, and typesetting.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en .
+
+<http://purl.org/coar/version/def_a36c65451bebb97c>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """The version of a resource that has been accepted for publication. A second party takes permanent responsibility for the resource. Content and layout follow publisher’s submission requirements.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"""@en .
+
+<http://purl.org/coar/version/def_cf9d25c64ceb18b6>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """Any version of a resource that is under formal review managed by a socially recognized publishing entity. The entity recognizes its responsibility to provide objective expert review and feedback to the author, and, ultimately, to pass judgment on the fitness of the resource for publication with an “accept” or “reject” decision. May have a version number or date stamp. Content and layout follow publisher’s submission requirements.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)
+"""@en .
+
+<http://purl.org/coar/version/def_eb59235768ed0e46>
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:56:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    <http://purl.org/dc/terms/source> <https://www.niso.org/publications/niso-rp-8-2008-jav> ;
+    rdf:value """Any version of a resource that is considered by the author to be of sufficient quality to be submitted for formal peer review by a second party. The author accepts full responsibility for the resource . May have a version number or date stamp. Content and layout as set out by the author.
+(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"""@en .
+
+<http://purl.org/coar/version/xl_699e8c3569432bcb>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "VoR"@en .
+
+<http://purl.org/coar/version/xl_6b975093db3c0abb>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "CVoR"@en .
+
+<http://purl.org/coar/version/xl_7ccca20334f53379>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "SMUR"@en .
+
+<http://purl.org/coar/version/xl_81dc747bd033f02d>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "AO"@en .
+
+<http://purl.org/coar/version/xl_bc4ac5803bd84030>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T16:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "AM"@en .
+
+<http://purl.org/coar/version/xl_c1601ae1bffeb950>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "EVoR"@en .
+
+<http://purl.org/coar/version/xl_d26114f5c56ba44b>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "P"@en .
+
+<http://purl.org/coar/version/xl_d574152dbbc746f7>
+    <http://art.uniroma2.it/ontologies/vocbench#hasStatus> "Published" ;
+    <http://purl.org/dc/terms/modified> "2018-07-18T17:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> ;
+    a <http://www.w3.org/2008/05/skos-xl#Label> ;
+    <http://www.w3.org/2008/05/skos-xl#literalForm> "NA"@en .
+

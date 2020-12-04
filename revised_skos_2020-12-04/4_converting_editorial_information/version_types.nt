@@ -1,0 +1,186 @@
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "version d'origine"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "author's original"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "Ön baskı"@tr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "draft"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "borrador"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "première version"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "оригинал"@ru .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint version"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "auteurs versie"@nl .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión original del autor"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "авторский оригинал"@ru .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "version originale"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yazarın orijinal versiyonu"@tr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "AO"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorenversion"@de .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "著者オリジナル版"@ja .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione originale dell'autore"@it .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#definition> "Any version of a resource that is considered by the author to be of sufficient quality to be submitted for formal peer review by a second party. The author accepts full responsibility for the resource . May have a version number or date stamp. Content and layout as set out by the author.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/authorVersion> .
+<http://purl.org/coar/version> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "aktualisierte Version"@de .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "enhanced version of record"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "gewijzigde versie"@nl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "version amendée"@fr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "更新版"@ja .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "erweiterte Version"@de .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "version améliorée"@fr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión mejorada"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "revisie"@nl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eserin geliştirilmiş versiyonu"@tr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "расширенная версия"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "EVoR"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione revisionata"@it .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#definition> "A version of the Version of Record of a resource that has been updated or \nenhanced by the provision of supplementary material.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)\n"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/updatedVersion> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобрена"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "proof"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобренный"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito editado"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "Yayıncı tarafından düzenlenmiş versiyon"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобрено"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "drukproef"@nl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito aceptado"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобренная"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобрены"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобренные"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "version"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "одобрен"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korrekturfahne"@de .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "proefdruk"@nl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redakte edilmiş versiyon"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "校正版"@ja .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "prueba de galera"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "bozza"@it .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "P"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#definition> "A version of a resource that is created as part of the publication process. This includes the copy-edited manuscript, galley proofs (i.e., a typeset version that has not been made up into pages), page proofs, and revised proofs. Some of these versions may remain essentially internal process versions, but others are commonly released from the internal environment (e.g., proofs are sent to authors) and may thus become public, even though they are not authorized to be so. Content has been changed from Accepted Manuscript; layout is the publisher’s.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)\n"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "autre version"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "no aplica"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "not applicable (or unknown)"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "non applicabile (o ignoto)"@it .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "otros"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "keine Angabe"@de .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "NA"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "適用外"@ja .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión desconocida"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet van toepassing (onbekend)"@nl .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "non applicabile"@it .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uygulanabilir değil"@tr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "не применимо (или неизвестно)"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#definition> "Not Applicable	(or Unknown)"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "версия записи"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version finale"@fr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versie"@nl .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "reprint"@fr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "версия данных"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "originale Verlagspublikation"@de .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "publisher version"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version of record"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versión final del editor"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version éditée"@fr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione pubblicata"@it .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "出版社版"@ja .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "версия публикации"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "VoR"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión publicada"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yayıncı versiyonu"@tr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erstpublikation"@de .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "gepubliceerde versie"@nl .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "version publiée"@fr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#definition> "A fixed version of a resource that has been made available by any organization that acts as a publisher by formally and exclusively declaring the resource “published”. This includes any “early release” resource that is formally identified as being published even before the compilation of a volume issue and assignment of associated metadata, as long as it is citable via some permanent identifier(s). This does not include any “early release” resource that has not yet been “fixed” by processes that are still to be applied, such as copy-editing, proof corrections, layout, and typesetting.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)\n"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/publishedVersion> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "submitted manuscript under review"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "submitted version"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión enviada a revisión"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "на рассмотрении журнала"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "на рассмотрении в редакции"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "рукопись принятая к рассмотрению"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión enviada al editor"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "prépublication"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión enviada a revisión por pares"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión no evaluada por pares"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingereichte Version"@de .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "version soumise"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "SMUR"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión sometida a revisión"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "на рассмотрении на предмет публикации"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hakem değerlendirmesi için gönderilmiş versiyon"@tr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione sottoposta a revisione"@it .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "査読版"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "ingediende versie"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#definition> "Any version of a resource that is under formal review managed by a socially recognized publishing entity. The entity recognizes its responsibility to provide objective expert review and feedback to the author, and, ultimately, to pass judgment on the fitness of the resource for publication with an “accept” or “reject” decision. May have a version number or date stamp. Content and layout follow publisher’s submission requirements.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)\n"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/submittedVersion> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "статья принятая к публикации"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versión aceptada para publicar"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint version"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "Post-Print"@de .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "рукопись принятая к публикации"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "accepted version"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "материалы принятые к публикации "@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito aceptado"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "accepted manuscript"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postpublication"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "принятая к публикации рукопись"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "geaccepteerde versie"@nl .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "version acceptée"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "出版社受理版"@ja .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "AM"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "akzeptiertes Manuskript"@de .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión final del autor"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "материал принятый к публикации "@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione accettata per la pubblicazione"@it .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yayına kabul edilmiş versiyon"@tr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#definition> "The version of a resource that has been accepted for publication. A second party takes permanent responsibility for the resource. Content and layout follow publisher’s submission requirements.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/acceptedVersion> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "versión publicada corregida"@es .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "gecorrigeerde versie"@nl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "corrected version of record"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korrigierte Version"@de .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "исправленная версия "@ru .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "version corrigée"@fr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "訂正版"@ja .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione corretta"@it .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión corregida"@es .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "CVoR"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "herziene versie"@nl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eserin düzeltilmiş versiyonu"@tr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#definition> "A version of the Version of Record of a resource in which errors in the VoR have been corrected. The errors may be author errors, publisher errors, or other processing errors.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)\n"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://purl.org/dc/terms/modified> "2019-04-17T21:29:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/updatedVersion> .

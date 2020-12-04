@@ -1,0 +1,2730 @@
+
+<http://purl.org/coar/resource_type/c_0040> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:55:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:31:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "document original"@ca,
+    "El yazması"@tr,
+    "rokopis"@sl,
+    "манускрипт"@ru,
+    "handschrift"@nl;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A manuscript is a work of any kind (text, inscription, music score, map, etc.) written entirely by hand. (Adapted from ODLIS)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Yazma eser"@tr,
+    "手稿"@ja,
+    "manuscrito"@es,
+    "manuscript"@en,
+    "manuscrit"@fr,
+    "manoscritto"@it,
+    "Manuskript"@de,
+    "рукопись"@ru,
+    "manuscript"@nl,
+    "manuscrit"@ca .
+
+<http://purl.org/coar/resource_type/c_0857> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:50:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "Leserbrief"@de,
+    "письмо редактору "@ru,
+    "сопроводительное письмо"@ru,
+    "讀者來信"@zh,
+    "lettera"@it,
+    "missiva"@pt,
+    "dikusijski prispevek"@sl,
+    "polemika"@sl,
+    "读者来信"@zh,
+    "Korrespondenz"@de;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A brief description of important new research, also known as “communication”. (adapted from EuroCRIS)"@en,
+    "Бумага с написанным на ней от руки или напечатанным текстом,  служащая средством общения между физическими лицами и/или представителями юридических лиц. Как правило, письмо доставляется почтовой службой или публикуется  в периодическом издании. В последнем случае, письмо адресовывается редактору/редакции, и комментирует или обсуждает статью, опубликованную ранее в этом периодическом издании, или представляет интерес для конкретной читательской аудитории."@ru;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Letter>,
+    <http://purl.org/ontology/bibo/Letter>,
+    <https://scigraph.springernature.com/things/technical-article-types/letter>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "mektup"@tr,
+    "письмо"@ru,
+    "letter"@en,
+    "carta"@pt,
+    "carta"@es,
+    "Brief"@de,
+    "lettre"@fr,
+    "短報"@ja,
+    "信"@zh,
+    "brief"@nl,
+    " رسالة"@ar,
+    "pismo"@sl,
+    "comunicazione"@it,
+    "carta"@ca,
+    "dopis"@cs .
+
+<http://purl.org/coar/resource_type/c_1162> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:55:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "аннотация"@ru,
+    "glossa"@it,
+    "apontamento"@pt,
+    "комментарий"@ru,
+    "annotazione"@it,
+    "anotación"@es,
+    "註釋"@zh,
+    "glosa"@es,
+    "詮釋"@zh,
+    "注释"@zh,
+    "dipnot"@tr,
+    "comentário"@pt,
+    "诠释"@zh,
+    "pravno mnenje"@sl,
+    "nota a un texto de jurisprudencia"@es,
+    "標注"@zh,
+    "Kommentierung"@de,
+    "glosa"@pt,
+    "opomba"@sl,
+    "comentario"@es,
+    "nota"@pt,
+    "nota"@it,
+    "zaznamba"@sl,
+    "nota"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "An annotation in the sense of a legal note is a legally explanatory comment on a decision handed down by a court or arbitral tribunal."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/annotation>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "примечание"@ru,
+    "nota de jurisprudencia"@es,
+    "annotation"@en,
+    "标注"@zh,
+    "açıklama"@tr,
+    "注釈"@ja,
+    "právní komentář rozsudku nebo rozhodnutí"@cs,
+    "anotació"@ca,
+    "Entscheidungs- oder Urteilsanmerkung"@de,
+    "annotation"@fr,
+    "annotatie"@nl,
+    "anotação"@pt,
+    "شرح"@ar,
+    "zaznamek"@sl,
+    "commento"@it;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/spar/fabio/LegalOpinion> .
+
+<http://purl.org/coar/resource_type/c_12cd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:38:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-03T14:37:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "отображение"@ru,
+    "планово-картографический материал"@ru,
+    "carte"@fr,
+    "схема"@ru,
+    "чертёж"@ru,
+    "plan"@fr,
+    "план "@ru,
+    "地圖"@zh,
+    "geografska karta"@sl;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_12cc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Defined as a representation normally to scale and on a flat medium, of a selection of material or abstract features on, or in relation to, the surface of the earth or of another celestial body. [Source: https://www.loc.gov/marc/bibliographic/bd007a.html]"@en,
+    "harita"@tr;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "地図"@ja,
+    "карта "@ru,
+    "mapa"@es,
+    "地图"@zh,
+    "carte géographique"@fr,
+    "harita"@tr,
+    "mapa"@cs,
+    "mappa"@it,
+    "Karte"@de,
+    "خارطة"@ar,
+    "mapa"@ca,
+    "kaart"@nl,
+    "mapa"@pt,
+    "map"@en,
+    "zemljevid"@sl .
+
+<http://purl.org/coar/resource_type/c_12ce> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:44:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:09:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "видеозапись"@ru,
+    "視頻"@zh,
+    "кинофильм"@ru,
+    "video"@pt,
+    "video"@es,
+    "кинематографический документ"@ru,
+    "видеоизображение"@ru,
+    "кинодокумент"@ru,
+    "动态影像"@zh,
+    "動態影像"@zh,
+    "видеофильм"@ru,
+    "видеодокумент"@ru,
+    "видеофонограмма"@ru;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/Movie>,
+    <http://purl.org/dc/dcmitype/MovingImage>,
+    <http://purl.org/spar/fabio/MovingImage>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_8a7e>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A recording of visual images, usually in motion and with sound accompaniment. [Source: http://www.ifla.org/files/assets/cataloguing/isbd/isbd-cons_20110321.pdf ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "録画資料"@ja,
+    "video"@it,
+    "视频"@zh,
+    "vidéo"@fr,
+    "video"@en,
+    "video"@nl,
+    "video"@tr,
+    "vídeo"@es,
+    "vídeo"@pt,
+    "video"@sl,
+    " فيد يو"@ar,
+    "Video"@de,
+    "vídeo"@ca,
+    "видео"@ru,
+    "video"@cs .
+
+<http://purl.org/coar/resource_type/c_15cd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "патентное право"@ru,
+    "專利"@zh,
+    "patents"@en,
+    "диплом на открытие "@ru,
+    "патент на изобретение"@ru,
+    "патентный документ "@ru,
+    "авторское свидетельство на изобретение "@ru,
+    "patente de invencion"@es,
+    "патентная информация"@ru,
+    "патент (свидетельство) на полезную модель "@ru,
+    "patent"@sl,
+    "патент на промышленный образец"@ru,
+    "patente de invención"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A patent or patent application."@en,
+    "Патент или заявка на изобретение. Предоставление эксклюзивного права на эксплуатацию изобретения."@ru;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/patent>,
+    <http://purl.org/eprint/type/Patent>,
+    <https://dictionary.casrai.org/Patent>,
+    <http://purl.org/spar/fabio/Patent>,
+    <http://purl.org/ontology/bibo/Patent>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "patente"@pt,
+    "Patent"@de,
+    "патент"@ru,
+    "特許"@ja,
+    "patent"@ca,
+    "专利"@zh,
+    "patente"@es,
+    "brevet"@fr,
+    "brevetto"@it,
+    "patent"@cs,
+    "patent"@en,
+    " براءة الاختراع "@ar,
+    "patent"@tr,
+    "patent"@nl .
+
+<http://purl.org/coar/resource_type/c_1843> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:59:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "其它"@zh,
+    "прочие документы"@ru,
+    "прочие издания"@ru,
+    "другое "@ru,
+    "прочие ресурсы"@ru;
+  <http://www.w3.org/2004/02/skos/core#definition> "A rest category which may cover text, interactive, sound, or image-based resources not explicitly addressed in any concept in this vocabulary"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/other>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> " آخر"@ar,
+    "outros"@pt,
+    "autre"@fr,
+    "sonstige"@de,
+    "ostalo"@sl,
+    "anders"@nl,
+    "其他"@zh,
+    "прочее "@ru,
+    "altro"@it,
+    "diğer"@tr,
+    "altres"@ca,
+    "other"@en,
+    "ostatní"@cs,
+    "otros"@es,
+    "その他"@ja;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://dictionary.casrai.org/Outputs_-_Other>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_186u> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:32:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:25:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "informe sobre políticas"@es,
+    "Strategiepapier"@de,
+    "доклад о политике в области развития"@ru,
+    "отчёт о политике"@ru,
+    "政策報告"@zh,
+    "memoria de protocolo de actuación"@es,
+    "informe de gestión"@es,
+    "доклад о политике"@ru,
+    "Grundsatzpapier"@de,
+    "informe de gestió"@ca,
+    "informe de actuación"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A policy report is a type of report that provides an in-depth look at major policy developments and events [Source: http://www.ifpri.org/topic/global-food-policy-report]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "rapport stratégique"@fr,
+    "общие положения"@ru,
+    "zpráva k politice nebo strategii"@cs,
+    "Policy Report"@de,
+    "strateško poročilo"@sl,
+    "relatório de política"@pt,
+    "politika raporu"@tr,
+    "informativa politica"@it,
+    "informe de política"@ca,
+    "ポリシーレポート"@ja,
+    "beleidsrapport"@nl,
+    "policy report"@en,
+    "memoria de actuación"@es,
+    " تقرير عن السياسات"@ar,
+    "政策报告"@zh .
+
+<http://purl.org/coar/resource_type/c_18cd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:42:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:09:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "音樂"@zh,
+    "glasbeno delo"@sl,
+    "partitura"@ca,
+    "pieza de musica"@es,
+    "pieza musical"@es,
+    "obra de musica"@es,
+    "obra de música"@es,
+    "composicion musical"@es,
+    "قطعة موسيقية "@ar,
+    "hudební kompozice"@cs,
+    "Tonsatz"@de,
+    " قطعة موسيقية   "@ar,
+    "音乐作品"@zh,
+    "музыкальное произведение"@ru,
+    "音樂作品"@zh,
+    "pieza de música"@es,
+    "obra musical"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Musical composition can refer to an original piece of music, the structure of a musical piece, or the process of creating a new piece of music.   [Source: https://en.wikipedia.org/wiki/Musical_composition ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <https://schema.org/MusicComposition>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "composition musicale"@fr,
+    "composição musical"@pt,
+    "skladba"@sl,
+    "composició musical"@ca,
+    "音乐"@zh,
+    "muzikale compositie"@nl,
+    "音楽"@ja,
+    "müzikal kompozisyon"@tr,
+    "composizione musicale"@it,
+    " تأليف موسيقي "@ar,
+    "musical composition"@en,
+    "musikalische Komposition"@de,
+    "composición musical"@es,
+    "hudební skladba"@cs,
+    "музыкальная композиция"@ru .
+
+<http://purl.org/coar/resource_type/c_18co> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:28:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "poster"@pt,
+    "неопубликованные постеры конференции"@ru,
+    "plakat"@sl,
+    "неопубликованный плакат конференции"@ru,
+    "неопубликованные плакаты конференций"@ru,
+    "póster não publicado nas atas do congresso"@pt,
+    "неопубликованные плакаты конференции"@ru,
+    "poster de conférence non publié dans les actes"@fr,
+    "未發表在會議論文集中的海報"@zh;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_c94f>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A display poster, typically containing text with illustrative figures and/or tables, usually reporting research results or proposing hypotheses, submitted for acceptance to and/or presented at a conference, seminar, symposium, workshop or similar event.  (Adapted from fabio)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Proposed deprecated";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "poster non pubblicato in atti di congresso"@it,
+    "yayınlanmamış konferans posteri"@tr,
+    "未发表在会议论文集中的海报"@zh,
+    "konferenční poster nezahrnutý ve sborníku"@cs,
+    "Konferenzposter nicht im Tagungsband"@de,
+    "poster"@sl,
+    "poster dans une conférence non publié dans les actes"@fr,
+    "conferentie poster niet in proceedings"@nl,
+    "会議発表ポスター（会議録未掲載）"@ja,
+    "póster no publicado en actas de congreso"@es,
+    "póster não publicado nas atas da conferência"@pt,
+    "poster no publicat en actes de congrés"@ca,
+    "conference poster not in proceedings"@en,
+    "неопубликованный постер конференции"@ru .
+
+<http://purl.org/coar/resource_type/c_18cp> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:27:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "неопубликованные материалы конференции"@ru,
+    "artigo não publicado nas atas da conferência"@pt,
+    "неопубликованные работы конференции"@ru,
+    "неопубликованные доклады конференций"@ru,
+    "未發表在會議論文集中的文章"@zh,
+    "comunicação não publicada nas atas do congresso"@pt,
+    "artigo não publicado nas atas do congresso"@pt,
+    "неопубликованные доклады конференции"@ru,
+    "conferencepaper not in proceedings"@en,
+    "article de conférence non publié dans les actes"@fr;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_c94f>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A conference paper that is submitted to a conference and presented to the audience. The conference paper is not published in proceedings. [Source: http://academia.stackexchange.com/questions/18349/difference-between-conference-paper-and-journal-paper ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Proposed deprecated";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Konferenzbeitrag nicht im Tagungsband"@de,
+    "yayınlanmamış konferans bildirisi"@tr,
+    "article dans une conférence non publié dans les actes"@fr,
+    "неопубликованный доклад конференции"@ru,
+    "未发表在会议论文集中的文章"@zh,
+    "neobjavljen članek na konferenci"@sl,
+    "conferentie artikel niet in proceedings"@nl,
+    "comunicación no publicada en actas de congreso"@es,
+    "konferenční příspěvek nezahrnutý ve sborníku"@cs,
+    "conference paper not in proceedings"@en,
+    "comunicação não publicada nas atas da conferência"@pt,
+    "comunicació no publicada en actes de congrés"@ca,
+    "comunicazione non pubblicata in atti di congresso"@it,
+    "会議発表論文（会議録未掲載）"@ja .
+
+<http://purl.org/coar/resource_type/c_18cw> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:40:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-03T14:38:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "ноты"@ru,
+    "مدونة موسيقية"@ar,
+    "notenschrift"@nl,
+    "partitura"@pt,
+    "partitura"@es,
+    "Notenschrift"@de,
+    "music notation"@en,
+    "нотная запись"@ru,
+    "partition de musique"@fr,
+    "noty"@cs,
+    "notacion musical"@es,
+    "樂譜"@zh,
+    "partition musicale"@fr;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Musical notation is any system used to visually represent aurally perceived music through the use of written symbols, including ancient or modern musical symbols. [Source: https://en.wikipedia.org/wiki/Musical_notation]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "notação musical"@pt,
+    "muzieknotatie"@nl,
+    "Musiknotation"@de,
+    "nota"@tr,
+    "楽譜"@ja,
+    "note"@sl,
+    "музыкальная нотация"@ru,
+    "notació musical"@ca,
+    " تدوينة موسيقية"@ar,
+    "hudební zápis"@cs,
+    "乐谱"@zh,
+    "musical notation"@en,
+    "partition"@fr,
+    "notación musical"@es,
+    "notazione musicale"@it .
+
+<http://purl.org/coar/resource_type/c_18gh> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:32:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:03:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "reporte técnico"@es,
+    "reporte tecnico"@es,
+    "технический доклад "@ru,
+    "отчёт о техническом состоянии"@ru,
+    "informe tecnico"@es,
+    "отчёт по техническим вопросам"@ru,
+    "技術報告"@zh;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A technical report is a document that records the procedure adopted and results obtained from a scientific or technical activity or investigation."@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/TechnicalReport>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "технический отчёт"@ru,
+    "technical report"@en,
+    "tehnično poročilo"@sl,
+    "informe tècnic"@ca,
+    "technischer Bericht"@de,
+    "relatório técnico"@pt,
+    "تقرير تقني"@ar,
+    "technisch rapport"@nl,
+    "rapport technique"@fr,
+    "rapporto tecnico"@it,
+    "technická zpráva"@cs,
+    "技术报告"@zh,
+    "teknik rapor"@tr,
+    "テクニカルレポート"@ja,
+    "informe técnico"@es .
+
+<http://purl.org/coar/resource_type/c_18hj> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:33:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:25:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "отчёт об исполнении плана финансирования"@ru,
+    "poročilo financerjem projekta"@sl,
+    "relatório para agência de financiamento"@pt,
+    "финансовая отчётность"@ru,
+    "отчёты о финансировании"@ru,
+    "informe a agencia financiadora"@es,
+    "relatório para financiador"@pt,
+    "končno poročilo o rezultatih raziskav"@sl,
+    "отчёт о финансовых результатах"@ru,
+    "rapportage voor financier"@nl,
+    "отчёты по финансированию"@ru,
+    "rapport au financeur"@fr,
+    "reporte a agencia de financiamento"@es,
+    "給資助機構的報告"@zh;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A report to a funding agency is a document written by beneficiaries of project grants. The reporting documents can be e.g. periodic reports about progress of scientific and technical work and final report. For deliverables use ‘Project deliverable’. [Source: http://ec.europa.eu/research/participants/fp7documents/funding-guide/6_projects/reports/reports_en.htm  ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "rapport à l'intention du financeur"@fr,
+    "informe a organismo financiador"@es,
+    "poročilo financerjem raziskave"@sl,
+    "rapporto a un'agenzia di finanziamento"@it,
+    "给资助机构的报告"@zh,
+    "relatório para organismo financiador"@pt,
+    "финансовый отчёт                          "@ru,
+    "Bericht an Förderorganisation"@de,
+    " تقرير لوكالة تمويل "@ar,
+    "report to funding agency"@en,
+    "zpráva pro poskytovatele podpory"@cs,
+    "fon sağlayıcıya rapor"@tr,
+    "informe per una agència de finançament "@ca,
+    "助成研究成果報告書"@ja .
+
+<http://purl.org/coar/resource_type/c_18wq> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:34:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:31:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "прочие докумены и отчёты"@ru,
+    "outro tipo de relatório"@pt,
+    "laboratory material"@en,
+    "guideline"@en,
+    "otro tipo de reporte"@es,
+    "прочие доклады"@ru,
+    "ander type rapport"@nl,
+    "其它報告"@zh;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Other types of report may include Business Plans Technical Specifications, data management plans, recommendation reports, white papers, annual reports, auditor's reports, workplace reports, census reports, trip reports, progress reports, investigative reports, budget reports, policy reports, demographic reports, credit reports, appraisal reports, inspection reports, military reports, bound reports, etc. [Source: https://en.wikipedia.org/wiki/Report]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "diğer rapor türü"@tr,
+    "その他の報告書"@ja,
+    "прочие отчёты"@ru,
+    "altro tipo di rapporto"@it,
+    "autre type de rapport"@fr,
+    "otro tipo de informe"@es,
+    "sonstiger Report"@de,
+    "ostale vrste poročil"@sl,
+    "rapport overig"@nl,
+    "altre tipus d'informe"@ca,
+    " نوع آخر من التقرير"@ar,
+    "其他报告"@zh,
+    "outro relatório"@pt,
+    "other type of report"@en,
+    "jiná zpráva"@cs .
+
+<http://purl.org/coar/resource_type/c_18ws> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:30:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "科研報告"@zh,
+    "informe de investigación"@es,
+    "отчёты о НИОКР "@ru,
+    "научный отчёт"@ru,
+    "تقرير علمي"@ar,
+    "отчёт о НИР "@ru,
+    "отчёт о научно-исследовательской деятельности"@ru,
+    "memoria científica"@es,
+    "отчёт по научно-исследовательской работе"@ru,
+    "отчёт о научных исследованиях"@ru,
+    "отчёты о НИР "@ru,
+    "informe científic"@ca,
+    " تقرير بحث "@ar,
+    "研究報告"@zh,
+    "informe cientifico"@es,
+    "научно-технический отчёт"@ru,
+    "отчёт о научном исследовании"@ru,
+    "科研报告"@zh,
+    "調研報告"@zh,
+    "调研报告"@zh,
+    "informe del resultado de una investigación"@es,
+    "reporte científico"@es,
+    "informe de investigacion"@es,
+    "reporte de investigación"@es,
+    "отчёт о научно-исследовательской работе"@ru,
+    "отчёт о НИОКР "@ru,
+    "rapport scientifique"@fr,
+    "reporte cientifico"@es,
+    "memòria científica"@ca;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Research Reports are reports that typically provide an in-depth study of a particular topic or describe the results of a research project.  [Source: http://www.buildingscience.com/doctypes/reports]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "araştırma raporu"@tr,
+    "informe científico"@es,
+    "research report"@en,
+    "研究報告書"@ja,
+    "Forschungsbericht"@de,
+    "informe de recerca"@ca,
+    "rapporto di ricerca"@it,
+    "научно-исследовательский отчёт"@ru,
+    "relatório de investigação"@pt,
+    "výzkumná zpráva"@cs,
+    "研究报告"@zh,
+    "onderzoeksrapport"@nl,
+    "rapport de recherche"@fr,
+    "poročilo o rezultatih raziskav"@sl .
+
+<http://purl.org/coar/resource_type/c_18ww> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:33:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:31:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "служебный отчёт"@ru,
+    "reporte de uso interno"@es,
+    "內部報告"@zh,
+    "notranje poročilo"@sl,
+    "отчёт для внутренней рассылки"@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "An internal report is a record of findings collected for internal use. It is not designed to be made public and may include confidential or proprietary information."@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "internal report"@en,
+    "تقرير داخلي "@ar,
+    "relatório interno"@pt,
+    "内部報告書"@ja,
+    "interní zpráva"@cs,
+    "rapport interne"@fr,
+    "intern rapport"@nl,
+    "dahili rapor"@tr,
+    "informe intern"@ca,
+    "interner Bericht"@de,
+    "informe interno"@es,
+    "внутренний отчёт"@ru,
+    "rapporto interno"@it,
+    "内部报告"@zh,
+    "interno poročilo"@sl .
+
+<http://purl.org/coar/resource_type/c_18wz> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:34:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "докладная записка "@ru,
+    "comunicado"@pt,
+    "Denkschrift"@de,
+    "circular"@ca,
+    "заметки"@ru,
+    "comunicado"@es,
+    "razprava"@sl,
+    "comunicación"@es,
+    "備忘錄"@zh,
+    "памятная записка "@ru,
+    "memorandum"@fr,
+    "circular"@es,
+    "меморандумы"@ru,
+    "circular"@pt,
+    "comunicat "@ca;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "It is a note, document or other communication that helps the memory by recording events or observations on a topic. A memorandum can have only a certain number of formats; it may have a format specific to an office or institution.   [Source: https://en.wikipedia.org/wiki/Memorandum]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Memorandum"@de,
+    "меморандум"@ru,
+    "memorandum"@cs,
+    "memorandum"@it,
+    "备忘录"@zh,
+    "memorandum"@en,
+    "memorandum"@sl,
+    "memorándum"@es,
+    "memorando"@pt,
+    "memoràndum"@ca,
+    "memorandum"@nl,
+    " مذكرة "@ar,
+    "bilgi notu"@tr,
+    "メモランダム"@ja,
+    "mémo"@fr .
+
+<http://purl.org/coar/resource_type/c_26e4> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:42:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:47:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "Mülakat"@tr,
+    "Röportaj"@tr,
+    "interviu"@ca,
+    "опрос"@ru,
+    "entrevista"@es,
+    "репортаж"@ru,
+    "беседа"@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_ddb1>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A discussion between a reporter, host, panel, or audience and a newsmaker, author, or celebrity, recorded (edited or unedited) in print, on film or video, as transcript or as a sound recording. (Adapted from ODLIS)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <https://dictionary.casrai.org/Text_Interview>,
+    <https://dictionary.casrai.org/Broadcast_Interview>,
+    <https://scigraph.springernature.com/things/technical-article-types/interview>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "interview"@nl,
+    "интервью"@ru,
+    "Interview"@de,
+    "intervju"@sl,
+    "interview"@en,
+    "intervista"@it,
+    "entrevista"@ca,
+    "Görüşme"@tr,
+    "インタビュー"@ja .
+
+<http://purl.org/coar/resource_type/c_2cd9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T17:01:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:51:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "magazine"@nl,
+    "журнал"@ru,
+    "revista de divulgacion cientifica"@es,
+    "издание"@ru,
+    "брошюра"@ru,
+    "revista de divulgación científica"@es,
+    "revista de divulgación"@es,
+    "časnik"@sl,
+    "časopis"@sl,
+    "revista de divulgacion"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_2659>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A popular interest periodical usually containing articles on a variety of topics, written by various authors in a nonscholarly style or a trade publication, unlike a consumer publication, covers a specific topic for people who work in that particular field or industry. Adapted from https://www.thebalance.com/what-is-a-trade-publication-exactly-2316039 and http://www.abc-clio.com/ODLIS/odlis_m.aspx"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Magazine>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "magazine"@en,
+    "Magazin"@tr,
+    "magazine"@fr,
+    "rivista divulgativa"@it,
+    "revista de divulgació"@ca,
+    "Informationszeitschrift"@de,
+    "informativna revija"@sl,
+    "revista divulgativa"@es,
+    "периодическое печатное издание"@ru,
+    "雑誌"@ja,
+    "tijdschrift"@nl .
+
+<http://purl.org/coar/resource_type/c_2df8fbb1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2016-01-18T14:43:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:39:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "публикация в научном журнале"@ru,
+    "articulo original"@es,
+    "articulo de investigacion"@es,
+    "исследовательская статья"@ru,
+    "articulo cientifico"@es,
+    "原创研究论文"@zh,
+    "artículo de investigación"@es,
+    "article de recherche"@fr,
+    "artículo científico"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_6501>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A research article is a primary source, that is, it reports the methods and results of an original study performed by the authors. (adapted from http://apus.libanswers.com/faq/2324)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "artículo original"@es,
+    "Forschungsartikel"@de,
+    " مقال بحث "@ar,
+    "znanstveni članek"@sl,
+    "onderzoeksartikel"@nl,
+    "research article"@en,
+    "původní článek"@cs,
+    "araştırma makalesi"@tr,
+    "原创研究文章"@zh,
+    "научная статья"@ru,
+    "原著論文"@ja .
+
+<http://purl.org/coar/resource_type/c_3248> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:32:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "capítulo"@pt,
+    "partie d'ouvrage"@fr,
+    "book chapters"@en,
+    "capitulo de libro"@es,
+    "часть книги "@ru,
+    "章節"@zh,
+    "فصل من كتاب"@ar,
+    "part de llibre"@ca,
+    "глава книги "@ru,
+    "chapitre de livre"@fr,
+    "sestavek v knjigi"@sl,
+    "book chapter"@en,
+    "parte de libro"@es,
+    "kapitola v knize"@cs,
+    "chapter in book"@en,
+    "paragrafo"@it,
+    "parte de um livro"@pt,
+    "книжная глава"@ru,
+    "chapter"@en;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/eprint/type/Book>,
+    <http://purl.org/ontology/bibo/Book>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_2f33>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A defined chapter or section of a book, usually with a separate title or number."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <https://dictionary.casrai.org/Book_Chapter>,
+    <http://purl.org/spar/fabio/BookChapter>,
+    <http://purl.org/info:eu-repo/#semantics/bookPart>,
+    <http://purl.org/eprint/type/BookItem>,
+    <http://purl.org/ontology/bibo/BookSection>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "capitulo de libro"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://purl.org/ontology/bibo/Article>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> " جزء من كتاب     "@ar,
+    "capitolo di libro"@it,
+    "část knihy"@cs,
+    "раздел книги "@ru,
+    "Teil oder Kapitel eines Buches"@de,
+    "book part"@en,
+    "capítulo de libro"@es,
+    "boekdeel"@nl,
+    "capítol de llibre"@ca,
+    "図書（部分）"@ja,
+    "章节"@zh,
+    "capítulo de livro"@pt,
+    "chapitre d'ouvrage"@fr,
+    "kitap bölümü"@tr,
+    "poglavje v knjigi"@sl .
+
+<http://purl.org/coar/resource_type/c_393c> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-11T23:25:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "информационный поток"@ru,
+    "поточная обработка (заданий)"@ru,
+    "потоки работ (заданий)"@ru,
+    "поток операций"@ru,
+    "工作流"@zh,
+    "документооборот"@ru,
+    "flux de travaux"@fr,
+    "flux opérationnel"@fr,
+    "cicle de treball"@ca,
+    "flux de travail"@fr,
+    "procedura"@cs,
+    "Arbeitsablauf"@de,
+    "последовательность операций"@ru,
+    "workflow"@it,
+    "flusso di lavoro"@it,
+    "workflow"@pt;
+  <http://www.w3.org/2004/02/skos/core#definition> "A recorded sequence of connected steps, which may be automated, specifying a reliably repeatable sequence of operations to be undertaken when conducting a particular job, for example an in silico investigation that extracts and processes information from a number of bioinformatics databases. (adapted from http://purl.org/spar/fabio/Workflow)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Workflow>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "procedura"@it,
+    "Workflow"@de,
+    "delovni tok"@sl,
+    "workflow"@en,
+    "سير العمل "@ar,
+    "workflow"@nl,
+    "工作流程"@zh,
+    "flux de treball "@ca,
+    "flujo de trabajo"@es,
+    "workflow"@fr,
+    "iş akışı"@tr,
+    "pracovní postup"@cs,
+    "рабочий процесс"@ru,
+    "fluxo de trabalho"@pt,
+    "ワークフロー"@ja;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_545b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-03T14:38:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "newsletter"@fr,
+    "carta al editor de revista"@es,
+    "письмо редактору журнала"@ru,
+    "письма журнала"@ru,
+    "gaceta"@es,
+    "讀者來信"@zh,
+    "carta al director de revista"@es,
+    "快報"@zh,
+    "boletín"@es,
+    "快报"@zh,
+    "gacetilla"@es,
+    "comunicazione in rivista"@it,
+    "carta al editor"@es,
+    "информационный бюллетень"@ru,
+    "письмо в редакцию"@ru,
+    "folleto"@es,
+    "carta ao diretor"@pt,
+    "бюллетень"@ru,
+    "письма в журнал"@ru,
+    "письма в редакцию      "@ru,
+    "bulletin"@fr,
+    "boletin"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_3e5a>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A letter to the editor is a letter sent to a periodical about issues of concern from its readers. (adapted from Wikipedia) [Source: http://dspacecris.eurocris.org/cris/classcerif/classcerif00429]"@en;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "boletin"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Leserbrief"@de,
+    "письмо редактору "@ru,
+    "pismo uredniku"@sl,
+    "ingezonden brief"@nl,
+    "lettera al direttore"@it,
+    "来信"@ja,
+    "carta al director"@es,
+    " رسالة الى المحرر"@ar,
+    "letter to the editor"@en,
+    "读者来信"@zh,
+    "carta al director"@ca,
+    "carta ao editor"@pt,
+    "dopis redakci"@cs,
+    "lettre à l'éditeur"@fr .
+
+<http://purl.org/coar/resource_type/c_5794> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:39:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "comunicação"@pt,
+    "trabajo presentado en una conferencia"@es,
+    "artigo de conferência"@pt,
+    "comunicacion de congreso"@es,
+    "comunicación de conferencia"@es,
+    "presentació de congrés"@ca,
+    "apresentação em congresso"@pt,
+    "članek na konferenci"@sl,
+    "会议文章"@zh,
+    "conferencePaper"@en,
+    "اوراق المؤتمر"@ar,
+    "apresentação em conferência"@pt,
+    "článek ve sborníku konference"@cs,
+    "тезисы конференции"@ru,
+    "тезисы докладов"@ru,
+    "conference papers"@en,
+    "presentacion de congreso"@es,
+    "статьи конференции"@ru,
+    "presentación de congreso"@es,
+    "trabajo presentado en un congreso"@es,
+    "article de conférence"@fr,
+    "article de congrès"@fr,
+    "會議文章"@zh,
+    "доклад для конференции "@ru,
+    "comunicacion de conferencia"@es,
+    "доклад конференции"@ru,
+    "comunicação em congresso"@pt,
+    "documento presentado en una conferencia"@es,
+    "會議論文"@zh,
+    "статья для научной конференции"@ru,
+    "prispevek na konferenci"@sl,
+    "documento presentado en un congreso"@es,
+    "artigo de congresso"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Conference>,
+    <http://purl.org/dc/dcmitype/Event>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_f744>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A conference paper that is submitted to a conference and presented to the audience. The conference paper is published in proceedings."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/ConferencePaper>,
+    <https://dictionary.casrai.org/Conference_Paper>,
+    <http://purl.org/eprint/type/ConferencePaper>,
+    <http://purl.org/info:eu-repo/#semantics/conferencePaper>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "comunicacion de congreso"@es,
+    "presentacion de congreso"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "comunicació de congrés"@ca,
+    "article dans une conférence"@fr,
+    "comunicazione a congresso"@it,
+    "příspěvek na konferenci"@cs,
+    "conferentie bijdrage"@nl,
+    "会議発表論文"@ja,
+    "Konferenzbeitrag"@de,
+    "comunicación de congreso"@es,
+    "статья для конференции"@ru,
+    "comunicação em conferência"@pt,
+    "članek na konfrenci"@sl,
+    " ورقة مؤتمر  "@ar,
+    "conference paper"@en,
+    "会议论文"@zh,
+    "konferans belgesi"@tr .
+
+<http://purl.org/coar/resource_type/c_6670> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-11T22:49:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "poster"@it,
+    "会议墙报"@zh,
+    "ملصق"@ar,
+    "conference poster"@en,
+    "會議海報"@zh,
+    "poster de congrès"@fr,
+    "плакат конференции "@ru,
+    "cartel"@es,
+    "poster cientifico"@es,
+    "póster científico"@es,
+    "會議牆報"@zh,
+    "poster de congreso"@es,
+    "póster"@pt,
+    "póster em congresso"@pt,
+    "poster de conférence"@fr,
+    "стендовый доклад"@ru;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Conference>,
+    <http://purl.org/dc/dcmitype/Event>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_f744>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A conference poster that is submitted to a conference and presented there at a poster presentation. The conference poster is published in proceedings."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/conferencePoster>,
+    <http://purl.org/eprint/type/ConferencePoster>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "poster de congreso"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "poster dans une conférence"@fr,
+    "会议海报"@zh,
+    "conferentieposter"@nl,
+    "ملصق مؤتمر  "@ar,
+    "poster de congrés"@ca,
+    "постер конференции"@ru,
+    "Konferenzposter"@de,
+    "poster na konferenci"@sl,
+    "会議発表ポスター"@ja,
+    "póster em conferência "@pt,
+    "poster na konferenci"@cs,
+    "póster de congreso"@es,
+    "konferans posteri"@tr,
+    "conference poster"@en,
+    "poster in congresso"@it .
+
+<http://purl.org/coar/resource_type/c_6947> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:36:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:30:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "блог пост"@ru,
+    "статья для блога"@ru,
+    "apunt de blog"@ca,
+    "post de blog"@fr,
+    "notícia de blog"@ca,
+    "missatge de blog"@ca,
+    "пост в блоге"@ru,
+    "billet de blog"@fr;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/Blog>,
+    <http://purl.org/spar/fabio/WebContent>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A piece of writing or other item of content published on a blog. (Adapted from oxforddictionaries)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/BlogPost>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Blog yazısı"@tr,
+    "Blogbeitrag"@de,
+    "article de blog"@fr,
+    "blog post"@nl,
+    "prispevek na blogu"@sl,
+    "блог"@ru,
+    "entrada de blog"@ca,
+    "ブログ記事"@ja,
+    "blog post"@en,
+    "articolo di blog"@it,
+    "entrada de blog"@es .
+
+<http://purl.org/coar/resource_type/c_71bd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "documentacion tecnica"@es,
+    "技术文献"@zh,
+    "manual"@es,
+    "技術資料"@zh,
+    "Technische Unterlagen"@de,
+    "技術文檔"@zh,
+    "технологические инструкции"@ru,
+    "技术文档"@zh,
+    "руководство "@ru,
+    "技術文獻"@zh,
+    "manuale tecnico"@it,
+    "инструкция"@ru,
+    "справочник "@ru,
+    "كتيب"@ar,
+    "пособие"@ru,
+    "documentation technique"@fr,
+    "manual"@ca,
+    "manual técnico"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Technical documentation refers to any type of documentation that describes handling, functionality and architecture of a technical product or a product under development or use. [Source: https://en.wikipedia.org/wiki/Technical_documentation]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/technicalDocumentation>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "documentacion tecnica"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "وثائق تقنية"@ar,
+    "技术资料"@zh,
+    "技術文書"@ja,
+    "teknik dokümantasyon"@tr,
+    "technical documentation"@en,
+    "documentação técnica"@pt,
+    "Technische Dokumentation"@de,
+    "documentazione tecnica"@it,
+    "technische documentatie"@nl,
+    "documentación técnica"@es,
+    "tehnična dokumentacija"@sl,
+    "technická dokumentace"@cs,
+    "documentació tècnica"@ca,
+    "техническая документация"@ru,
+    "manuel technique"@fr .
+
+<http://purl.org/coar/resource_type/c_7877> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T17:05:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:36:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "essai clinique"@fr,
+    "臨床研究"@ja,
+    "klinisch onderzoek"@nl;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Klinik çalışması"@tr,
+    "klinična študija"@sl,
+    "клиническое исследование"@ru,
+    "klinische studie"@nl,
+    "étude clinique"@fr,
+    "estudi clínic"@ca,
+    "klinische Studie"@de,
+    "clinical study"@en,
+    "estudio clínico"@es,
+    "studio clinico"@it;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/spar/fabio/ClinicalCaseReport>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_7a1f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "本科畢業論文"@zh,
+    "trabalho de fim de licenciatura"@pt,
+    "本科毕业论文"@zh,
+    "學士學位論文"@zh,
+    "projecte final de carrera"@ca,
+    "diplomska naloga"@sl,
+    "диссертация бакалавра"@ru,
+    "rapport de stage"@fr,
+    "bachelor dissertation"@en,
+    "trabajo de fin de carrera"@es,
+    "trabajo final de grado"@es,
+    "tesis de bachiller"@es,
+    "monografia de fim de curso"@pt,
+    "monografia de licenciatura"@pt,
+    "tesina"@es,
+    "tesis de licenciatura"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Thesis>,
+    <http://purl.org/eprint/type/Thesis>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_46ec>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A thesis reporting a research project undertaken as part of an undergraduate course of education leading to a bachelor's degree. (adapted from fabio)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/BachelorsThesis>,
+    <http://purl.org/info:eu-repo/#semantics/bachelorThesis>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "bachelorscriptie"@nl,
+    "学士論文"@ja,
+    "tesi di laurea"@it,
+    "mémoire de stage"@fr,
+    "lisans tezi"@tr,
+    "Abschlussarbeit (Bachelor)"@de,
+    "treball de fi de grau"@ca,
+    "bachelor thesis"@en,
+    "trabalho de fim de curso"@pt,
+    "学士学位论文"@zh,
+    "diplomsko delo"@sl,
+    "proyecto fin de carrera"@es,
+    "رسالة بكالوريوس"@ar,
+    "bakalářská práce"@cs,
+    "диплом бакалавра"@ru .
+
+<http://purl.org/coar/resource_type/c_7acd> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:49:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:26:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "correcció"@ca,
+    "список опечаток"@ru,
+    "поправки"@ru,
+    "исправление"@ru,
+    "исправленная опечатка"@ru,
+    "fe d'errates"@ca,
+    "fe de erratas"@es,
+    "список опечаток и исправлений"@ru,
+    "описка"@ru,
+    "исправление орфографических ошибок и опечаток "@ru,
+    "поправка "@ru,
+    "ошибка "@ru,
+    "Berichtigung"@de;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/spar/fabio/Correction>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_6501>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A formal correction to an error introduced by the author into a previously published document. (adapted from https://sparontologies.github.io/fabio/current/fabio.html#d4e2712)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Corrigendum>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "popravek članka"@sl,
+    "corrigenda"@es,
+    "corrigendum"@en,
+    "Korrigendum"@de,
+    "corrigendum"@nl,
+    "correcció d’errors"@ca,
+    "erratum"@fr,
+    "正誤表"@ja,
+    "опечатка"@ru;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/spar/fabio/Erratum> .
+
+<http://purl.org/coar/resource_type/c_7ad9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:13:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "讨论会"@zh,
+    "практикум"@ru,
+    "portal web"@es,
+    "網站"@zh,
+    "веб-сервис"@ru,
+    "веб-страница"@ru,
+    "семинар"@ru,
+    "интернет-сайт"@ru,
+    "servidor web"@es,
+    "página web"@pt,
+    "webpage"@en,
+    "веб-ресурс"@ru,
+    "научная конференция"@ru,
+    "webové stránky"@cs,
+    "paginas web"@es,
+    "páginas web"@es,
+    "sitios web"@es,
+    "совещание "@ru,
+    "вебсайт "@ru,
+    "web-сайт"@ru,
+    "portal"@es,
+    "portail web"@fr,
+    "сайт"@ru,
+    "sítio na internet"@pt,
+    "pàgina web"@ca,
+    "website"@pt,
+    "página web"@es,
+    "конгресс"@ru,
+    "портал"@ru,
+    "صفحة الويب"@ar,
+    "конференция"@ru,
+    "pagina web"@es,
+    "симпозиум"@ru,
+    "съезд"@ru,
+    "pagine web"@it,
+    "portal web"@ca;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_e9a0>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A website, also written as web site or simply site, is a set of related web pages typically served from a single web domain. A website is hosted on at least one web server, accessible via a network such as the Internet or a private local area network through an Internet address known as a uniform resource locator (URL). All publicly accessible websites collectively constitute the World Wide Web. [Source: https://en.wikipedia.org/wiki/Website ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <https://schema.org/WebSite>,
+    <https://dictionary.casrai.org/Website>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "spletna stran"@sl,
+    "ウェブサイト"@ja,
+    "Webseite"@de,
+    "web sitesi"@tr,
+    "lloc web"@ca,
+    "sitio web"@es,
+    "website"@nl,
+    "网站"@zh,
+    "webové sídlo"@cs,
+    "site web"@fr,
+    "sito web"@it,
+    "موقع الكتروني  "@ar,
+    "website"@en,
+    "веб-сайт"@ru,
+    "sítio web"@pt .
+
+<http://purl.org/coar/resource_type/c_7bab> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T17:13:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "руководство по программному обеспечению"@ru,
+    "article sobre programari"@ca,
+    "article décrivant un logiciel"@fr,
+    "opis programske opreme"@sl,
+    "software tool article"@en,
+    "статья о программировании и информационных технологиях"@ru,
+    "software paper"@fr,
+    "article sur un logiciel"@fr;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_6501>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A software paper should include the rationale for the development of the tool and details of the code used for its construction.  (Adapted from f1000)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "статья о программном обеспечении"@ru,
+    "ソフトウェア論文"@ja,
+    "software artikel"@nl,
+    "artículo de software"@es,
+    "članek o programski opremi"@sl,
+    "descripció de programari"@ca,
+    "software paper"@en,
+    "Softwareartikel"@de .
+
+<http://purl.org/coar/resource_type/c_8042> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:21:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "промежуточная рабочая документация"@ru,
+    "esborrany de treball "@ca,
+    "материалы для обсуждения"@ru,
+    "未发表论文"@zh,
+    "未發表論文"@zh,
+    "pré-publication"@fr,
+    "ön makale"@tr,
+    "documento di lavoro"@it,
+    "papier de travail"@fr,
+    "documento de reflexão"@pt,
+    "рабочие материалы"@ru,
+    "çalışma belgesi"@tr,
+    "ورقة مناقشة"@ar,
+    "проект документа"@ru,
+    "working paper"@cs,
+    "documento de trabalho de investigação"@pt,
+    "préprint"@fr,
+    "рабочий отчёт"@ru,
+    "рабочий доклад"@ru,
+    "дискуссионная статья"@ru,
+    "werkdocument"@nl,
+    "discussion paper"@en,
+    "working or discussion paper"@en,
+    "documento de trabalho"@pt,
+    "borrador de trabajo"@es,
+    "document de travail"@fr,
+    "工作底稿"@zh,
+    "working papers"@en,
+    "memorando de investigação"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "An unpublished paper, usually circulated privately among a small group of peers, to provide information or with a request for comments or editorial improvement.  (source: fabio)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/workingPaper>,
+    <http://purl.org/spar/fabio/WorkingPaper>,
+    <http://purl.org/eprint/type/WorkingPaper>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "working paper"@en,
+    "pracovní dokument"@cs,
+    "ワーキングペーパー"@ja,
+    "working paper"@it,
+    "рабочий документ"@ru,
+    "研究手稿"@zh,
+    "delovna verzija članka"@sl,
+    "working paper"@fr,
+    "documento de trabajo"@es,
+    "Arbeitspapier"@de,
+    "ön rapor"@tr,
+    "working paper"@pt,
+    " ورقة عمل"@ar,
+    "document de treball"@ca,
+    "working paper"@nl .
+
+<http://purl.org/coar/resource_type/c_816b> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:02:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "предпечатная версия публикации"@ru,
+    "artigo sem revisão"@pt,
+    "pré-print"@fr,
+    "препринт статьи"@ru,
+    "articulo preliminar"@es,
+    "pré-publication"@fr,
+    "artículo sin revisión por pares"@es,
+    "artigo preliminar"@pt,
+    "borrador"@es,
+    "先印本"@zh,
+    "preprint"@es,
+    "сигнальный экземпляр"@ru,
+    "prepublicación"@es,
+    "Vorabdruck"@de,
+    "preprint"@it,
+    "préprint"@fr,
+    "articulo sin revision por pares"@es,
+    "voordruk"@nl;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Pre-print describes the first draft of the article - before peer-review, even before any contact with a publisher. This use is common amongst academics for whom the key modification of an article is the peer-review process.  Another use of the term pre-print is for the finished article, reviewed and amended, ready and accepted for publication - but separate from the version that is type-set or formatted by the publisher. This use is more common amongst publishers, for whom the final and significant stage of modification to an article is the arrangement of the material for putting to print. [Source: http://www.sherpa.ac.uk/romeoinfo.html ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/preprint>,
+    <http://purl.org/spar/fabio/Preprint>,
+    <https://dictionary.casrai.org/Preprint>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "articulo preliminar"@es,
+    "articulo sin revision por pares"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "preprint"@en,
+    "ön baskı"@tr,
+    "Preprint"@de,
+    "プレプリント"@ja,
+    "preprint"@nl,
+    "publicació preliminar"@ca,
+    "preprint"@pt,
+    "预印本"@zh,
+    "prépublication"@fr,
+    "artículo preliminar"@es,
+    "articolo preliminare"@it,
+    "препринт"@ru .
+
+<http://purl.org/coar/resource_type/c_8544> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "disertación"@es,
+    "conferência"@pt,
+    "conferencia academica"@es,
+    "演讲"@zh,
+    "preleção"@pt,
+    "enseignement magistral"@fr,
+    "ponència"@ca,
+    "charla magistral"@es,
+    "prelecção"@pt,
+    "disertacion"@es,
+    "講座"@zh,
+    "演講"@zh,
+    "lição"@pt,
+    "محاضرات"@ar,
+    "lectures"@en,
+    "conferencia"@es,
+    "講課"@zh,
+    "conferencia académica"@es,
+    "лекция"@ru,
+    "讲课"@zh,
+    "conferencia magistral"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A transcription of a talk delivered during an academic event."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/lecture>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "conferencia academica"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://purl.org/spar/fabio/LectureNotes>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "lecture"@en,
+    "conferència acadèmica "@ca,
+    "predavanje"@sl,
+    "lezione"@it,
+    "ders"@tr,
+    "講演"@ja,
+    "материалы лекций"@ru,
+    "palestra"@pt,
+    "Vorlesung"@de,
+    "lecture"@nl,
+    " محاضرة "@ar,
+    "ponencia"@es,
+    "přednáška"@cs,
+    "讲座"@zh,
+    "cours magistral"@fr .
+
+<http://purl.org/coar/resource_type/c_86bc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "文獻目錄"@zh,
+    "přehled literatury"@cs,
+    "書目"@zh,
+    "список литературы"@ru,
+    "书目"@zh,
+    "لائحة مراجع"@ar,
+    "список использованных источников"@ru,
+    "справочные материалы"@ru,
+    "список рекомендуемой литературы"@ru,
+    "bibliyografya"@tr,
+    "библиографический список"@ru,
+    "bibliografia"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A systematic list or enumeration of written works by a specific author or on a given subject."@en,
+    "Систематизированный перечень или список письменных работ/источников конкретного автора или на заданную тему."@ru;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "bibliografia"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "bibliografija"@sl,
+    "bibliography"@en,
+    "書誌"@ja,
+    "bibliografía"@es,
+    "Bibliografie"@de,
+    " بيبليوغرافيا"@ar,
+    "kaynakça"@tr,
+    "文献目录"@zh,
+    "bibliografia"@pt,
+    "bibliographie"@fr,
+    "bibliografie"@nl,
+    "bibliografia"@it,
+    "библиография"@ru,
+    "bibliografia"@ca,
+    "bibliografie"@cs .
+
+<http://purl.org/coar/resource_type/c_998f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:58:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "articulo de diario"@es,
+    "articulo de periodico"@es,
+    "article de periòdic"@ca,
+    "газетное сообщение"@ru,
+    "газетная публикация"@ru,
+    "Gazete yazısı"@tr,
+    "редакционная статья"@ru,
+    "газетное объявление"@ru,
+    "artículo de diario"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/Article>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_2fe3>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Work consisting of a news item appearing in a general-interest newspaper or other general news periodical, containing information of current and timely interest in a field. (Adapted from http://www.reference.md/files/D018/mD018431.html )"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <https://dictionary.casrai.org/Newspaper_Article>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "газетная статья"@ru,
+    "新聞記事"@ja,
+    "newspaper article"@en,
+    "krantenartikel"@nl,
+    "article de diari"@ca,
+    "Gazete kupürü"@tr,
+    "artículo de periódico"@es,
+    "članek v časopisu"@sl,
+    "article de journal"@fr,
+    "Zeitungsartikel"@de,
+    "articolo di giornale"@it .
+
+<http://purl.org/coar/resource_type/c_ab20> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:40:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:41:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "pla d’administració de dades"@ca,
+    "načrt upravljanja s podatki"@sl,
+    "план осуществления управления данными "@ru,
+    "план регулирования информацией и данными"@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18op>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A formal document that outlines how and where data will be collected and managed, both during and after a research project (Adapted from Wikipedia) [Source: https://en.wikipedia.org/wiki/Data_management_plan]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/DataMangementPlan>,
+    <https://dictionary.casrai.org/Data_management_plan>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "načrt ravnanja s podatki"@sl,
+    "data management plan"@en,
+    "piano di gestione dei dati"@it,
+    "データ管理計画"@ja,
+    "pla de gestió de dades"@ca,
+    "plan de gestion de données"@fr,
+    "план управления данными"@ru,
+    "data management plan"@nl,
+    "Datenmanagementplan"@de,
+    "plan de gestión de datos"@es .
+
+<http://purl.org/coar/resource_type/c_b239> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:46:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "édito"@fr,
+    "Leitartikel"@de,
+    "tribuna de opinión"@es,
+    "editorial de revista"@pt,
+    "аудиовизуальные средства обучения"@ru,
+    "artículo de fondo"@es,
+    "аудиовизуальные материалы"@ru,
+    "передовая статья"@ru,
+    "аудиовизуальные пособия"@ru,
+    "社评"@zh,
+    "社論"@zh,
+    "社評"@zh,
+    "editorial de revista"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_3e5a>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A brief essay expressing the opinion or position of the chief editor(s) of a (academic) journal with respect to a current political, social, cultural, or professional issue. Adapted from ODLIS [Source: http://www.abc-clio.com/ODLIS/odlis_e.aspx ]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <https://scigraph.springernature.com/things/technical-article-types/editorial-notes>,
+    <https://dictionary.casrai.org/Editorial>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "voorwoord"@nl,
+    "エディトリアル"@ja,
+    "editoriale"@it,
+    "úvodník"@cs,
+    "editorial"@en,
+    "افتتاحية"@ar,
+    "社论"@zh,
+    "Editoryal"@tr,
+    "редакционная статья"@ru,
+    "editorial de revista"@ca,
+    "uvodnik"@sl,
+    "editorial"@pt,
+    "editorial"@es,
+    "Vorwort"@de,
+    "éditorial"@fr .
+
+<http://purl.org/coar/resource_type/c_ba08> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:35:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "نقد كتاب"@ar,
+    "аналитический обзор"@ru,
+    "comentario de libro"@es,
+    "書評"@zh,
+    "рецензии на книги"@ru,
+    "recensió de llibre"@ca,
+    "recensão crítica"@pt,
+    "Buchbesprechung"@de,
+    "ficha de leitura"@pt,
+    "resenha de livro"@pt,
+    "recension d'ouvrage"@fr,
+    "crítica de libro"@es,
+    "обзоры книг"@ru,
+    "обзорная статья"@ru,
+    "Buchkritik"@de,
+    "обзор книг"@ru,
+    "crítica de llibre"@ca,
+    "recension de libro"@es,
+    "critique de livre"@fr,
+    "recensión de libro"@es,
+    "boek review"@nl,
+    "book reviews"@en,
+    "critica de libro"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Chapter>,
+    <http://purl.org/eprint/type/BookItem>,
+    <http://purl.org/ontology/bibo/BookSection>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_efa0>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A written review and critical analysis of the content, scope and quality of a book or other monographic work."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/BookReview>,
+    <https://dictionary.casrai.org/Book_Review>,
+    <http://purl.org/info:eu-repo/#semantics/bookReview>,
+    <http://scigraph.springernature.com/things/technical-article-types/book-review>,
+    <http://purl.org/eprint/type/BookReview>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "recension de libro"@es,
+    "critica de libro"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "書評"@ja,
+    "recensione di libro"@it,
+    "recenze knihy"@cs,
+    "书评"@zh,
+    "book review"@en,
+    "Buchrezension"@de,
+    "boekbespreking"@nl,
+    "kitap eleştirisi"@tr,
+    "рецензия на книгу"@ru,
+    "recenzija knjige"@sl,
+    "reseña de libro"@es,
+    "recensão de livro"@pt,
+    "note de lecture"@fr,
+    "ressenya de llibre"@ca,
+    "مراجعة كتاب"@ar .
+
+<http://purl.org/coar/resource_type/c_ba1f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2016-09-05T13:41:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "parte de una relación"@es,
+    "報告部分"@zh,
+    "parte de una relacion"@es,
+    "parte de un informe"@es,
+    "reportPart"@en,
+    "rapportdeel"@nl,
+    "partie de rapport"@fr,
+    "parte de relatório"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/eprint/type/Report>,
+    <http://www.eurocris.org/ontologies/semcerif/1.3#Report>,
+    <http://purl.org/ontology/bibo/Report>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "part of a report"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Deprecated";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/reportPart>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "parte de una relacion"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "часть доклада "@ru,
+    "報告書（部分）"@ja,
+    "part d'un informe"@ca,
+    "报告部分"@zh,
+    "chapitre de rapport"@fr,
+    "Teilbericht"@de,
+    "report part"@en,
+    "capitolo di rapporto tecnico"@it,
+    "capítulo de relatório"@pt,
+    "deelrapport"@nl,
+    "rapor bölümü"@tr,
+    "parte de un estudio"@es .
+
+<http://purl.org/coar/resource_type/c_baaf> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:29:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "研究計劃"@zh,
+    "researchProposal"@en,
+    "предложение по тематике исследования"@ru,
+    "مقترح بحث"@ar,
+    "proposta de projeto"@pt,
+    "propuesta de proyecto"@es,
+    "réponse à appel à projet"@fr,
+    "propuesta de projecte"@ca,
+    "обоснование проекта"@ru,
+    "обоснование проблемы исследования"@ru,
+    "propuesta d'investigació"@ca,
+    "研究方案"@zh,
+    "propuesta de investigacion"@es,
+    "raziskovalna prijava"@sl,
+    "обоснование темы исследования"@ru,
+    "proposta di ricerca"@it,
+    "обоснование темы"@ru;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A research proposal is a document proposing a research project, generally in the sciences or academia, and generally constitutes a request for sponsorship of that research (https://en.wikipedia.org/wiki/Research_proposal)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/GrantApplicationDocument>,
+    <http://purl.org/info:eu-repo/#semantics/researchProposal>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "propuesta de investigacion"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> " اقتراح بحث"@ar,
+    "Exposé"@de,
+    "proposta di progetto"@it,
+    "projet de recherche"@fr,
+    "proposta de investigação"@pt,
+    "návrh výzkumného projektu"@cs,
+    "research proposal"@en,
+    "研究計画書"@ja,
+    "предложение по исследованию"@ru,
+    "araştırma önerisi"@tr,
+    "predlog raziskave"@sl,
+    "研究计划"@zh,
+    "propuesta de recerca"@ca,
+    "onderzoeksvoorstel"@nl,
+    "propuesta de investigación"@es .
+
+<http://purl.org/coar/resource_type/c_bdcc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "диссертация магистра"@ru,
+    "碩士研究生畢業論文"@zh,
+    "tese de mestrado"@pt,
+    "диплом специалиста "@ru,
+    "碩士學位論文"@zh,
+    "rapport de master"@fr,
+    "magistrska naloga"@sl,
+    "tesi de mestratge"@ca,
+    "trabajo final de posgrado"@es,
+    "master dissertation"@en,
+    "mémoire de maîtrise"@fr,
+    "硕士研究生毕业论文"@zh,
+    "tesis de maestria"@es,
+    "trabajo final de master"@es,
+    "tesina"@es,
+    "trabajo final de maestría"@es,
+    "rapport de maîtrise"@fr,
+    "trabajo final de máster"@es,
+    "treball de fi de master "@ca;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Thesis>,
+    <http://purl.org/eprint/type/Thesis>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_46ec>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A thesis reporting a research project undertaken as part of a graduate course of education leading to a master's degree."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/masterThesis>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "trabajo final de master"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "修士論文"@ja,
+    "treball de fi de postgrau "@ca,
+    "tesis de maestría"@es,
+    "diplomová práce"@cs,
+    "masterscriptie"@nl,
+    "dissertação de mestrado"@pt,
+    "master thesis"@en,
+    "硕士学位论文"@zh,
+    "رسالة ماجستير"@ar,
+    "tesi di master"@it,
+    "Abschlussarbeit (Master)"@de,
+    "magistrsko delo"@sl,
+    "mémoire de master"@fr,
+    "диплом магистра "@ru,
+    "yüksek lisans tezi"@tr .
+
+<http://purl.org/coar/resource_type/c_beb9> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "data paper"@nl,
+    "Forschungsdatenartikel"@de,
+    "數據文章"@zh,
+    "articulo de datos cientificos"@es,
+    "article sur les données"@fr,
+    "artículo de datos científicos"@es,
+    "data descriptor"@en,
+    "articulo de datos"@es,
+    "data paper"@pt,
+    "opis podatkovne zbirke"@sl;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_6501>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A data paper is a scholarly publication describing a particular dataset or group of dataset, published in the form of a peer-reviewed article in a scholarly journal. The main purpose of a data paper is to describe data, the circumstances of their collection, and information related to data features, access and potential reuse. Adapted from https://en.wikipedia.org/wiki/Data_paper and http://www.gbif.org/publishing-data/data-papers"@en;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "articulo de datos"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "članek o podatkovni zbirki"@sl,
+    "datadocumentatie"@nl,
+    "ورقة بيانات  "@ar,
+    "Data Paper"@de,
+    "článek o datové sadě"@cs,
+    "article de dades"@ca,
+    "artigo de dados"@pt,
+    "data paper"@en,
+    "artículo de datos"@es,
+    "data paper"@it,
+    "публикация данных"@ru,
+    "data paper"@fr,
+    "数据文章"@zh,
+    "データ論文"@ja .
+
+<http://purl.org/coar/resource_type/c_c950> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T17:07:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:31:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "научно-исследовательское программное обеспечение"@ru,
+    "programari per recerca"@ca,
+    "programari d’anàlisi"@ca,
+    "исследовательское вычислительное программное обеспечение"@ru,
+    "исследовательское программное обеспечение "@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_5ce6>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Research software (as opposed to simply software) is software that is developed within academia and used for the purposes of research: to generate, process and analyse results.  (Adapted from Knowledge Exchange)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "raziskovalna programska oprema"@sl,
+    "研究用ソフトウェア"@ja,
+    "software de investigación"@es,
+    "Araştırma yazılımı"@tr,
+    "research software"@en,
+    "programari acadèmic"@ca,
+    "onderzoekssoftware"@nl,
+    "научное программное обеспечение"@ru,
+    "Forschungssoftware"@de,
+    "software per la ricerca"@it .
+
+<http://purl.org/coar/resource_type/c_cb28> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T17:05:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:37:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "klinično preskušanje"@sl,
+    "essai thérapeutique"@fr,
+    "assaig clínic comparatiu"@ca;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "klinische trial"@nl,
+    "essai clinique"@fr,
+    "Klinik deney"@tr,
+    "klinischer Versuch"@de,
+    "臨床試験"@ja,
+    "clinical trial"@en,
+    "assaig clínic "@ca,
+    "saggio clinico"@it,
+    "ensayo clínico"@es,
+    "klinična raziskava"@sl,
+    "клиническое испытание"@ru;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/spar/fabio/ClinicalTrialReport>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_db06> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-11T22:51:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "PhD Thesis"@en,
+    "doktorsko delo"@sl,
+    "dissertation"@en,
+    "диссертации на соискание учёной степени"@ru,
+    "rapport de thèse de doctorat"@fr,
+    "اطروحة"@ar,
+    "mémoire de thèse de doctorat"@fr,
+    "博士研究生畢業論文"@zh,
+    "doktorská práce"@cs,
+    "博士研究生毕业文论"@zh,
+    "tesis de doctorado"@es,
+    "dissertatie"@nl,
+    "докторская диссертация"@ru,
+    "диссертация доктора наук "@ru,
+    "博士學位論文"@zh,
+    "диссертация кандидата наук"@ru;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Thesis>,
+    <http://purl.org/eprint/type/Thesis>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_46ec>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A thesis reporting the research undertaken during a period of graduate study leading to a doctoral degree."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/doctoralThesis>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "disertační práce"@cs,
+    "proefschrift"@nl,
+    "диссертация на соискание учёной степени"@ru,
+    "tese de doutoramento"@pt,
+    "doktorska disertacija"@sl,
+    "doctoral thesis"@en,
+    "博士学位论文"@zh,
+    "博士論文"@ja,
+    "Dissertation oder Habilitation"@de,
+    "tesi doctoral"@ca,
+    "اطروحة دكتوراه  "@ar,
+    "tesi di dottorato"@it,
+    "doktora tezi"@tr,
+    "tesis doctoral"@es,
+    "thèse de doctorat"@fr .
+
+<http://purl.org/coar/resource_type/c_dcae04bc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2016-01-18T14:43:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:06:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "articulo de reseña"@es,
+    "综述"@zh,
+    "综述评论性论文"@zh,
+    "article de synthèse"@fr,
+    "综述论文"@zh,
+    "article de revisió"@ca,
+    "articulo de revision"@es,
+    "recensie-artikel"@nl,
+    "artículo de reseña"@es,
+    "derleme makale"@tr,
+    "综述评论性文章"@zh,
+    "journal commentary"@en;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_6501>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A review article is a secondary source, that is, it is written about other articles, and does not report original research of its own. (adapted from http://apus.libanswers.com/faq/2324)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <https://scigraph.springernature.com/things/technical-article-types/review-paper>,
+    <http://purl.org/spar/fabio/ReviewArticle>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "přehledový článek"@cs,
+    "обзорная статья"@ru,
+    "レビュー論文"@ja,
+    "Übersichtsartikel"@de,
+    "مقال نقد"@ar,
+    "pregledni znanstveni članek"@sl,
+    "综述文章"@zh,
+    "overzichtsartikel"@nl,
+    "review article"@en,
+    "artículo de revisión"@es .
+
+<http://purl.org/coar/resource_type/c_e059> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:52:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:31:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "Kursmaterial"@de,
+    "odprti učni vir"@sl,
+    "open education resource"@en,
+    "обучающие блоки"@ru,
+    "учебные блоки"@ru,
+    "coursepack"@en,
+    "Lernunterlagen"@de;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Öğrenim nesnesi"@tr,
+    "objeto de aprendizaje"@es,
+    "učno gradivo"@sl,
+    "leerobject"@nl,
+    "materiale didattico"@it,
+    "учебный объект"@ru,
+    "object d'apprentissage"@fr,
+    "教材"@ja,
+    "learning object"@en,
+    "Lernobjekt"@de,
+    "objecte d’aprenentatge"@ca;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_ecc8> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:08:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "графический дизайн"@ru,
+    "графическое изображение"@ru,
+    "靜態圖像"@zh,
+    "графический документ"@ru,
+    "неподвижное изображение"@ru,
+    "неподвижный кадр"@ru,
+    "фотоснимок "@ru,
+    "статичное изображение"@ru,
+    "фотографический документ"@ru,
+    "фотография "@ru,
+    "фотографическое изображение"@ru,
+    "afbeelding"@nl,
+    "imagem fixa"@pt,
+    "картина "@ru,
+    "план"@ru,
+    "фотодокумент"@ru,
+    "рисунок"@ru,
+    "靜止圖像"@zh,
+    "静止图像"@zh,
+    "imagem"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Image>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_c513>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A recorded static visual representation. This class of image includes diagrams, drawings, graphs, graphic designs, plans, photographs and prints."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/dcmitype/StillImage>,
+    <http://purl.org/spar/fabio/StillImage>,
+    <http://id.loc.gov/vocabulary/contentTypes/sti>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "stilstaandbeeld"@nl,
+    "image fixe"@fr,
+    "静止画"@ja,
+    "still image"@en,
+    "imagen fija"@es,
+    "nepohyblivý obraz"@cs,
+    "imatge fixa"@ca,
+    "صورة ثابته"@ar,
+    "статическое изображение"@ru,
+    "statična vizualna predstavitev"@sl,
+    "immagine fissa"@it,
+    "静态图像"@zh,
+    "hareketsiz görüntü"@tr,
+    "imagem estática"@pt,
+    "Einzelbild"@de .
+
+<http://purl.org/coar/resource_type/c_0640> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:01:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "journal"@fr,
+    "科学期刊"@zh,
+    "科學期刊"@zh,
+    "مجلة علمية "@ar,
+    "學報"@zh,
+    "revista académica"@pt,
+    "دورية علمية "@ar,
+    "revista científica"@ca,
+    "периодическое издание"@ru,
+    "revista científica"@pt,
+    "pubblicazione periodica"@it,
+    "périodique"@fr,
+    "научное издание "@ru,
+    "продолжающееся издание"@ru,
+    "научный журнал"@ru,
+    "периодическое журнальное издание"@ru,
+    "revista académica"@es,
+    "revista acadèmica"@ca,
+    "revue scientifique"@fr,
+    "學術期刊"@zh,
+    "odborný časopis"@cs,
+    "revista científica"@es,
+    "学报"@zh,
+    "periódico"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_2659>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A journal is a serial publication devoted to disseminating original research and current developments on a subject.  (Adapted from ODLIS) [Source: http://dspacecris.eurocris.org/cris/classcerif/classcerif00422]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Journal>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://purl.org/eprint/type/JournalArticle>,
+    <http://purl.org/ontology/bibo/AcademicArticle>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "znanstvena revija"@sl,
+    "revista"@es,
+    "revue"@fr,
+    "دورية"@ar,
+    "журнал"@ru,
+    "revista"@pt,
+    "学术期刊"@zh,
+    "dergi"@tr,
+    "revista"@ca,
+    "wetenschappelijk tijdschrift"@nl,
+    "Zeitschrift"@de,
+    "学術雑誌"@ja,
+    "journal"@en,
+    "odborné periodikum"@cs,
+    "rivista"@it .
+
+<http://purl.org/coar/resource_type/c_12cc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:37:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-03T14:37:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "картографический материал"@ru,
+    "картографические материалы"@ru,
+    "地圖類資料"@zh,
+    "картографическое произведение"@ru,
+    "kartografski material"@sl,
+    "materiale cartografico"@it,
+    "картматериал "@ru,
+    "material cartografico"@es;
+  <http://www.w3.org/2004/02/skos/core#definition> "Any material representing the whole or part of the earth or any celestial body at any scale. Cartographic materials include two- and three-dimensional maps and plans (including maps of imaginary places); aeronautical, navigational, and celestial charts; atlases; globes; block diagrams; sections; aerial photographs with a cartographic purpose; bird's-eye views (map views), etc. [Source: http://www.loc.gov/marc/cfmap.html]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "material cartográfico"@es,
+    "地図資料"@ja,
+    "cartografia"@it,
+    "cartographic material"@en,
+    "картографические ресурсы"@ru,
+    "kartografsko gradivo"@sl,
+    "مادة خرائطية"@ar,
+    "material cartográfico"@pt,
+    "地图类资料"@zh,
+    "kartografik malzeme "@tr,
+    "cartografisch materiaal"@nl,
+    "kartographisches Material"@de,
+    "matériel cartographique"@fr,
+    "kartografický dokument"@cs,
+    "material cartogràfic"@ca;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_18cc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:41:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:05:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "document sonore"@fr,
+    " صوت"@ar,
+    "аудиальный документ"@ru,
+    "تسجيل صوتي"@ar,
+    "geluid"@nl,
+    "фонозапись"@ru,
+    "enregistrement sonore"@fr,
+    "聲音"@zh,
+    "звукозапись"@ru,
+    "звук"@ru,
+    "zvok"@sl;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/MediaObject>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A resource primarily intended to be heard. Examples include a music playback file format, an audio compact disc, and recorded speech or sounds. [Source: http://dublincore.org/documents/dcmi-terms/#dcmitype-Sound]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "som"@pt,
+    "son"@fr,
+    "sonido"@es,
+    "zvočni zapis"@sl,
+    "Ton"@de,
+    "фонодокумент"@ru,
+    "声音"@zh,
+    "so"@ca,
+    "zvuk"@cs,
+    "音声・音楽"@ja,
+    "صوت"@ar,
+    "ses"@tr,
+    "suono"@it,
+    "sound"@en;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_18op> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T14:33:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "produto de projeto"@pt,
+    "livrable de projet"@fr,
+    "informes de projectes"@ca,
+    "resultado de projeto"@pt,
+    "memoria de proyecto"@es,
+    "risultato di progetto"@it,
+    "recensão"@pt,
+    "項目可交付成果"@zh,
+    "результаты проекта"@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_93fc>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A project deliverable is an “outcome” as a result of a project that is intended to be delivered to a customer (e.g. funder). Examples of deliverable are report, document, work package or any other building block of an overall project. [Source: https://en.wikipedia.org/wiki/Deliverable ]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "proje çıktısı"@tr,
+    " projectresultaat"@nl,
+    "livrable"@fr,
+    "project deliverable"@en,
+    "deliverable di progetto"@it,
+    "entrega de projecte"@ca,
+    "výstup projektu"@cs,
+    "результат проекта"@ru,
+    "プロジェクト報告書"@ja,
+    "Ergebnis im Projekt"@de,
+    "entregable de proyecto"@es,
+    "مشروع للتسليم"@ar,
+    "entregável de projeto"@pt,
+    "izdelek projekta"@sl,
+    "项目可交付成果"@zh .
+
+<http://purl.org/coar/resource_type/c_2f33> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:31:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "монография"@ru,
+    "圖書"@zh,
+    "monografía"@es,
+    "books"@en,
+    "сборник"@ru,
+    "書"@zh,
+    "افرودة"@ar,
+    "рукопись"@ru,
+    "сборник трудов "@ru,
+    "учебник"@ru,
+    "monografie"@cs,
+    "собрание сочинений"@ru,
+    "сборник научных трудов"@ru,
+    "图书"@zh,
+    "справочник"@ru,
+    "брошюра"@ru,
+    "учебное издание"@ru,
+    "专著"@zh,
+    "e-book"@en,
+    "Monographie"@de,
+    "monograph"@en,
+    "monografia"@it,
+    "monographie"@fr,
+    "учебное пособие "@ru,
+    "obra monografica"@es,
+    "monografia"@ca,
+    "monografia"@es,
+    "knjiga"@sl,
+    "livre"@fr,
+    "audiobook"@en,
+    "monografia"@pt,
+    "obra monográfica"@es,
+    "專著"@zh;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A non-serial publication that is complete in one volume or a designated finite number of volumes. (adapted from CiTO; EPrint Type vocabulary)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/book>,
+    <https://dictionary.casrai.org/Book>,
+    <http://purl.org/spar/fabio/Book>,
+    <http://purl.org/eprint/type/Book>,
+    <http://purl.org/ontology/bibo/Book>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "monografia"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://purl.org/ontology/bibo/Chapter>,
+    <http://purl.org/ontology/bibo/BookSection>,
+    <http://purl.org/eprint/type/BookReview>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Buch"@de,
+    "书"@zh,
+    "ouvrage"@fr,
+    "كتاب"@ar,
+    "monografija"@sl,
+    "livro"@pt,
+    "kitap"@tr,
+    "libro"@it,
+    "kniha"@cs,
+    "book"@en,
+    "libro"@es,
+    "llibre"@ca,
+    "図書"@ja,
+    "книга"@ru,
+    "boek"@nl;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://schema.org/Book> .
+
+<http://purl.org/coar/resource_type/c_2fe3> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2018-05-06T16:58:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:56:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "diario"@es,
+    "časnik"@sl,
+    "многотиражка"@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_2659>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A newspaper is a printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, articles, advertisements, and correspondence. (Adapted from oxforddictionaries)"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Newspaper>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "journal"@fr,
+    "diari"@ca,
+    "газета"@ru,
+    "časopis"@sl,
+    "newspaper"@en,
+    "新聞"@ja,
+    "giornale"@it,
+    "krant"@nl,
+    "Zeitung"@de,
+    "Gazete"@tr,
+    "periódico"@es .
+
+<http://purl.org/coar/resource_type/c_5ce6> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:08:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "développement informatique"@fr,
+    "软体"@zh,
+    "programma informatico"@it,
+    "документация программного продукта"@ru,
+    "軟體"@zh,
+    "программа"@ru,
+    "программные средства"@ru,
+    "軟件"@zh,
+    "programa informático"@pt,
+    "программная документация"@ru,
+    "programa informàtic"@ca,
+    "programa informático"@es,
+    "programme informatique"@fr,
+    "программные продукты"@ru,
+    "počítačový program"@cs,
+    "برنامج كمبيوتر"@ar,
+    "programa de computador"@pt,
+    "programa informatico"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/SoftwareApplication>,
+    <http://id.loc.gov/vocabulary/contentTypes/cop>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A computer program in source code (text) or compiled form."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/dcmitype/Software>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "programas informaticos"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "برنامج حاسوب"@ar,
+    "programska oprema"@sl,
+    "software"@es,
+    "software"@pt,
+    "software"@it,
+    "software"@nl,
+    "软件"@zh,
+    "программное обеспечение "@ru,
+    "programari"@ca,
+    "software"@en,
+    "yazılım"@tr,
+    "Software"@de,
+    "logiciel"@fr,
+    "ソフトウェア"@ja,
+    "software"@cs;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://dictionary.casrai.org/Computer_code>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_8a7e> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-11T23:34:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "audiovisual"@en,
+    "аудиовизуальный ресурс"@ru,
+    "imagem em movimento"@pt,
+    "аудиовизуальный документ"@ru,
+    "динамичное изображение"@ru,
+    "аудиовизуальные материалы"@ru,
+    "imagen en movimiento"@es,
+    "imagen dinamica"@es,
+    "动画"@zh,
+    "سمعي بصري"@ar,
+    "動畫"@zh,
+    "運動圖像"@zh,
+    "аудиовизуальные ресурсы"@ru,
+    "динамическое изображение"@ru,
+    "динамические изображения"@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_c513>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A moving display, either generated dynamically by a computer program or formed from a series of pre-recorded still images imparting an impression of motion when shown in succession. (adapted from fabio)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/dcmitype/MovingImage>,
+    <http://purl.org/spar/fabio/MovingImage>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "動画"@ja,
+    "imagen dinámica"@es,
+    "moving image"@en,
+    "движущееся изображение"@ru,
+    "hareketli görüntü"@tr,
+    "gibljiva slika"@sl,
+    "pohyblivý obraz"@cs,
+    "imatge en moviment"@ca,
+    "imagem animada"@pt,
+    "image animée"@fr,
+    "运动图像"@zh,
+    "Bewegte Bilder"@de,
+    "صورة متحركة "@ar,
+    "immagine dinamica"@it,
+    "filmmateriaal"@nl .
+
+<http://purl.org/coar/resource_type/c_ddb1> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:44:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "наборы данных"@ru,
+    "grupo de datos"@es,
+    "base de datos"@es,
+    "سلسلة بيانات"@ar,
+    "资料组"@zh,
+    "數據集"@zh,
+    "zbirka podatkov"@sl,
+    "dataset"@pt,
+    "картматериал"@ru,
+    "dades de recerca"@ca,
+    "массив данных"@ru,
+    "grup de dades"@ca,
+    "資料組"@zh,
+    "база данных"@ru,
+    "data sets"@en,
+    "dataset"@ca,
+    "série de données"@fr,
+    "base de dados"@pt;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://dictionary.casrai.org/Research_data>,
+    <https://dictionary.casrai.org/Data_publication>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A collection of related facts and data encoded in a defined structure. (adapted from fabio; DataCite)"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/dcmitype/Dataset>,
+    <https://schema.org/Dataset>,
+    <http://purl.org/spar/fabio/Dataset>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "数据集"@zh,
+    "набор данных"@ru,
+    "conjunto de dados"@pt,
+    "veri seti"@tr,
+    "podatkovna zbirka"@sl,
+    "jeu de données"@fr,
+    "Datensatz"@de,
+    "dataset"@en,
+    "dataset"@nl,
+    "データセット"@ja,
+    "مجموعة بيانات "@ar,
+    "dataset"@it,
+    "conjunt de dades"@ca,
+    "datová sada"@cs,
+    "conjunto de datos"@es;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://id.loc.gov/vocabulary/contentTypes/cod>;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_e9a0> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:42:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "交互式資源"@zh,
+    "交互式资源"@zh,
+    "recurso interactivo"@pt,
+    "interaktivni vir"@sl,
+    "интерактивный электронный документ "@ru,
+    "материалы конференций (неопубликованные)"@ru,
+    "contributo a convegno"@it,
+    "сборник статей"@ru,
+    "неопубликованные документы"@ru,
+    "互動資源"@zh,
+    "интерактивный документ"@ru;
+  <http://www.w3.org/2004/02/skos/core#definition> "A resource requiring interaction from the user to be understood, executed, or experienced. Examples include forms on Web pages, applets, multimedia learning objects, chat services, or virtual reality environments. [Source: http://dublincore.org/documents/2010/10/11/dcmi-type-vocabulary/  ]"@en;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "интерактивный ресурс"@ru,
+    "interactive resource"@en,
+    "interactieve bron"@nl,
+    "recurso interactivo"@es,
+    " مورد تفاعلي"@ar,
+    "etkileşimli kaynak"@tr,
+    "インタラクティブリソース"@ja,
+    "互动资源"@zh,
+    "recurs interactiu"@ca,
+    "ressource interactive"@fr,
+    "risorsa interattiva"@it,
+    "interaktive Ressource"@de,
+    "interaktivní zdroj"@cs,
+    "recurso interativo"@pt;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_efa0> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2018-09-10T18:43:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "评审"@zh,
+    "综述"@zh,
+    "rassegna"@it,
+    "評審"@zh,
+    "обозрение"@ru,
+    "article de synthèse"@fr,
+    "revisão"@pt,
+    "綜述"@zh,
+    "comentario"@es,
+    "critica"@es,
+    "recension"@fr,
+    "recensão crítica"@pt,
+    "comentari"@ca,
+    "recensió"@ca,
+    "resenha"@pt,
+    "recension"@es,
+    "評論"@zh,
+    "derleme"@tr,
+    "crítica"@es,
+    " критическая статья"@ru,
+    "نقد"@ar,
+    "отзыв"@ru,
+    "recensión"@es,
+    "обзор"@ru,
+    "revisió "@ca,
+    "bespreking"@nl;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A review of others' published work."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/review>,
+    <http://purl.org/spar/fabio/Review>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "critica"@es,
+    "recension"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "review"@en,
+    "recenzija"@sl,
+    " مراجعة"@ar,
+    "eleştiri"@tr,
+    "Rezension"@de,
+    "评论"@zh,
+    "ressenya "@ca,
+    "review"@nl,
+    "recenze"@cs,
+    "レビュー"@ja,
+    "recensão"@pt,
+    "reseña"@es,
+    "рецензия"@ru,
+    "synthèse"@fr,
+    "recensione"@it .
+
+<http://purl.org/coar/resource_type/c_c513> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T18:03:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "отображение"@ru,
+    "figura"@pt,
+    "неподвижное изображение"@ru,
+    "影像"@zh,
+    "воспроизведение"@ru,
+    "figura"@es,
+    "vizualna upodobitev"@sl,
+    "圖像"@zh,
+    "иконографический документ"@ru,
+    "статическое изображение"@ru,
+    "фотография "@ru,
+    "imaj"@tr,
+    "фотографическое изображение"@ru,
+    "beeldmateriaal"@nl,
+    "фотоснимок"@ru,
+    "figura"@ca,
+    "изобразительный документ"@ru,
+    "движущееся изображение"@ru,
+    "оттиск"@ru,
+    "копия"@ru,
+    "динамическое изображение"@ru,
+    "图片"@zh,
+    "образ "@ru,
+    "圖片"@zh;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/MediaObject>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A visual representation other than text, including all types of moving image and still image."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Image>,
+    <http://purl.org/ontology/bibo/Image>,
+    <http://purl.org/dc/dcmitype/Image>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://purl.org/dc/dcmitype/StillImage>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "图像"@zh,
+    "obraz"@cs,
+    "Bild"@de,
+    "image"@en,
+    "immagine"@it,
+    "image"@fr,
+    "صورة"@ar,
+    "görüntü"@tr,
+    "afbeelding"@nl,
+    "изображение "@ru,
+    "imagem"@pt,
+    "イメージ"@ja,
+    "imagen"@es,
+    "slika"@sl,
+    "imatge"@ca;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type/c_f744> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-11T22:41:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "atas de congresso"@pt,
+    "труды конференции"@ru,
+    "اوراق المؤتمر"@ar,
+    "тезисы и статьи конференции "@ru,
+    "會刊"@zh,
+    "اعمال المؤتمر"@ar,
+    "доклад на конференцию"@ru,
+    "actas de conferencia"@es,
+    "сборник конференции"@ru,
+    "actes de congrès"@fr,
+    "llibre de ponències"@ca,
+    "libro de ponencias"@es,
+    "会刊"@zh,
+    "actas de congresso"@pt,
+    "сборники докладов конференции"@ru,
+    "會議論文集"@zh,
+    "сборник статей"@ru,
+    "actas de conferência"@pt,
+    "сборник докладов "@ru;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_c94f>;
+  <http://www.w3.org/2004/02/skos/core#definition> "Conference proceedings is the official record of a conference meeting. It is a collection of documents which corresponds to the presentations given at the conference. It may include additional content. [Source: http://www.ieee.org/documents/confprocdefined.pdf  ]"@en;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Tagungsband"@de,
+    "zbornik prispevkov na konferenci"@sl,
+    "会議録"@ja,
+    "atas de conferência"@pt,
+    "konferans bildirileri"@tr,
+    "conference proceedings"@en,
+    "actes de conférence"@fr,
+    "actas de congreso"@es,
+    "atti di congresso"@it,
+    "conference proceedings"@nl,
+    "сборник материалов конференции"@ru,
+    "会议论文集"@zh,
+    " وقائع المؤتمر  "@ar,
+    "actes de congrés"@ca,
+    "sborník konference"@cs .
+
+<http://purl.org/coar/resource_type/c_2659> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "publicacion seriada"@es,
+    "časopis"@cs,
+    "fortlaufendes Sammelwerk"@de,
+    "publication périodique"@fr,
+    "периодическая пресса"@ru,
+    "publicació periòdica"@ca,
+    "pubblicazione periodica"@it,
+    "publicación seriada"@es,
+    "periódico"@pt,
+    "периодика"@ru,
+    "连续出版刊物"@zh,
+    "publicacion periodica"@es,
+    "連續出版刊物"@zh,
+    "seriale"@it,
+    "publication en série"@fr,
+    "publicação seriada"@pt,
+    "publicação em série"@pt,
+    "периодический журнал"@ru,
+    "定期刊物"@zh;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A periodical is a serial publication with its own distinctive title, characterized by a variety of contents and contributors, and issued at regular intervals. (Adapted from ODLIS) [Source: http://www.abc-clio.com/ODLIS/odlis_p.aspx]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/spar/fabio/Periodical>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> " دورية"@ar,
+    "serijska publikacija"@sl,
+    "periodikum"@cs,
+    "期刊"@zh,
+    "publicació en sèrie"@ca,
+    "périodique"@fr,
+    "publicación periódica"@es,
+    "Periodikum"@de,
+    "publicação periódica"@pt,
+    "逐次刊行物"@ja,
+    "süreli yayın"@tr,
+    "periodiek"@nl,
+    "периодическое издание"@ru,
+    "periodico"@it,
+    "periodical"@en .
+
+<http://purl.org/coar/resource_type/c_3e5a> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-17T21:31:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "статья для журнала"@ru,
+    "публикация "@ru,
+    "журнальная публикация "@ru,
+    "artículo de revista"@es,
+    "artículo de prensa"@es,
+    "مقال في دورية"@ar,
+    "期刊论文"@zh,
+    "статья в периодическом издании"@ru,
+    "научные статьи"@ru,
+    "articulo de prensa"@es,
+    "artículo de boletín"@es,
+    "статьи для журнала"@ru,
+    "журнальные статьи"@ru,
+    "期刊文獻"@zh,
+    "articolo in rivista"@it,
+    "articulo de revista"@es;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_0640>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A contribution to a journal denotes a work published in a journal. If applicable sub-terms should be chosen."@en;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "articulo de revista"@es,
+    "articulo de prensa"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "contributo in rivista"@it,
+    "Zeitschriftenbeitrag"@de,
+    "prispevek v reviji"@sl,
+    "contribución a revista"@es,
+    "tijdschrift bijdrage"@nl,
+    "contribució a revista"@ca,
+    "contributo em revista"@pt,
+    "вклад в журнал"@ru,
+    "学術雑誌掲載記事"@ja,
+    "příspěvek v časopisu"@cs,
+    "期刊文献"@zh,
+    "contribution à un journal"@fr,
+    " مساهمة في دورية"@ar,
+    "contribution to journal"@en .
+
+<http://purl.org/coar/resource_type/c_46ec> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:12:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "畢業論文"@zh,
+    "дипломная работа"@ru,
+    "положение"@ru,
+    "диплом"@ru,
+    "rapport de thèse"@fr,
+    "диссертация"@ru,
+    "毕业论文"@zh,
+    "mémoire de thèse"@fr,
+    "tesina"@ca,
+    "тезис"@ru,
+    "научная работа"@ru,
+    "學位論文"@zh,
+    "научный труд "@ru;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A thesis or dissertation is a document submitted in support of candidature for an academic degree or professional qualification presenting the author's research and findings. [Source: https://en.wikipedia.org/wiki/Thesis ]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/eprint/type/Thesis>,
+    <http://purl.org/spar/fabio/Thesis>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#narrowMatch> <http://purl.org/spar/fabio/BachelorsThesis>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "tez"@tr,
+    "tesis"@ca,
+    "scriptie"@nl,
+    "schriftliche Abschlussarbeit"@de,
+    "tesis"@es,
+    "zaključno delo študija"@sl,
+    " رسالة"@ar,
+    "tese"@pt,
+    "kvalifikační práce"@cs,
+    "научно-исследовательская работа"@ru,
+    "thesis"@en,
+    "tesi"@it,
+    "学位論文"@ja,
+    "thèse"@fr,
+    "学位论文"@zh .
+
+<http://purl.org/coar/resource_type/c_c94f> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-11T22:41:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "contribució a un congrés"@ca,
+    "аннотация"@ru,
+    "conferencia"@es,
+    "contribucion a congreso"@es,
+    "опубликованные материалы конференций"@ru,
+    "тезисы конференций "@ru,
+    "труды конференции"@ru,
+    "contribuição em conferência"@pt,
+    "конференционные материалы"@ru,
+    "реферат доклада"@ru,
+    "اعمال المؤتمر"@ar,
+    "presentación a una conferencia"@es,
+    "presentacion a una conferencia"@es,
+    "ponencia"@es,
+    "доклады конференции"@ru,
+    "presentacion a congreso"@es,
+    "presentación a congreso"@es,
+    "contributo em conferência"@pt,
+    "會議文檔"@zh,
+    "contribucion a una conferencia"@es,
+    "contribució a unes jornades"@ca,
+    "prispevek na konferenci"@sl,
+    "contribución a una conferencia"@es;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/ontology/bibo/Conference>,
+    <http://purl.org/dc/dcmitype/Event>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "All kind of digital resources contributed to a conference, like conference presentation (slides), conference report, conference lecture, abstracts, demonstrations. For conference papers, posters or proceedings the specific concepts should be used.."@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/#semantics/conferenceObject>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "predstavitev na konferenci"@sl,
+    "материалы конференции"@ru,
+    "documento de conferência"@pt,
+    "conference object"@en,
+    " ادوات المؤتمر  "@ar,
+    "konferenční dokument"@cs,
+    "contribució a congrés"@ca,
+    "conferentiebijdrage"@nl,
+    "konferans nesnesi"@tr,
+    "Konferenzveröffentlichung"@de,
+    "会议文档"@zh,
+    "contribution à une conférence"@fr,
+    "contribución a congreso"@es,
+    "会議発表資料"@ja,
+    "contributo a congresso"@it .
+
+<http://purl.org/coar/resource_type/c_6501> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T19:49:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "紀要論文"@ja,
+    "articolo"@it,
+    "article revisat per parells"@ca,
+    "article scientifique"@fr,
+    "статья"@ru,
+    "artículo de revista"@es,
+    "article"@ca,
+    "articulo cientifico"@es,
+    "paper"@en,
+    "публикации"@ru,
+    "журнальные публикации"@ru,
+    "文章"@zh,
+    "статья в научном журнале"@ru,
+    "журнальные статьи   "@ru,
+    "期刊论文"@zh,
+    "記事"@ja,
+    "papier"@fr,
+    "article"@en,
+    "學術論文"@zh,
+    "научная работа "@ru,
+    "article de recherche"@fr,
+    "статьи в научных журналах"@ru,
+    "научная статья"@ru,
+    "публикация"@ru,
+    "artículo científico"@es,
+    "artigo científico"@pt,
+    "論文"@zh,
+    "departmental bulletin paper"@en,
+    "期刊論文"@zh,
+    "artigo em revista"@pt,
+    "журнальная публикация"@ru,
+    "journal articles"@en,
+    "публикация данных"@ru,
+    "artículo revisado por pares"@es,
+    "article científic"@ca,
+    "articulo"@es,
+    "论文"@zh,
+    "期刊文章"@zh;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <https://schema.org/Article>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_3e5a>;
+  <http://www.w3.org/2004/02/skos/core#definition> "An article on a particular topic and published in a journal issue. (adapted from fabio) [Source: http://dspacecris.eurocris.org/cris/classcerif/classcerif00423]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/eprint/type/JournalArticle>,
+    <https://scigraph.springernature.com/things/technical-article-types/original-paper>,
+    <http://purl.org/info:eu-repo/#semantics/article>,
+    <https://dictionary.casrai.org/Journal_Article>,
+    <http://purl.org/ontology/bibo/AcademicArticle>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "articulo cientifico"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "article"@fr,
+    "artigo"@pt,
+    "članek v reviji"@sl,
+    "журнальная статья"@ru,
+    "Wissenschaftlicher Artikel"@de,
+    "学术论文"@zh,
+    "مقال في دورية "@ar,
+    "article de revista"@ca,
+    "dergi makalesi"@tr,
+    "wetenschappelijk artikel"@nl,
+    "artículo"@es,
+    "článek v odborném časopisu"@cs,
+    "学術雑誌論文"@ja,
+    "journal article"@en,
+    "articolo in rivista"@it;
+  <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/type/SubmittedJournalArticle>,
+    <http://purl.org/eprint/type/JournalItem> .
+
+<http://purl.org/coar/resource_type/c_93fc> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:02:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "relación"@es,
+    "relacion"@es,
+    "科研报告"@zh,
+    "протокол"@ru,
+    "итоговый отчёт"@ru,
+    "доклад "@ru,
+    "акт"@ru,
+    "итоговый доклад"@ru,
+    "reports"@en,
+    "отчётный доклад"@ru,
+    "estudi"@ca,
+    "報告"@zh,
+    "реферат "@ru,
+    "итоговый документ"@ru,
+    "отчёты о НИОКР"@ru,
+    "report"@it,
+    "研究报告"@zh,
+    "rapporto"@it,
+    "отчёты о НИР"@ru,
+    "memoria"@es,
+    "调研报告"@zh,
+    "reporte"@es,
+    "estudio"@es,
+    "paper"@en,
+    "обзорный доклад"@ru,
+    "научно-технический отчёт"@ru,
+    "рапорт"@ru;
+  <http://www.w3.org/2004/02/skos/core#broadMatch> <http://purl.org/dc/dcmitype/Text>,
+    <http://purl.org/ontology/bibo/Document>;
+  <http://www.w3.org/2004/02/skos/core#broader> <http://purl.org/coar/resource_type/c_18cf>;
+  <http://www.w3.org/2004/02/skos/core#definition> "A report is a separately published record of research findings, research still in progress, policy developments and events, or other technical findings, usually bearing a report number and sometimes a grant number assigned by the funding agency. Also, an official record of the activities of a committee or corporate entity, the proceedings of a government body, or an investigation by an agency, whether published or private, usually archived or submitted to a higher authority, voluntarily or under mandate. In a more general sense, any formal account of facts or information related to a specific event or phenomenon, sometimes given at regular intervals. [Source: http://lu.com/odlis/odlis_R.cfm#report ]"@en;
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/eprint/type/Report>,
+    <http://purl.org/info:eu-repo/#semantics/report>,
+    <http://purl.org/spar/fabio/Report>,
+    <http://purl.org/ontology/bibo/Report>;
+  <http://www.w3.org/2004/02/skos/core#hiddenLabel> "relacion"@es;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "报告"@zh,
+    "rapport"@nl,
+    "zpráva"@cs,
+    "Bericht"@de,
+    " تقرير"@ar,
+    "relatório"@pt,
+    "report"@en,
+    "報告書"@ja,
+    "poročilo"@sl,
+    "отчёт"@ru,
+    "rapport"@fr,
+    "informe"@es,
+    "rapporto"@it,
+    "rapor"@tr,
+    "informe"@ca .
+
+<http://purl.org/coar/resource_type/c_18cf> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://purl.org/dc/terms/created> "2015-07-17T13:40:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://purl.org/dc/terms/modified> "2019-04-19T20:09:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+  <http://www.w3.org/2004/02/skos/core#altLabel> "текстовый документ"@ru,
+    "文档"@zh,
+    "文檔"@zh,
+    "tekst"@sl,
+    "текст"@ru,
+    "текстовые документы"@ru,
+    "текстовый файл"@ru,
+    "текстовые ресурсы"@ru,
+    "текстовые файлы"@ru,
+    "текстовый материал"@ru,
+    "текстовые материалы"@ru;
+  <http://www.w3.org/2004/02/skos/core#definition> "A resource consisting primarily of words for reading. Examples include books, letters, dissertations, poems, newspapers, articles, archives of mailing lists. Note that facsimiles or images of texts are still of the genre Text. [Source: http://dublincore.org/documents/dcmi-terms/#dcmitype-Sound]"@en;
+  <http://www.w3.org/2004/02/skos/core#editorialNote> "Published";
+  <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/dc/dcmitype/Text>;
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/resource_type>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> " نص "@ar,
+    "texte"@fr,
+    "文本"@zh,
+    "tekst"@nl,
+    "text"@cs,
+    "besedilo"@sl,
+    "text"@en,
+    "metin"@tr,
+    "テキスト"@ja,
+    "testo"@it,
+    "texto"@pt,
+    "texto"@es,
+    "Text"@de,
+    "текстовый ресурс"@ru,
+    "text"@ca;
+  <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/resource_type> .
+
+<http://purl.org/coar/resource_type> a <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
